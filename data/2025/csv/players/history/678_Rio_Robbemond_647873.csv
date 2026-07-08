@@ -1,0 +1,14 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+678,190,22,2026-02-08T13:30:00Z,True,1,Ajax,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,200,23,2026-02-14T17:45:00Z,False,18,Excelsior,1,2,False,69,0,0,0,1,0,0,0,1,0,0,0,1,45,0,0,0,0
+678,208,24,2026-02-22T15:45:00Z,True,15,Sparta Rotterdam,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,219,25,2026-03-01T15:45:00Z,False,5,FC Utrecht,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,233,26,2026-03-07T19:00:00Z,False,13,PSV,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,235,27,2026-03-15T13:30:00Z,True,9,Heracles Almelo,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,244,28,2026-03-22T15:45:00Z,False,3,FC Groningen,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,253,29,2026-04-04T17:00:00Z,True,7,Fortuna Sittard,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,262,30,2026-04-12T14:45:00Z,True,14,sc Heerenveen,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,274,31,2026-04-23T16:45:00Z,False,8,Go Ahead Eagles,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,280,32,2026-05-03T14:45:00Z,True,4,FC Twente,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,293,33,2026-05-10T14:45:00Z,False,6,Feyenoord,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+678,298,34,2026-05-17T12:30:00Z,True,11,NAC Breda,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0

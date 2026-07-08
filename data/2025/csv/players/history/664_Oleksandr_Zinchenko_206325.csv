@@ -1,0 +1,14 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+664,190,22,2026-02-08T13:30:00Z,False,2,AZ,1,1,False,14,0,0,0,0,0,0,0,0,0,0,0,1,60,213,206,12,194
+664,199,23,2026-02-14T19:00:00Z,True,7,Fortuna Sittard,4,1,False,5,0,0,0,0,0,0,0,0,0,0,0,1,60,484,277,8,269
+664,209,24,2026-02-21T20:00:00Z,True,10,N.E.C.,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,58,185,12,301,-289
+664,223,25,2026-03-01T11:15:00Z,False,12,PEC Zwolle,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,56,115,0,71,-71
+664,227,26,2026-03-07T15:30:00Z,False,3,FC Groningen,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,81,0,36,-36
+664,236,27,2026-03-14T20:00:00Z,True,15,Sparta Rotterdam,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,54,60,0,21,-21
+664,246,28,2026-03-22T13:30:00Z,False,6,Feyenoord,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,54,57,0,3,-3
+664,254,29,2026-04-04T19:00:00Z,True,4,FC Twente,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,53,55,0,2,-2
+664,267,30,2026-04-11T19:00:00Z,False,9,Heracles Almelo,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,53,54,0,2,-2
+664,276,31,2026-04-25T18:00:00Z,False,11,NAC Breda,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,53,51,0,3,-3
+664,281,32,2026-05-02T18:00:00Z,True,13,PSV,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,52,48,0,3,-3
+664,289,33,2026-05-10T14:45:00Z,True,5,FC Utrecht,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,52,47,0,0,0
+664,306,34,2026-05-17T12:30:00Z,False,14,sc Heerenveen,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,52,49,0,0,0

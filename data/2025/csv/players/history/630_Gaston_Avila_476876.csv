@@ -1,0 +1,18 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+630,161,18,2026-01-11T13:30:00Z,False,16,Telstar,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,163,19,2026-01-17T15:30:00Z,True,8,Go Ahead Eagles,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,172,20,2026-01-24T15:30:00Z,True,17,FC Volendam,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,182,21,2026-02-01T11:15:00Z,False,18,Excelsior,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,190,22,2026-02-08T13:30:00Z,False,2,AZ,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,199,23,2026-02-14T19:00:00Z,True,7,Fortuna Sittard,4,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,209,24,2026-02-21T20:00:00Z,True,10,N.E.C.,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,223,25,2026-03-01T11:15:00Z,False,12,PEC Zwolle,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,227,26,2026-03-07T15:30:00Z,False,3,FC Groningen,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,236,27,2026-03-14T20:00:00Z,True,15,Sparta Rotterdam,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,246,28,2026-03-22T13:30:00Z,False,6,Feyenoord,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,254,29,2026-04-04T19:00:00Z,True,4,FC Twente,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,267,30,2026-04-11T19:00:00Z,False,9,Heracles Almelo,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,276,31,2026-04-25T18:00:00Z,False,11,NAC Breda,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,281,32,2026-05-02T18:00:00Z,True,13,PSV,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,289,33,2026-05-10T14:45:00Z,True,5,FC Utrecht,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+630,306,34,2026-05-17T12:30:00Z,False,14,sc Heerenveen,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0

@@ -1,0 +1,5 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+686,277,31,2026-04-23T19:00:00Z,True,12,PEC Zwolle,6,1,False,9,0,0,0,0,0,0,0,0,0,0,0,1,45,0,0,0,0
+686,281,32,2026-05-02T18:00:00Z,False,1,Ajax,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+686,295,33,2026-05-10T14:45:00Z,False,8,Go Ahead Eagles,1,4,False,4,0,0,0,0,0,0,0,0,0,0,0,1,45,1,1,0,1
+686,304,34,2026-05-17T12:30:00Z,True,4,FC Twente,5,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,0,0,0

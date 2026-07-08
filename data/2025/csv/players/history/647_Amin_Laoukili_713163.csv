@@ -1,0 +1,18 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+647,157,18,2026-01-11T13:30:00Z,False,8,Go Ahead Eagles,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,167,19,2026-01-17T19:00:00Z,True,13,PSV,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,173,20,2026-01-25T13:30:00Z,False,3,FC Groningen,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,184,21,2026-02-01T13:30:00Z,False,9,Heracles Almelo,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,194,22,2026-02-07T20:00:00Z,True,15,Sparta Rotterdam,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,199,23,2026-02-14T19:00:00Z,False,1,Ajax,4,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,213,24,2026-02-20T19:00:00Z,True,18,Excelsior,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,222,25,2026-02-28T20:00:00Z,False,10,N.E.C.,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,228,26,2026-03-08T13:30:00Z,True,16,Telstar,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,238,27,2026-03-14T15:30:00Z,False,17,FC Volendam,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,247,28,2026-03-21T15:30:00Z,True,4,FC Twente,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,253,29,2026-04-04T17:00:00Z,False,2,AZ,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,266,30,2026-04-12T10:15:00Z,True,11,NAC Breda,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,279,31,2026-04-25T16:45:00Z,False,14,sc Heerenveen,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,285,32,2026-05-03T12:30:00Z,True,6,Feyenoord,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,294,33,2026-05-10T14:45:00Z,True,12,PEC Zwolle,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
+647,299,34,2026-05-17T12:30:00Z,False,5,FC Utrecht,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0

@@ -1,0 +1,14 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+668,194,22,2026-02-07T20:00:00Z,False,7,Fortuna Sittard,2,2,False,12,1,0,0,1,0,0,0,1,0,0,0,5,50,0,0,0,0
+668,205,23,2026-02-17T19:00:00Z,True,10,N.E.C.,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,2,0,2
+668,208,24,2026-02-22T15:45:00Z,False,2,AZ,3,1,False,20,0,1,0,2,0,0,0,0,0,0,0,4,50,2,0,0,0
+668,225,25,2026-02-28T15:30:00Z,False,14,sc Heerenveen,2,1,False,20,0,0,0,1,0,0,0,0,0,0,0,1,50,2,0,0,0
+668,234,26,2026-03-08T11:15:00Z,True,12,PEC Zwolle,1,1,False,27,0,0,0,1,0,0,0,0,0,0,0,1,50,2,0,0,0
+668,236,27,2026-03-14T20:00:00Z,False,1,Ajax,4,0,False,20,0,0,0,2,0,0,0,0,0,0,0,1,50,2,0,0,0
+668,251,28,2026-03-21T17:45:00Z,True,17,FC Volendam,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,0,0,0
+668,258,29,2026-04-05T14:45:00Z,False,11,NAC Breda,0,0,False,15,0,0,0,0,0,0,0,0,0,0,0,1,50,2,0,0,0
+668,270,30,2026-04-11T16:45:00Z,True,13,PSV,0,2,False,32,0,0,0,1,0,0,0,0,0,0,0,1,49,1,0,1,-1
+668,278,31,2026-04-22T18:00:00Z,False,16,Telstar,4,1,False,11,0,0,0,1,0,0,0,0,0,0,0,1,49,1,0,0,0
+668,288,32,2026-05-03T14:45:00Z,True,8,Go Ahead Eagles,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,49,1,0,0,0
+668,292,33,2026-05-10T14:45:00Z,False,4,FC Twente,4,0,False,71,0,0,0,4,0,0,0,0,0,0,0,2,49,1,0,0,0
+668,305,34,2026-05-17T12:30:00Z,True,18,Excelsior,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0,0,0,0

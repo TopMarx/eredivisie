@@ -1,0 +1,14 @@
+player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
+675,197,22,2026-02-06T19:00:00Z,True,18,Excelsior,0,2,False,35,0,0,0,0,0,0,0,0,0,0,0,1,50,6,6,0,6
+675,204,23,2026-02-14T15:30:00Z,False,9,Heracles Almelo,0,1,False,15,0,0,0,0,0,0,0,0,0,0,0,1,50,6,2,2,0
+675,215,24,2026-02-21T19:00:00Z,True,17,FC Volendam,1,0,False,63,0,0,1,0,0,0,0,0,0,0,0,2,50,19,14,1,13
+675,224,25,2026-02-27T19:00:00Z,False,16,Telstar,3,0,False,45,0,0,0,1,0,0,0,0,0,0,0,1,50,26,8,1,7
+675,232,26,2026-03-08T15:45:00Z,True,6,Feyenoord,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,23,1,5,-4
+675,240,27,2026-03-15T15:45:00Z,False,8,Go Ahead Eagles,6,0,False,22,0,0,0,3,0,0,0,0,0,0,0,1,50,20,1,3,-2
+675,250,28,2026-03-21T20:00:00Z,False,12,PEC Zwolle,2,1,False,67,0,0,0,2,0,0,0,0,0,0,0,2,50,19,0,2,-2
+675,258,29,2026-04-05T14:45:00Z,True,15,Sparta Rotterdam,0,0,False,54,0,0,0,0,0,0,0,0,0,0,0,1,50,18,0,1,-1
+675,266,30,2026-04-12T10:15:00Z,False,7,Fortuna Sittard,1,1,False,25,0,1,0,0,0,0,0,0,0,0,0,4,50,15,0,3,-3
+675,276,31,2026-04-25T18:00:00Z,True,1,Ajax,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,16,0,0,0
+675,283,32,2026-05-02T14:30:00Z,False,5,FC Utrecht,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,15,0,1,-1
+675,296,33,2026-05-11T12:30:00Z,True,14,sc Heerenveen,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,14,0,1,-1
+675,298,34,2026-05-17T12:30:00Z,False,2,AZ,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,15,0,0,0
