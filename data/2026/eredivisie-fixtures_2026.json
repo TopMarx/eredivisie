@@ -3,17 +3,112 @@
     "code": 2638883,
     "event": 1,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 1,
     "kickoff_time": "2026-08-07T18:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 15,
-    "team_a_score": null,
+    "team_a_score": 4,
     "team_h": 17,
-    "team_h_score": null,
-    "stats": []
+    "team_h_score": 0,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [
+          {
+            "value": 2,
+            "element": 101
+          },
+          {
+            "value": 1,
+            "element": 98
+          },
+          {
+            "value": 1,
+            "element": 108
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "assists",
+        "a": [
+          {
+            "value": 2,
+            "element": 94
+          },
+          {
+            "value": 1,
+            "element": 98
+          },
+          {
+            "value": 1,
+            "element": 104
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 1,
+            "element": 86
+          }
+        ],
+        "h": [
+          {
+            "value": 5,
+            "element": 363
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "bonus",
+        "a": [
+          {
+            "value": 3,
+            "element": 94
+          },
+          {
+            "value": 2,
+            "element": 98
+          },
+          {
+            "value": 1,
+            "element": 101
+          }
+        ],
+        "h": []
+      }
+    ]
   },
   {
     "code": 2638884,
