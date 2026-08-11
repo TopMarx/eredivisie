@@ -1,0 +1,240 @@
+id,name,code,iso_code_short,iso_code_long
+1,Afghanistan,1,AF,AFG
+2,Albanië,2,AL,ALB
+3,Algerije,3,DZ,DZA
+4,Andorra,4,AD,AND
+5,Angola,5,AO,AGO
+6,Anguilla,6,AI,AIA
+7,Antarctica,7,AQ,ATA
+8,Antigua en Barbuda,8,AG,ATG
+9,Argentinië,9,AR,ARG
+10,Armenië,10,AM,ARM
+11,Aruba,11,AW,ABW
+12,Australië,12,AU,AUS
+13,Oostenrijk,13,AT,AUT
+14,Azerbeidzjan,14,AZ,AZE
+15,Bahama's - De,15,BS,BHS
+16,Bahrein,16,BH,BHR
+17,Bangladesh,17,BD,BGD
+18,Barbados,18,BB,BRB
+19,België,19,BE,BEL
+20,Belize,20,BZ,BLZ
+21,Benin,21,BJ,BEN
+22,Bermuda,22,BM,BMU
+23,Bhutan,23,BT,BTN
+24,Bolivia,24,BO,BOL
+25,Bosnië en Herzegovina,25,BA,BIH
+26,Botswana,26,BW,BWA
+27,Brazilië,27,BR,BRA
+28,Brunei,28,BN,BRN
+29,Bulgarije,29,BG,BGR
+30,Burkina Faso,30,BF,BFA
+31,Burundi,31,BI,BDI
+32,Kaapverdië,32,CV,CPV
+33,Cambodja,33,KH,KHM
+34,Kameroen,34,CM,CMR
+35,Canada,35,CA,CAN
+36,Kaaiman eilanden,36,KY,CYM
+37,Centraal-Afrikaanse Republiek,37,CF,CAF
+38,Tsjaad,38,TD,TCD
+39,Chili,39,CL,CHL
+40,China,40,CN,CHN
+41,Christmaseiland,41,CX,CXR
+42,Cocoseilanden (Keelingeilanden),42,CC,CCK
+43,Colombia,43,CO,COL
+44,Comoren,44,KM,COM
+45,Congo - Republiek Congo,45,CG,COG
+46,Congo - Democratische Republiek Congo,46,CD,COD
+47,Cook Eilanden,47,CK,COK
+48,Costa Rica,48,CR,CRI
+49,Ivoorkust,49,CI,CIV
+50,Kroatië,50,HR,HRV
+51,Cuba,51,CU,CUB
+52,Cyprus,52,CY,CYP
+53,Tsjechië,53,CZ,CZE
+54,Denemarken,54,DK,DNK
+55,Djibouti,55,DJ,DJI
+56,Dominica,56,DM,DMA
+57,Dominicaanse Republiek,57,DO,DOM
+58,Ecuador,58,EC,ECU
+59,Egypte,59,EG,EGY
+60,El Salvador,60,SV,SLV
+61,Equatoriaal-Guinea,61,GQ,GNQ
+62,Eritrea,62,ER,ERI
+63,Estland,63,EE,EST
+64,Ethiopië,64,ET,ETH
+65,Falkland Eilanden (Malvinas),65,FK,FLK
+66,Faeröer,66,FO,FRO
+67,Fiji,67,FJ,FJI
+68,Finland,68,FI,FIN
+69,Frankrijk,69,FR,FRA
+70,Frans-Guyana,70,GF,GUF
+71,Frans-Polynesië,71,PF,PYF
+72,Franse Zuidelijke Gebieden,72,TF,ATF
+73,Gabon,73,GA,GAB
+74,Gambia - De,74,GM,GMB
+75,Georgië,75,GE,GEO
+76,Duitsland,76,DE,DEU
+77,Ghana,77,GH,GHA
+78,Gibraltar,78,GI,GIB
+79,Griekenland,79,GR,GRC
+80,Groenland,80,GL,GRL
+81,Grenada,81,GD,GRD
+82,Guadeloupe,82,GP,GLP
+83,Guam,83,GU,GUM
+84,Guatemala,84,GT,GTM
+85,Guernsey,85,GG,GGY
+86,Guinee,86,GN,GIN
+87,Guinee-Bissau,87,GW,GNB
+88,Guyana,88,GY,GUY
+89,Haïti,89,HT,HTI
+90,Heard en McDonaldeilanden,90,HM,HMD
+91,Vaticaanstad,91,VA,VAT
+92,Honduras,92,HN,HND
+93,Hongkong,93,HK,HKG
+94,Hongarije,94,HU,HUN
+95,IJsland,95,IS,ISL
+96,India,96,IN,IND
+97,Indonesië,97,ID,IDN
+98,Iran,98,IR,IRN
+99,Irak,99,IQ,IRQ
+100,Ierland,100,IE,IRL
+101,Isle of Man,101,IM,IMN
+102,Italië,102,IT,ITA
+103,Jamaica,103,JM,JAM
+104,Japan,104,JP,JPN
+105,Jersey,105,JE,JEY
+106,Jordanië,106,JO,JOR
+107,Kazachstan,107,KZ,KAZ
+108,Kenia,108,KE,KEN
+109,Kiribati,109,KI,KIR
+110,Kosovo,110,KO,KOS
+111,Koeweit,111,KW,KWT
+112,Kirgizië,112,KG,KGZ
+113,Laos,113,LA,LAO
+114,Letland,114,LV,LVA
+115,Libanon,115,LB,LBN
+116,Lesotho,116,LS,LSO
+117,Liberia,117,LR,LBR
+118,Libië,118,LY,LBY
+119,Liechtenstein,119,LI,LIE
+120,Litouwen,120,LT,LTU
+121,Luxemburg,121,LU,LUX
+122,Macau,122,MO,MAC
+123,Madagaskar,123,MG,MDG
+124,Malawi,124,MW,MWI
+125,Maleisië,125,MY,MYS
+126,Maldiven,126,MV,MDV
+127,Mali,127,ML,MLI
+128,Malta,128,MT,MLT
+129,Marshalleilanden,129,MH,MHL
+130,Martinique,130,MQ,MTQ
+131,Mauritanië,131,MR,MRT
+132,Mauritius,132,MU,MUS
+133,Mayotte,133,YT,MYT
+134,Mexico,134,MX,MEX
+135,Micronesië,135,FM,FSM
+136,Moldavië,136,MD,MDA
+137,Monaco,137,MC,MCO
+138,Mongolië,138,MN,MNG
+139,Montenegro,139,ME,MNE
+140,Montserrat,140,MS,MSR
+141,Marokko,141,MA,MAR
+142,Mozambique,142,MZ,MOZ
+143,Myanmar,143,MM,MMR
+144,Namibië,144,NA,NAM
+145,Nauru,145,NR,NRU
+146,Nepal,146,NP,NPL
+147,Nederland,147,NL,NLD
+148,Nederlandse Antillen,148,AN,ANT
+149,Nieuw-Caledonië,149,NC,NCL
+150,Nieuw-Zeeland,150,NZ,NZL
+151,Nicaragua,151,NI,NIC
+152,Niger,152,NE,NER
+153,Nigeria,153,NG,NGA
+154,Niue,154,NU,NIU
+155,Norfolkeiland,155,NF,NFK
+156,Noord-Korea,156,KP,PRK
+157,Noord-Macedonië,157,MK,MKD
+158,Noordelijke Marianen,158,MP,MNP
+159,Noorwegen,159,NO,NOR
+160,Oman,160,OM,OMN
+161,Pakistan,161,PK,PAK
+162,Palau,162,PW,PLW
+163,Palestijnse Gebieden,163,PS,PSE
+164,Panama,164,PA,PAN
+165,Papoea-Nieuw-Guinea,165,PG,PNG
+166,Paraguay,166,PY,PRY
+167,Peru,167,PE,PER
+168,Filipijnen,168,PH,PHL
+169,Pitcairneilanden,169,PN,PCN
+170,Polen,170,PL,POL
+171,Portugal,171,PT,PRT
+172,Puerto Rico,172,PR,PRI
+173,Qatar,173,QA,QAT
+174,Réunion,174,RE,REU
+175,Roemenië,175,RO,ROU
+176,Rwanda,176,RW,RWA
+177,Sint-Helena,177,SH,SHN
+178,Saint Kitts en Nevis,178,KN,KNA
+179,Saint Lucia,179,LC,LCA
+180,Saint-Pierre en Miquelon,180,PM,SPM
+181,Saint Vincent en de Grenadines,181,VC,VCT
+182,Samoa,182,WS,WSM
+183,San Marino,183,SM,SMR
+184,Sao Tomé en Principe,184,ST,STP
+185,Saoedi-Arabië,185,SA,SAU
+186,Senegal,186,SN,SEN
+187,Servië,187,RS,SRB
+188,Seychellen,188,SC,SYC
+189,Sierra Leone,189,SL,SLE
+190,Singapore,190,SG,SGP
+191,Slowakije,191,SK,SVK
+192,Slovenië,192,SI,SVN
+193,Salomonseilanden,193,SB,SLB
+194,Somalië,194,SO,SOM
+195,Zuid-Afrika,195,ZA,ZAF
+196,Zuid-Georgië en de Zuidelijke Sandwicheilanden,196,GS,SGS
+197,Zuid-Korea,197,KR,KOR
+198,Zuid-Soedan,198,SS,SSD
+199,Spanje,199,ES,ESP
+200,Sri Lanka,200,LK,LKA
+201,Soedan,201,SD,SDN
+202,Suriname,202,SR,SUR
+203,Spitsbergen en Jan Mayen,203,SJ,SJM
+204,Swaziland,204,SZ,SWZ
+205,Zweden,205,SE,SWE
+206,Zwitserland,206,CH,CHE
+207,Syrië,207,SY,SYR
+208,Taiwan,208,TW,TWN
+209,Tadzjikistan,209,TJ,TJK
+210,Tanzania,210,TZ,TZA
+211,Thailand,211,TH,THA
+212,Oost-Timor,212,TL,TLS
+213,Togo,213,TG,TGO
+214,Tokelau,214,TK,TKL
+215,Tonga,215,TO,TON
+216,Trinidad en Tobago,216,TT,TTO
+217,Tunesië,217,TN,TUN
+218,Turkije,218,TR,TUR
+219,Turkmenistan,219,TM,TKM
+220,Turks- en Caicoseilanden,220,TC,TCA
+221,Tuvalu,221,TV,TUV
+222,Oeganda,222,UG,UGA
+223,Oekraïne,223,UA,UKR
+224,Verenigde Arabische Emiraten,224,AE,ARE
+225,Verenigd Koninkrijk,225,GB,GBR
+226,Kleine afgelegen eilanden van de Verenigde Staten,226,UM,UMI
+227,Uruguay,227,UY,URY
+228,Verenigde Staten,228,US,USA
+229,Oezbekistan,229,UZ,UZB
+230,Vanuatu,230,VU,VUT
+231,Venezuela,231,VE,VEN
+232,Vietnam,232,VN,VNM
+233,Britse Maagdeneilanden,233,VG,VGB
+234,Amerikaanse Maagdeneilanden,234,VI,VIR
+235,Wallis en Futuna,235,WF,WLF
+236,Westelijke Sahara,236,EH,ESH
+237,Jemen,237,YE,YEM
+238,Zambia,238,ZM,ZMB
+239,Zimbabwe,239,ZW,ZWE
