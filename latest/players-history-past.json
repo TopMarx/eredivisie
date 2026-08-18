@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-08-11T03:38:05.150016+00:00",
+  "generated_at": "2026-08-18T02:57:54.294165+00:00",
   "players": [
     {
       "player_id": 219,
@@ -1143,36 +1143,6 @@
       ]
     },
     {
-      "player_id": 167,
-      "opta_id": 120043,
-      "first_name": "Michael",
-      "second_name": "Brouwer",
-      "web_name": "Brouwer",
-      "known_name": "",
-      "position": "GK",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 120043,
-          "start_cost": 45,
-          "end_cost": 43,
-          "total_points": 3,
-          "minutes": 135,
-          "goals_scored": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "goals_conceded": 3,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "saves": 4,
-          "own_goals": 0,
-          "bonus": 0
-        }
-      ]
-    },
-    {
       "player_id": 449,
       "opta_id": 501776,
       "first_name": "Patrick",
@@ -1199,6 +1169,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 11
+        }
+      ]
+    },
+    {
+      "player_id": 167,
+      "opta_id": 120043,
+      "first_name": "Michael",
+      "second_name": "Brouwer",
+      "web_name": "Brouwer",
+      "known_name": "",
+      "position": "GK",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 120043,
+          "start_cost": 45,
+          "end_cost": 43,
+          "total_points": 3,
+          "minutes": 135,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 3,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 4,
+          "own_goals": 0,
+          "bonus": 0
         }
       ]
     },
@@ -2133,36 +2133,6 @@
       ]
     },
     {
-      "player_id": 44,
-      "opta_id": 493014,
-      "first_name": "Oliver",
-      "second_name": "Edvardsen",
-      "web_name": "Edvardsen",
-      "known_name": "",
-      "position": "MID",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 493014,
-          "start_cost": 75,
-          "end_cost": 72,
-          "total_points": 25,
-          "minutes": 630,
-          "goals_scored": 0,
-          "assists": 2,
-          "clean_sheets": 0,
-          "goals_conceded": 14,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 3,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 0
-        }
-      ]
-    },
-    {
       "player_id": 281,
       "opta_id": 477408,
       "first_name": "Victor",
@@ -2189,6 +2159,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 9
+        }
+      ]
+    },
+    {
+      "player_id": 44,
+      "opta_id": 493014,
+      "first_name": "Oliver",
+      "second_name": "Edvardsen",
+      "web_name": "Edvardsen",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 493014,
+          "start_cost": 75,
+          "end_cost": 72,
+          "total_points": 25,
+          "minutes": 630,
+          "goals_scored": 0,
+          "assists": 2,
+          "clean_sheets": 0,
+          "goals_conceded": 14,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 3,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
         }
       ]
     },
@@ -3783,36 +3783,6 @@
       ]
     },
     {
-      "player_id": 23,
-      "opta_id": 615379,
-      "first_name": "Dies",
-      "second_name": "Janse",
-      "web_name": "Janse",
-      "known_name": "",
-      "position": "DEF",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 615379,
-          "start_cost": 45,
-          "end_cost": 49,
-          "total_points": 118,
-          "minutes": 2724,
-          "goals_scored": 2,
-          "assists": 2,
-          "clean_sheets": 10,
-          "goals_conceded": 36,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 6,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 17
-        }
-      ]
-    },
-    {
       "player_id": 111,
       "opta_id": 497264,
       "first_name": "Rijk",
@@ -3839,6 +3809,36 @@
           "saves": 3,
           "own_goals": 0,
           "bonus": 0
+        }
+      ]
+    },
+    {
+      "player_id": 23,
+      "opta_id": 615379,
+      "first_name": "Dies",
+      "second_name": "Janse",
+      "web_name": "Janse",
+      "known_name": "",
+      "position": "DEF",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 615379,
+          "start_cost": 45,
+          "end_cost": 49,
+          "total_points": 118,
+          "minutes": 2724,
+          "goals_scored": 2,
+          "assists": 2,
+          "clean_sheets": 10,
+          "goals_conceded": 36,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 6,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 17
         }
       ]
     },
@@ -10413,36 +10413,6 @@
       ]
     },
     {
-      "player_id": 130,
-      "opta_id": 434030,
-      "first_name": "Brynjólfur",
-      "second_name": "Willumsson",
-      "web_name": "Willumsson",
-      "known_name": "",
-      "position": "FWD",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 434030,
-          "start_cost": 50,
-          "end_cost": 45,
-          "total_points": 75,
-          "minutes": 1201,
-          "goals_scored": 6,
-          "assists": 2,
-          "clean_sheets": 4,
-          "goals_conceded": 20,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 2,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 9
-        }
-      ]
-    },
-    {
       "player_id": 305,
       "opta_id": 422078,
       "first_name": "Willum",
@@ -10469,6 +10439,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 0
+        }
+      ]
+    },
+    {
+      "player_id": 130,
+      "opta_id": 434030,
+      "first_name": "Brynjólfur",
+      "second_name": "Willumsson",
+      "web_name": "Willumsson",
+      "known_name": "",
+      "position": "FWD",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 434030,
+          "start_cost": 50,
+          "end_cost": 45,
+          "total_points": 75,
+          "minutes": 1201,
+          "goals_scored": 6,
+          "assists": 2,
+          "clean_sheets": 4,
+          "goals_conceded": 20,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 2,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 9
         }
       ]
     },
@@ -10953,36 +10953,6 @@
       ]
     },
     {
-      "player_id": 186,
-      "opta_id": 204651,
-      "first_name": "Dani",
-      "second_name": "de Wit",
-      "web_name": "D. De Wit",
-      "known_name": "",
-      "position": "MID",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 204651,
-          "start_cost": 65,
-          "end_cost": 64,
-          "total_points": 110,
-          "minutes": 2144,
-          "goals_scored": 7,
-          "assists": 4,
-          "clean_sheets": 7,
-          "goals_conceded": 26,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 7,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 12
-        }
-      ]
-    },
-    {
       "player_id": 61,
       "opta_id": 431637,
       "first_name": "Mees",
@@ -11009,6 +10979,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 5
+        }
+      ]
+    },
+    {
+      "player_id": 186,
+      "opta_id": 204651,
+      "first_name": "Dani",
+      "second_name": "de Wit",
+      "web_name": "D. De Wit",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 204651,
+          "start_cost": 65,
+          "end_cost": 64,
+          "total_points": 110,
+          "minutes": 2144,
+          "goals_scored": 7,
+          "assists": 4,
+          "clean_sheets": 7,
+          "goals_conceded": 26,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 7,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 12
         }
       ]
     },
@@ -11073,36 +11073,6 @@
       ]
     },
     {
-      "player_id": 424,
-      "opta_id": 220600,
-      "first_name": "Mitchell",
-      "second_name": "van Bergen",
-      "web_name": "Van Bergen",
-      "known_name": "",
-      "position": "MID",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 220600,
-          "start_cost": 60,
-          "end_cost": 59,
-          "total_points": 103,
-          "minutes": 2390,
-          "goals_scored": 3,
-          "assists": 5,
-          "clean_sheets": 10,
-          "goals_conceded": 39,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 1,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 8
-        }
-      ]
-    },
-    {
       "player_id": 129,
       "opta_id": 597363,
       "first_name": "Thom",
@@ -11129,6 +11099,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 7
+        }
+      ]
+    },
+    {
+      "player_id": 424,
+      "opta_id": 220600,
+      "first_name": "Mitchell",
+      "second_name": "van Bergen",
+      "web_name": "Van Bergen",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 220600,
+          "start_cost": 60,
+          "end_cost": 59,
+          "total_points": 103,
+          "minutes": 2390,
+          "goals_scored": 3,
+          "assists": 5,
+          "clean_sheets": 10,
+          "goals_conceded": 39,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 1,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 8
         }
       ]
     },

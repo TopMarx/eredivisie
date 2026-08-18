@@ -10,14 +10,25 @@ gw,1,8,98,582592,Irakli Yegoian,MID,13,False
 gw,1,9,71,550228,Ro-Zangelo Daal,MID,11,False
 gw,1,10,130,434030,Brynjólfur Willumsson,FWD,9,False
 gw,1,11,129,597363,Thom van Bergen,FWD,9,False
-season,,1,385,578503,Bernt Klaverboer,GK,8,False
-season,,2,94,463214,Simon Janssen,DEF,15,True
-season,,3,388,233375,Sam Kersten,DEF,9,False
-season,,4,26,477625,Lucas Rosa,DEF,9,False
-season,,5,101,494959,Noah Naujoks,MID,14,False
-season,,6,280,246074,Melle Meulensteen,MID,13,False
-season,,7,449,501776,Patrick Brouwer,MID,13,False
-season,,8,98,582592,Irakli Yegoian,MID,13,False
-season,,9,71,550228,Ro-Zangelo Daal,MID,11,False
-season,,10,130,434030,Brynjólfur Willumsson,FWD,9,False
-season,,11,129,597363,Thom van Bergen,FWD,9,False
+gw,2,1,109,216139,Etienne Vaessen,GK,6,False
+gw,2,2,413,609883,Marvin Young,DEF,10,False
+gw,2,3,292,568125,Deveron Fonville,DEF,8,False
+gw,2,4,63,646065,Mateo Chávez,DEF,8,False
+gw,2,5,160,511167,Daan Rots,MID,13,True
+gw,2,6,299,55882,Tjaronn Chery,MID,13,False
+gw,2,7,190,573060,Rafik El Arguioui,MID,10,False
+gw,2,8,66,219262,Peer Koopmeiners,MID,10,False
+gw,2,9,432,482550,Nökkvi Thórisson,FWD,12,False
+gw,2,10,129,597363,Thom van Bergen,FWD,12,False
+gw,2,11,237,451341,Ayase Ueda,FWD,11,False
+season,,1,109,216139,Etienne Vaessen,GK,11,False
+season,,2,388,233375,Sam Kersten,DEF,16,False
+season,,3,94,463214,Simon Janssen,DEF,16,False
+season,,4,63,646065,Mateo Chávez,DEF,16,False
+season,,5,98,582592,Irakli Yegoian,MID,18,False
+season,,6,234,597036,Gjivai Zechiël,MID,17,False
+season,,7,275,486465,Søren Tengstedt,MID,16,False
+season,,8,449,501776,Patrick Brouwer,MID,15,False
+season,,9,299,55882,Tjaronn Chery,MID,15,False
+season,,10,129,597363,Thom van Bergen,FWD,21,True
+season,,11,130,434030,Brynjólfur Willumsson,FWD,16,False
