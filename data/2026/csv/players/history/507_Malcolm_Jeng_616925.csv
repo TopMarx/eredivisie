@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 507,6,1,2026-08-09T12:30:00Z,True,5,FC Utrecht,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,80,0,0,0
 507,15,2,2026-08-16T10:15:00Z,False,16,ADO Den Haag,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,61,1,25,-24
+507,24,3,2026-08-23T12:30:00Z,False,11,PSV,5,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,47,0,10,-10

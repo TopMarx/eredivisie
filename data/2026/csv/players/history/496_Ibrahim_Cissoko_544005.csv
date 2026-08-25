@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 496,7,1,2026-08-09T12:30:00Z,True,1,Ajax,0,2,False,59,0,0,0,0,0,0,0,0,0,0,0,1,55,992,0,0,0
 496,17,2,2026-08-16T12:30:00Z,False,4,FC Twente,3,1,False,24,0,0,0,1,0,0,0,0,0,0,0,1,55,1134,114,49,65
+496,22,3,2026-08-22T19:00:00Z,False,12,sc Heerenveen,0,2,False,17,0,0,0,0,0,0,0,0,0,0,0,1,55,941,24,112,-88

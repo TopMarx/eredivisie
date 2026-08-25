@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 24,
-      "code": 2638906,
-      "team_h": 11,
-      "team_h_score": null,
-      "team_a": 3,
-      "team_a_score": null,
-      "event": 3,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-08-23T12:30:00Z",
-      "event_name": "Speelronde 3",
-      "is_home": true
-    },
-    {
       "id": 30,
       "code": 2638914,
       "team_h": 5,
@@ -539,6 +524,35 @@
       "selected": 1987,
       "transfers_in": 178,
       "transfers_out": 64
+    },
+    {
+      "element": 340,
+      "fixture": 24,
+      "opponent_team": 3,
+      "total_points": 9,
+      "was_home": true,
+      "kickoff_time": "2026-08-23T12:30:00Z",
+      "team_h_score": 5,
+      "team_a_score": 1,
+      "round": 3,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 1,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "bonus": 1,
+      "value": 65,
+      "transfers_balance": 1372,
+      "selected": 7054,
+      "transfers_in": 1455,
+      "transfers_out": 83
     }
   ],
   "history_past": [

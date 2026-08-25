@@ -21,14 +21,25 @@ gw,2,8,66,219262,Peer Koopmeiners,MID,10,False
 gw,2,9,432,482550,Nökkvi Thórisson,FWD,12,False
 gw,2,10,129,597363,Thom van Bergen,FWD,12,False
 gw,2,11,237,451341,Ayase Ueda,FWD,11,False
-season,,1,109,216139,Etienne Vaessen,GK,11,False
-season,,2,388,233375,Sam Kersten,DEF,16,False
-season,,3,94,463214,Simon Janssen,DEF,16,False
-season,,4,63,646065,Mateo Chávez,DEF,16,False
-season,,5,98,582592,Irakli Yegoian,MID,18,False
-season,,6,234,597036,Gjivai Zechiël,MID,17,False
-season,,7,275,486465,Søren Tengstedt,MID,16,False
-season,,8,449,501776,Patrick Brouwer,MID,15,False
-season,,9,299,55882,Tjaronn Chery,MID,15,False
-season,,10,129,597363,Thom van Bergen,FWD,21,True
-season,,11,130,434030,Brynjólfur Willumsson,FWD,16,False
+gw,3,1,313,219250,Jasper Schendelaar,GK,9,False
+gw,3,2,321,59836,Nick Viergever,DEF,15,True
+gw,3,3,419,630606,Nick Verschuren,DEF,10,False
+gw,3,4,340,250676,Sergiño Dest,DEF,9,False
+gw,3,5,234,597036,Gjivai Zechiël,MID,15,False
+gw,3,6,351,45034,Ivan Perisic,MID,15,False
+gw,3,7,190,573060,Rafik El Arguioui,MID,14,False
+gw,3,8,275,486465,Søren Tengstedt,MID,13,False
+gw,3,9,347,577717,Ruben van Bommel,MID,12,False
+gw,3,10,84,441441,Jizz Hornkamp,FWD,12,False
+gw,3,11,281,477408,Victor Edvardsen,FWD,8,False
+season,,1,313,219250,Jasper Schendelaar,GK,15,False
+season,,2,63,646065,Mateo Chávez,DEF,22,False
+season,,3,413,609883,Marvin Young,DEF,19,False
+season,,4,321,59836,Nick Viergever,DEF,17,False
+season,,5,234,597036,Gjivai Zechiël,MID,32,True
+season,,6,275,486465,Søren Tengstedt,MID,29,False
+season,,7,190,573060,Rafik El Arguioui,MID,26,False
+season,,8,351,45034,Ivan Perisic,MID,24,False
+season,,9,347,577717,Ruben van Bommel,MID,22,False
+season,,10,129,597363,Thom van Bergen,FWD,26,False
+season,,11,130,434030,Brynjólfur Willumsson,FWD,23,False

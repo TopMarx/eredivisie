@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-08-18T02:57:54.294165+00:00",
+  "generated_at": "2026-08-25T03:01:07.378854+00:00",
   "players": [
     {
       "player_id": 219,
@@ -3022,6 +3022,36 @@
           "assists": 0,
           "clean_sheets": 0,
           "goals_conceded": 1,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
+        }
+      ]
+    },
+    {
+      "player_id": 543,
+      "opta_id": 434384,
+      "first_name": "Rodrigo",
+      "second_name": "Guth",
+      "web_name": "Guth",
+      "known_name": "Rodrigo Guth",
+      "position": "DEF",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 434384,
+          "start_cost": 50,
+          "end_cost": 50,
+          "total_points": 0,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
           "penalties_saved": 0,
           "penalties_missed": 0,
           "yellow_cards": 0,

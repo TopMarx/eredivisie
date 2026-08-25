@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 202,8,1,2026-08-09T10:15:00Z,False,13,Sparta Rotterdam,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,2286,0,0,0
 202,18,2,2026-08-16T12:30:00Z,True,8,Go Ahead Eagles,2,2,False,63,0,0,0,1,0,0,0,0,0,0,0,2,60,2003,4,307,-303
+202,25,3,2026-08-23T14:45:00Z,False,17,SC Cambuur,2,5,False,66,0,0,1,0,0,0,0,0,0,0,0,6,60,2108,96,107,-11

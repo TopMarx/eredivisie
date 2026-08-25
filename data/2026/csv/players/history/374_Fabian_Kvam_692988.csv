@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 374,1,1,2026-08-07T18:00:00Z,True,15,Excelsior,0,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,34,0,0,0
 374,13,2,2026-08-15T19:00:00Z,False,7,Fortuna Sittard,3,1,False,14,0,0,0,1,0,0,0,0,0,0,0,1,50,32,0,3,-3
+374,25,3,2026-08-23T14:45:00Z,True,6,Feyenoord,2,5,False,28,0,0,0,1,0,0,0,0,0,0,0,1,49,30,0,3,-3
