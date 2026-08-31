@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 30,
-      "code": 2638914,
-      "team_h": 5,
-      "team_h_score": null,
-      "team_a": 11,
-      "team_a_score": null,
-      "event": 4,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-08-30T10:15:00Z",
-      "event_name": "Speelronde 4",
-      "is_home": false
-    },
-    {
       "id": 36,
       "code": 2638922,
       "team_h": 1,
@@ -553,6 +538,35 @@
       "selected": 3184,
       "transfers_in": 42,
       "transfers_out": 677
+    },
+    {
+      "element": 360,
+      "fixture": 30,
+      "opponent_team": 5,
+      "total_points": 4,
+      "was_home": false,
+      "kickoff_time": "2026-08-30T10:15:00Z",
+      "team_h_score": 1,
+      "team_a_score": 6,
+      "round": 4,
+      "modified": false,
+      "minutes": 12,
+      "goals_scored": 1,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "bonus": 0,
+      "value": 108,
+      "transfers_balance": -1201,
+      "selected": 2372,
+      "transfers_in": 2,
+      "transfers_out": 1203
     }
   ],
   "history_past": [

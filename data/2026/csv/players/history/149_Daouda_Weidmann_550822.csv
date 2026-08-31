@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 149,9,1,2026-08-09T14:45:00Z,False,12,sc Heerenveen,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,768,0,0,0
 149,17,2,2026-08-16T12:30:00Z,True,10,PEC Zwolle,3,1,False,79,1,0,0,1,0,0,0,0,0,0,2,9,50,857,87,68,19
+149,32,4,2026-08-30T18:00:00Z,False,17,SC Cambuur,1,4,False,59,0,0,0,0,0,0,0,0,0,0,0,1,50,2620,1212,114,1098

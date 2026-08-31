@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 66,2,1,2026-08-08T19:00:00Z,True,16,ADO Den Haag,2,0,False,90,0,0,1,0,0,0,0,0,0,0,0,3,65,2629,0,0,0
 66,12,2,2026-08-15T16:45:00Z,False,5,FC Utrecht,1,4,False,84,1,0,0,1,0,0,0,0,0,0,3,10,65,2993,95,105,-10
 66,19,3,2026-08-22T14:30:00Z,False,7,Fortuna Sittard,0,2,False,90,0,0,1,0,0,0,0,0,0,0,0,3,65,4814,1186,87,1099
+66,27,4,2026-08-29T16:45:00Z,True,8,Go Ahead Eagles,5,2,False,90,0,0,0,2,0,0,0,0,0,0,0,2,65,4594,357,181,176

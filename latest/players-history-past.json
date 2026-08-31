@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-08-25T03:01:07.378854+00:00",
+  "generated_at": "2026-08-31T10:22:17.304234+00:00",
   "players": [
     {
       "player_id": 219,
@@ -6243,6 +6243,36 @@
       ]
     },
     {
+      "player_id": 550,
+      "opta_id": 664246,
+      "first_name": "Khadim",
+      "second_name": "Ngom",
+      "web_name": "Ngom",
+      "known_name": "",
+      "position": "GK",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 664246,
+          "start_cost": 40,
+          "end_cost": 40,
+          "total_points": 0,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
+        }
+      ]
+    },
+    {
       "player_id": 207,
       "opta_id": 202072,
       "first_name": "Bart",
@@ -9569,6 +9599,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 20
+        }
+      ]
+    },
+    {
+      "player_id": 555,
+      "opta_id": 622034,
+      "first_name": "Fofin",
+      "second_name": "Turay",
+      "web_name": "Turay",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 622034,
+          "start_cost": 45,
+          "end_cost": 44,
+          "total_points": 0,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
         }
       ]
     },

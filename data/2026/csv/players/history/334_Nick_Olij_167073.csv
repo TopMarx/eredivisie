@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 334,5,1,2026-08-08T18:00:00Z,True,7,Fortuna Sittard,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,734,0,0,0
 334,11,2,2026-08-15T18:00:00Z,False,15,Excelsior,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,719,3,70,-67
 334,24,3,2026-08-23T12:30:00Z,True,3,FC Groningen,5,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,666,0,50,-50
+334,30,4,2026-08-30T10:15:00Z,False,5,FC Utrecht,1,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,664,0,22,-22

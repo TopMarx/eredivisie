@@ -32,14 +32,25 @@ gw,3,8,275,486465,Søren Tengstedt,MID,13,False
 gw,3,9,347,577717,Ruben van Bommel,MID,12,False
 gw,3,10,84,441441,Jizz Hornkamp,FWD,12,False
 gw,3,11,281,477408,Victor Edvardsen,FWD,8,False
-season,,1,313,219250,Jasper Schendelaar,GK,15,False
-season,,2,63,646065,Mateo Chávez,DEF,22,False
-season,,3,413,609883,Marvin Young,DEF,19,False
-season,,4,321,59836,Nick Viergever,DEF,17,False
-season,,5,234,597036,Gjivai Zechiël,MID,32,True
-season,,6,275,486465,Søren Tengstedt,MID,29,False
-season,,7,190,573060,Rafik El Arguioui,MID,26,False
-season,,8,351,45034,Ivan Perisic,MID,24,False
-season,,9,347,577717,Ruben van Bommel,MID,22,False
-season,,10,129,597363,Thom van Bergen,FWD,26,False
-season,,11,130,434030,Brynjólfur Willumsson,FWD,23,False
+gw,4,1,516,77318,Marc ter Stegen,GK,9,False
+gw,4,2,340,250676,Sergiño Dest,DEF,16,False
+gw,4,3,139,463005,Bart van Rooij,DEF,12,False
+gw,4,4,63,646065,Mateo Chávez,DEF,11,False
+gw,4,5,41,88935,Steven Berghuis,MID,17,True
+gw,4,6,71,550228,Ro-Zangelo Daal,MID,15,False
+gw,4,7,299,55882,Tjaronn Chery,MID,15,False
+gw,4,8,348,231765,Guus Til,MID,15,False
+gw,4,9,16,450074,Nigel Thomas,MID,13,False
+gw,4,10,258,537472,Lequincio Zeefuik,FWD,11,False
+gw,4,11,433,546601,Milan Zonneveld,FWD,9,False
+season,,1,516,77318,Marc ter Stegen,GK,20,False
+season,,2,63,646065,Mateo Chávez,DEF,33,False
+season,,3,340,250676,Sergiño Dest,DEF,31,False
+season,,4,413,609883,Marvin Young,DEF,20,False
+season,,5,234,597036,Gjivai Zechiël,MID,34,True
+season,,6,275,486465,Søren Tengstedt,MID,31,False
+season,,7,71,550228,Ro-Zangelo Daal,MID,31,False
+season,,8,299,55882,Tjaronn Chery,MID,30,False
+season,,9,347,577717,Ruben van Bommel,MID,29,False
+season,,10,129,597363,Thom van Bergen,FWD,28,False
+season,,11,130,434030,Brynjólfur Willumsson,FWD,25,False

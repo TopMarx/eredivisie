@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 14,2,1,2026-08-08T19:00:00Z,False,2,AZ,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,23,0,0,0
 14,15,2,2026-08-16T10:15:00Z,True,3,FC Groningen,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,17,0,6,-6
 14,23,3,2026-08-23T10:15:00Z,False,8,Go Ahead Eagles,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,54,14,0,3,-3
+14,31,4,2026-08-30T12:30:00Z,False,6,Feyenoord,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,54,13,0,1,-1

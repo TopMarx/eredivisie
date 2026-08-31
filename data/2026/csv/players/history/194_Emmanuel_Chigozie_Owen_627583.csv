@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 194,6,1,2026-08-09T12:30:00Z,False,3,FC Groningen,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,13,0,0,0
 194,12,2,2026-08-15T16:45:00Z,True,2,AZ,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,13,1,2,-1
 194,21,3,2026-08-22T16:45:00Z,False,13,Sparta Rotterdam,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,49,10,0,3,-3
+194,30,4,2026-08-30T10:15:00Z,True,11,PSV,1,6,False,6,0,0,0,3,0,0,0,0,0,0,0,1,49,10,1,1,0

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 28,
-      "code": 2638911,
-      "team_h": 15,
-      "team_h_score": null,
-      "team_a": 13,
-      "team_a_score": null,
-      "event": 4,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-08-29T14:30:00Z",
-      "event_name": "Speelronde 4",
-      "is_home": true
-    },
-    {
       "id": 39,
       "code": 2638923,
       "team_h": 18,
@@ -27,6 +12,21 @@
       "minutes": 0,
       "provisional_start_time": false,
       "kickoff_time": "2026-09-05T19:00:00Z",
+      "event_name": "Speelronde 5",
+      "is_home": false
+    },
+    {
+      "id": 20,
+      "code": 2638902,
+      "team_h": 9,
+      "team_h_score": null,
+      "team_a": 15,
+      "team_a_score": null,
+      "event": 5,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2026-09-08T16:45:00Z",
       "event_name": "Speelronde 5",
       "is_home": false
     },
@@ -464,20 +464,6 @@
       "kickoff_time": "2027-05-23T12:30:00Z",
       "event_name": "Speelronde 34",
       "is_home": false
-    },
-    {
-      "id": 20,
-      "code": 2638902,
-      "team_h": 9,
-      "team_h_score": null,
-      "team_a": 15,
-      "team_a_score": null,
-      "event": null,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": null,
-      "is_home": false
     }
   ],
   "history": [
@@ -538,6 +524,35 @@
       "selected": 1726,
       "transfers_in": 548,
       "transfers_out": 56
+    },
+    {
+      "element": 98,
+      "fixture": 28,
+      "opponent_team": 13,
+      "total_points": 2,
+      "was_home": true,
+      "kickoff_time": "2026-08-29T14:30:00Z",
+      "team_h_score": 2,
+      "team_a_score": 1,
+      "round": 4,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "bonus": 0,
+      "value": 61,
+      "transfers_balance": 533,
+      "selected": 4356,
+      "transfers_in": 742,
+      "transfers_out": 209
     }
   ],
   "history_past": [

@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 210,8,1,2026-08-09T10:15:00Z,False,13,Sparta Rotterdam,0,1,False,90,0,0,1,0,0,0,0,0,0,0,0,6,65,6863,0,0,0
 210,18,2,2026-08-16T12:30:00Z,True,8,Go Ahead Eagles,2,2,False,64,0,0,0,1,0,0,0,0,0,0,0,2,65,8764,562,127,435
 210,25,3,2026-08-23T14:45:00Z,False,17,SC Cambuur,2,5,False,80,0,1,0,2,0,0,0,0,0,0,0,4,65,7929,399,909,-510
+210,31,4,2026-08-30T12:30:00Z,True,16,ADO Den Haag,2,2,False,90,0,0,0,2,0,0,0,0,0,0,0,1,65,8803,472,328,144

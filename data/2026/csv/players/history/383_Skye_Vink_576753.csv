@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 383,1,1,2026-08-07T18:00:00Z,True,15,Excelsior,0,4,False,80,0,0,0,4,0,0,0,0,0,0,0,2,50,1567,0,0,0
 383,13,2,2026-08-15T19:00:00Z,False,7,Fortuna Sittard,3,1,False,75,0,0,0,2,0,0,0,0,0,0,0,2,50,1481,39,180,-141
 383,25,3,2026-08-23T14:45:00Z,True,6,Feyenoord,2,5,False,45,0,0,0,4,0,0,0,0,0,0,0,1,49,1056,24,193,-169
+383,32,4,2026-08-30T18:00:00Z,True,4,FC Twente,1,4,False,13,0,0,0,1,0,0,0,0,0,0,0,1,49,1146,33,225,-192

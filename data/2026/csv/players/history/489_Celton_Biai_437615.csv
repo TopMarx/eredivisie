@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 489,1,1,2026-08-07T18:00:00Z,False,17,SC Cambuur,0,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,39,0,0,0
 489,11,2,2026-08-15T18:00:00Z,True,11,PSV,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,39,0,2,-2
+489,28,4,2026-08-29T14:30:00Z,True,13,Sparta Rotterdam,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,37,1,1,0

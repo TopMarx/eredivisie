@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 403,9,1,2026-08-09T14:45:00Z,True,4,FC Twente,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,75,0,0,0
 403,16,2,2026-08-16T14:45:00Z,False,1,Ajax,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,84,1,2,-1
 403,22,3,2026-08-22T19:00:00Z,True,10,PEC Zwolle,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,79,0,6,-6
+403,34,4,2026-08-30T12:30:00Z,False,18,Willem II,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,79,2,3,-1

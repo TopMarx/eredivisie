@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 122,6,1,2026-08-09T12:30:00Z,True,5,FC Utrecht,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,62,0,0,0
 122,15,2,2026-08-16T10:15:00Z,False,16,ADO Den Haag,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,63,1,10,-9
 122,24,3,2026-08-23T12:30:00Z,False,11,PSV,5,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,72,10,6,4
+122,26,4,2026-08-28T18:00:00Z,True,7,Fortuna Sittard,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,77,10,5,5
