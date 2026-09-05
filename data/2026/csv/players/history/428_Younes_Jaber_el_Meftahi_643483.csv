@@ -3,3 +3,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 428,10,2,2026-08-14T18:00:00Z,False,14,Telstar,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,46,2,0,2
 428,21,3,2026-08-22T16:45:00Z,True,5,FC Utrecht,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,44,1,4,-3
 428,28,4,2026-08-29T14:30:00Z,False,15,Excelsior,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,41,0,4,-4
+428,35,5,2026-09-04T18:00:00Z,True,10,PEC Zwolle,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,34,1,7,-6

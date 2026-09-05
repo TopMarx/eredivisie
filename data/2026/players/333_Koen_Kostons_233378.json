@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 35,
-      "code": 2638919,
-      "team_h": 13,
-      "team_h_score": null,
-      "team_a": 10,
-      "team_a_score": null,
-      "event": 5,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-09-04T18:00:00Z",
-      "event_name": "Speelronde 5",
-      "is_home": false
-    },
-    {
       "id": 51,
       "code": 2638936,
       "team_h": 10,
@@ -567,6 +552,35 @@
       "selected": 4460,
       "transfers_in": 83,
       "transfers_out": 339
+    },
+    {
+      "element": 333,
+      "fixture": 35,
+      "opponent_team": 13,
+      "total_points": 8,
+      "was_home": false,
+      "kickoff_time": "2026-09-04T18:00:00Z",
+      "team_h_score": 2,
+      "team_a_score": 2,
+      "round": 5,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 1,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 2,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "bonus": 2,
+      "value": 70,
+      "transfers_balance": -223,
+      "selected": 4171,
+      "transfers_in": 150,
+      "transfers_out": 373
     }
   ],
   "history_past": [

@@ -2,7 +2,7 @@
   "team_opta_id": 215,
   "team_name": "Ajax",
   "season": 2026,
-  "generated_at": "2026-08-31T10:22:17.304234+00:00",
+  "generated_at": "2026-09-05T04:54:23.438854+00:00",
   "players": [
     {
       "player_id": 492,
@@ -107,7 +107,7 @@
       "opta_id": 488213,
       "first_name": "Tolu",
       "second_name": "Arokodare",
-      "web_name": "Arokodare",
+      "web_name": "Tolu",
       "known_name": "",
       "position": "FWD",
       "history": [
@@ -2459,7 +2459,7 @@
       "opta_id": 230971,
       "first_name": "Caio Henrique",
       "second_name": "Oliveira Silva",
-      "web_name": "Henrique",
+      "web_name": "C. Henrique",
       "known_name": "",
       "position": "DEF",
       "history": [
@@ -3047,7 +3047,7 @@
       "opta_id": 478011,
       "first_name": "Marcos Leonardo",
       "second_name": "Santos Almeida",
-      "web_name": "Leonardo",
+      "web_name": "M. Leonardo",
       "known_name": "",
       "position": "FWD",
       "history": [
