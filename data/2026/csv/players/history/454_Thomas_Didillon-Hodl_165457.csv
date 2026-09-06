@@ -2,3 +2,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 454,3,1,2026-08-08T16:45:00Z,False,8,Go Ahead Eagles,4,1,False,67,0,0,0,3,0,0,0,0,0,3,0,2,45,1424,0,0,0
 454,14,2,2026-08-15T14:30:00Z,True,9,N.E.C.,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1220,3,263,-260
 454,34,4,2026-08-30T12:30:00Z,True,12,sc Heerenveen,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,899,1,95,-94
+454,39,5,2026-09-05T19:00:00Z,True,15,Excelsior,0,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,766,0,128,-128
