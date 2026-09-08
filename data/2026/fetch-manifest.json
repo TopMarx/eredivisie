@@ -1,12 +1,12 @@
 {
   "season": 2026,
-  "fetch_type": "active_gw",
-  "last_run": "2026-09-07T02:45:13.667634+00:00",
+  "fetch_type": "none",
+  "last_run": "2026-09-08T02:30:21.804103+00:00",
   "current_gw": 5,
   "last_closed_gw": 4,
   "expected_count": 521,
   "fetched_count": 521,
   "failed_ids": [],
   "completed": true,
-  "event_status": "event-status unavailable"
+  "reason": "no matches on 2026-09-07"
 }
