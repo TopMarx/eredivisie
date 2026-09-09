@@ -2,7 +2,7 @@
   "team_opta_id": 314,
   "team_name": "SC Cambuur",
   "season": 2026,
-  "generated_at": "2026-09-07T02:45:14.740457+00:00",
+  "generated_at": "2026-09-09T02:46:44.915718+00:00",
   "players": [
     {
       "player_id": 366,
@@ -1272,7 +1272,7 @@
           "team_a_score": 2,
           "round": 5,
           "modified": false,
-          "minutes": 71,
+          "minutes": 70,
           "goals_scored": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -3086,7 +3086,7 @@
           "team_a_score": 2,
           "round": 5,
           "modified": false,
-          "minutes": 18,
+          "minutes": 19,
           "goals_scored": 0,
           "assists": 0,
           "clean_sheets": 0,
