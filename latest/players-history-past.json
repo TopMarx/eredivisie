@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated_at": "2026-08-31T10:22:17.304234+00:00",
+  "generated_at": "2026-09-10T10:47:34.299289+00:00",
   "players": [
     {
       "player_id": 219,
@@ -329,6 +329,36 @@
           "saves": 0,
           "own_goals": 1,
           "bonus": 17
+        }
+      ]
+    },
+    {
+      "player_id": 584,
+      "opta_id": 538157,
+      "first_name": "Isaac",
+      "second_name": "Babadi",
+      "web_name": "Babadi",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 538157,
+          "start_cost": 50,
+          "end_cost": 49,
+          "total_points": 0,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
         }
       ]
     },
@@ -2133,36 +2163,6 @@
       ]
     },
     {
-      "player_id": 281,
-      "opta_id": 477408,
-      "first_name": "Victor",
-      "second_name": "Edvardsen",
-      "web_name": "Edvardsen",
-      "known_name": "",
-      "position": "FWD",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 477408,
-          "start_cost": 65,
-          "end_cost": 63,
-          "total_points": 93,
-          "minutes": 1990,
-          "goals_scored": 4,
-          "assists": 8,
-          "clean_sheets": 9,
-          "goals_conceded": 30,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 4,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 9
-        }
-      ]
-    },
-    {
       "player_id": 44,
       "opta_id": 493014,
       "first_name": "Oliver",
@@ -2189,6 +2189,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 0
+        }
+      ]
+    },
+    {
+      "player_id": 281,
+      "opta_id": 477408,
+      "first_name": "Victor",
+      "second_name": "Edvardsen",
+      "web_name": "Edvardsen",
+      "known_name": "",
+      "position": "FWD",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 477408,
+          "start_cost": 65,
+          "end_cost": 63,
+          "total_points": 93,
+          "minutes": 1990,
+          "goals_scored": 4,
+          "assists": 8,
+          "clean_sheets": 9,
+          "goals_conceded": 30,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 4,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 9
         }
       ]
     },
@@ -3213,6 +3243,36 @@
       ]
     },
     {
+      "player_id": 559,
+      "opta_id": 646066,
+      "first_name": "Cedric",
+      "second_name": "Hatenboer",
+      "web_name": "Hatenboer",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 646066,
+          "start_cost": 45,
+          "end_cost": 45,
+          "total_points": 35,
+          "minutes": 1139,
+          "goals_scored": 0,
+          "assists": 3,
+          "clean_sheets": 2,
+          "goals_conceded": 19,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 1,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
+        }
+      ]
+    },
+    {
       "player_id": 21,
       "opta_id": 596599,
       "first_name": "Joeri",
@@ -4023,36 +4083,6 @@
       ]
     },
     {
-      "player_id": 33,
-      "opta_id": 648146,
-      "first_name": "Jinairo",
-      "second_name": "Johnson",
-      "web_name": "Johnson",
-      "known_name": "",
-      "position": "DEF",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 648146,
-          "start_cost": 40,
-          "end_cost": 40,
-          "total_points": 1,
-          "minutes": 10,
-          "goals_scored": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "goals_conceded": 0,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 0
-        }
-      ]
-    },
-    {
       "player_id": 257,
       "opta_id": 640351,
       "first_name": "Owen",
@@ -4072,6 +4102,36 @@
           "assists": 0,
           "clean_sheets": 0,
           "goals_conceded": 1,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
+        }
+      ]
+    },
+    {
+      "player_id": 33,
+      "opta_id": 648146,
+      "first_name": "Jinairo",
+      "second_name": "Johnson",
+      "web_name": "Johnson",
+      "known_name": "",
+      "position": "DEF",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 648146,
+          "start_cost": 40,
+          "end_cost": 40,
+          "total_points": 1,
+          "minutes": 10,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
           "penalties_saved": 0,
           "penalties_missed": 0,
           "yellow_cards": 0,
@@ -7443,6 +7503,36 @@
       ]
     },
     {
+      "player_id": 568,
+      "opta_id": 247708,
+      "first_name": "Luca",
+      "second_name": "Plogmann",
+      "web_name": "Plogmann",
+      "known_name": "",
+      "position": "GK",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 247708,
+          "start_cost": 45,
+          "end_cost": 43,
+          "total_points": 0,
+          "minutes": 0,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
+        }
+      ]
+    },
+    {
       "player_id": 203,
       "opta_id": 634249,
       "first_name": "Jan",
@@ -8408,7 +8498,7 @@
       "first_name": "Ayoni",
       "second_name": "Santos",
       "web_name": "Santos",
-      "known_name": "",
+      "known_name": "Ayoni Santos",
       "position": "MID",
       "history_past": [
         {
@@ -10503,36 +10593,6 @@
       ]
     },
     {
-      "player_id": 305,
-      "opta_id": 422078,
-      "first_name": "Willum",
-      "second_name": "Willumsson",
-      "web_name": "Willumsson",
-      "known_name": "",
-      "position": "MID",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 422078,
-          "start_cost": 65,
-          "end_cost": 56,
-          "total_points": 4,
-          "minutes": 96,
-          "goals_scored": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "goals_conceded": 1,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 1,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 0
-        }
-      ]
-    },
-    {
       "player_id": 130,
       "opta_id": 434030,
       "first_name": "Brynjólfur",
@@ -10559,6 +10619,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 9
+        }
+      ]
+    },
+    {
+      "player_id": 305,
+      "opta_id": 422078,
+      "first_name": "Willum",
+      "second_name": "Willumsson",
+      "web_name": "Willumsson",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 422078,
+          "start_cost": 65,
+          "end_cost": 56,
+          "total_points": 4,
+          "minutes": 96,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 1,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 1,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
         }
       ]
     },
@@ -11043,36 +11133,6 @@
       ]
     },
     {
-      "player_id": 61,
-      "opta_id": 431637,
-      "first_name": "Mees",
-      "second_name": "de Wit",
-      "web_name": "M. De Wit",
-      "known_name": "",
-      "position": "DEF",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 431637,
-          "start_cost": 45,
-          "end_cost": 46,
-          "total_points": 100,
-          "minutes": 2478,
-          "goals_scored": 3,
-          "assists": 6,
-          "clean_sheets": 6,
-          "goals_conceded": 45,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 9,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 5
-        }
-      ]
-    },
-    {
       "player_id": 186,
       "opta_id": 204651,
       "first_name": "Dani",
@@ -11099,6 +11159,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 12
+        }
+      ]
+    },
+    {
+      "player_id": 61,
+      "opta_id": 431637,
+      "first_name": "Mees",
+      "second_name": "de Wit",
+      "web_name": "M. De Wit",
+      "known_name": "",
+      "position": "DEF",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 431637,
+          "start_cost": 45,
+          "end_cost": 46,
+          "total_points": 100,
+          "minutes": 2478,
+          "goals_scored": 3,
+          "assists": 6,
+          "clean_sheets": 6,
+          "goals_conceded": 45,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 9,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 5
         }
       ]
     },
@@ -11373,6 +11463,36 @@
       ]
     },
     {
+      "player_id": 564,
+      "opta_id": 459655,
+      "first_name": "Sydney",
+      "second_name": "van Hooijdonk",
+      "web_name": "Van Hooijdonk",
+      "known_name": "",
+      "position": "FWD",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 459655,
+          "start_cost": 55,
+          "end_cost": 53,
+          "total_points": 59,
+          "minutes": 1191,
+          "goals_scored": 5,
+          "assists": 1,
+          "clean_sheets": 2,
+          "goals_conceded": 23,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 1,
+          "red_cards": 1,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 9
+        }
+      ]
+    },
+    {
       "player_id": 189,
       "opta_id": 636869,
       "first_name": "Jaygo",
@@ -11583,36 +11703,6 @@
       ]
     },
     {
-      "player_id": 354,
-      "opta_id": 624896,
-      "first_name": "Joel",
-      "second_name": "van den Berg",
-      "web_name": "Van den Berg",
-      "known_name": "",
-      "position": "MID",
-      "history_past": [
-        {
-          "season_name": "2025/26",
-          "element_code": 624896,
-          "start_cost": 45,
-          "end_cost": 44,
-          "total_points": 5,
-          "minutes": 138,
-          "goals_scored": 0,
-          "assists": 0,
-          "clean_sheets": 0,
-          "goals_conceded": 3,
-          "penalties_saved": 0,
-          "penalties_missed": 0,
-          "yellow_cards": 1,
-          "red_cards": 0,
-          "saves": 0,
-          "own_goals": 0,
-          "bonus": 0
-        }
-      ]
-    },
-    {
       "player_id": 187,
       "opta_id": 464744,
       "first_name": "Davy",
@@ -11639,6 +11729,36 @@
           "saves": 0,
           "own_goals": 0,
           "bonus": 2
+        }
+      ]
+    },
+    {
+      "player_id": 354,
+      "opta_id": 624896,
+      "first_name": "Joel",
+      "second_name": "van den Berg",
+      "web_name": "Van den Berg",
+      "known_name": "",
+      "position": "MID",
+      "history_past": [
+        {
+          "season_name": "2025/26",
+          "element_code": 624896,
+          "start_cost": 45,
+          "end_cost": 44,
+          "total_points": 5,
+          "minutes": 138,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 3,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 1,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0
         }
       ]
     },

@@ -43,14 +43,25 @@ gw,4,8,348,231765,Guus Til,MID,15,False
 gw,4,9,16,450074,Nigel Thomas,MID,13,False
 gw,4,10,258,537472,Lequincio Zeefuik,FWD,11,False
 gw,4,11,433,546601,Milan Zonneveld,FWD,9,False
-season,,1,516,77318,Marc ter Stegen,GK,20,False
+gw,5,1,434,132100,Ronald Koeman Jr.,GK,34,True
+gw,5,2,89,511268,Rick Meissen,DEF,14,False
+gw,5,3,94,463214,Simon Janssen,DEF,10,False
+gw,5,4,546,247955,Lutsharel Geertruida,DEF,10,False
+gw,5,5,98,582592,Irakli Yegoian,MID,19,False
+gw,5,6,253,441301,Mohamed Ihattaren,MID,18,False
+gw,5,7,234,597036,Gjivai Zechiël,MID,15,False
+gw,5,8,275,486465,Søren Tengstedt,MID,12,False
+gw,5,9,281,477408,Victor Edvardsen,FWD,15,False
+gw,5,10,108,554203,David Garden,FWD,13,False
+gw,5,11,384,513579,Nicolas Binder,FWD,12,False
+season,,1,434,132100,Ronald Koeman Jr.,GK,40,False
 season,,2,63,646065,Mateo Chávez,DEF,33,False
-season,,3,340,250676,Sergiño Dest,DEF,31,False
-season,,4,413,609883,Marvin Young,DEF,20,False
-season,,5,234,597036,Gjivai Zechiël,MID,34,True
-season,,6,275,486465,Søren Tengstedt,MID,31,False
-season,,7,71,550228,Ro-Zangelo Daal,MID,31,False
-season,,8,299,55882,Tjaronn Chery,MID,30,False
-season,,9,347,577717,Ruben van Bommel,MID,29,False
-season,,10,129,597363,Thom van Bergen,FWD,28,False
-season,,11,130,434030,Brynjólfur Willumsson,FWD,25,False
+season,,3,340,250676,Sergiño Dest,DEF,33,False
+season,,4,94,463214,Simon Janssen,DEF,27,False
+season,,5,234,597036,Gjivai Zechiël,MID,49,True
+season,,6,275,486465,Søren Tengstedt,MID,43,False
+season,,7,98,582592,Irakli Yegoian,MID,39,False
+season,,8,71,550228,Ro-Zangelo Daal,MID,37,False
+season,,9,190,573060,Rafik El Arguioui,MID,35,False
+season,,10,129,597363,Thom van Bergen,FWD,37,False
+season,,11,281,477408,Victor Edvardsen,FWD,35,False
