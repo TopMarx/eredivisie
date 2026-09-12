@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 62,19,3,2026-08-22T14:30:00Z,False,7,Fortuna Sittard,0,2,False,85,0,0,1,0,0,0,0,0,0,0,0,6,51,19376,1096,319,777
 62,27,4,2026-08-29T16:45:00Z,True,8,Go Ahead Eagles,5,2,False,76,0,0,0,1,0,0,0,0,0,0,0,2,51,18817,549,1079,-530
 62,43,5,2026-09-06T12:30:00Z,False,12,sc Heerenveen,2,3,False,67,0,0,0,2,0,0,0,0,0,0,0,1,51,17903,754,1251,-497
+62,45,6,2026-09-11T18:00:00Z,True,18,Willem II,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,2,51,18229,645,771,-126
