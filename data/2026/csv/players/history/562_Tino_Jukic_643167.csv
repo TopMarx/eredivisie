@@ -1,3 +1,4 @@
 player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_team_name,team_h_score,team_a_score,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,total_points,value,selected,transfers_in,transfers_out,transfers_balance
 562,27,4,2026-08-29T16:45:00Z,False,2,AZ,5,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0
 562,37,5,2026-09-08T12:00:00Z,False,5,FC Utrecht,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,1,0,1
+562,48,6,2026-09-12T16:45:00Z,True,3,FC Groningen,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,0,0,0

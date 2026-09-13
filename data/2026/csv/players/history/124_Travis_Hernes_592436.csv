@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 124,24,3,2026-08-23T12:30:00Z,False,11,PSV,5,1,False,5,0,0,0,0,0,0,0,0,0,0,0,1,50,59,3,10,-7
 124,26,4,2026-08-28T18:00:00Z,True,7,Fortuna Sittard,2,3,False,9,0,0,0,0,0,0,0,1,0,0,0,0,49,57,1,11,-10
 124,41,5,2026-09-06T10:15:00Z,True,4,FC Twente,2,2,False,10,0,0,0,0,0,0,0,0,0,0,0,1,49,52,1,5,-4
+124,48,6,2026-09-12T16:45:00Z,False,8,Go Ahead Eagles,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,48,49,1,5,-4

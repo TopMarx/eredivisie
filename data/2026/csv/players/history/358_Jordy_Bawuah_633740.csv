@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 358,32,4,2026-08-30T18:00:00Z,False,17,SC Cambuur,1,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,18,2,4,-1
 358,41,5,2026-09-06T10:15:00Z,False,3,FC Groningen,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,19,2,1,1
 358,44,5,2026-09-09T16:45:00Z,True,14,Telstar,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,19,2,1,1
+358,46,6,2026-09-12T14:30:00Z,True,16,ADO Den Haag,2,0,False,14,0,0,0,0,0,0,0,0,0,0,0,1,43,21,4,3,1
