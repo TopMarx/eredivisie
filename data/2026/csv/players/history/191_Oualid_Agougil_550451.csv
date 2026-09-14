@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 191,21,3,2026-08-22T16:45:00Z,False,13,Sparta Rotterdam,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,15,0,2,-2
 191,30,4,2026-08-30T10:15:00Z,True,11,PSV,1,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,15,1,2,-1
 191,37,5,2026-09-08T12:00:00Z,True,8,Go Ahead Eagles,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,15,0,0,0
+191,50,6,2026-09-13T10:15:00Z,False,15,Excelsior,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,15,0,0,0
