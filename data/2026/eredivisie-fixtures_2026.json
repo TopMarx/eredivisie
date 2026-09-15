@@ -8241,12 +8241,12 @@
         "identifier": "goals_scored",
         "a": [
           {
-            "value": 2,
-            "element": 224
+            "value": 3,
+            "element": 240
           },
           {
             "value": 2,
-            "element": 240
+            "element": 224
           },
           {
             "value": 1,
@@ -8268,11 +8268,11 @@
           },
           {
             "value": 1,
-            "element": 222
+            "element": 202
           },
           {
             "value": 1,
-            "element": 240
+            "element": 222
           }
         ],
         "h": []
@@ -8315,12 +8315,7 @@
       {
         "identifier": "own_goals",
         "a": [],
-        "h": [
-          {
-            "value": 1,
-            "element": 317
-          }
-        ]
+        "h": []
       },
       {
         "identifier": "bonus",
