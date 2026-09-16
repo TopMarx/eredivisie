@@ -52,7 +52,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 49,2638932,6,12,318,sc Heerenveen,HEE,14,905,Telstar,TEL,0,0,2026-09-13T12:30:00Z,False,True,,
 51,2638936,6,10,424,PEC Zwolle,PEC,6,198,Feyenoord,FEY,0,7,2026-09-13T14:45:00Z,False,True,,
 52,2638934,6,11,204,PSV,PSV,13,323,Sparta Rotterdam,SPA,4,1,2026-09-13T18:00:00Z,False,True,,
-54,2638909,6,1,215,Ajax,AJA,18,207,Willem II,WIL,,,2026-09-15T18:00:00Z,False,False,,
+54,2638909,6,1,215,Ajax,AJA,18,207,Willem II,WIL,5,1,2026-09-15T18:00:00Z,False,True,,
 55,2638939,7,3,425,FC Groningen,GRO,10,424,PEC Zwolle,PEC,,,2026-09-18T18:00:00Z,False,False,,
 56,2638938,7,16,701,ADO Den Haag,ADO,17,314,SC Cambuur,CAM,,,2026-09-19T14:30:00Z,False,False,,
 58,2638937,7,13,323,Sparta Rotterdam,SPA,12,318,sc Heerenveen,HEE,,,2026-09-19T16:45:00Z,False,False,,
