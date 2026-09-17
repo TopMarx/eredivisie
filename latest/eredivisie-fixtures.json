@@ -7043,7 +7043,7 @@
   {
     "code": 2638928,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 45,
     "kickoff_time": "2026-09-11T18:00:00Z",
@@ -7200,7 +7200,7 @@
   {
     "code": 2638929,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 46,
     "kickoff_time": "2026-09-12T14:30:00Z",
@@ -7365,7 +7365,7 @@
   {
     "code": 2638930,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 48,
     "kickoff_time": "2026-09-12T16:45:00Z",
@@ -7523,7 +7523,7 @@
   {
     "code": 2638931,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 47,
     "kickoff_time": "2026-09-12T18:00:00Z",
@@ -7725,7 +7725,7 @@
   {
     "code": 2638935,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 53,
     "kickoff_time": "2026-09-12T19:00:00Z",
@@ -7909,7 +7909,7 @@
   {
     "code": 2638933,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 50,
     "kickoff_time": "2026-09-13T10:15:00Z",
@@ -8075,7 +8075,7 @@
   {
     "code": 2638932,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 49,
     "kickoff_time": "2026-09-13T12:30:00Z",
@@ -8225,7 +8225,7 @@
   {
     "code": 2638936,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 51,
     "kickoff_time": "2026-09-13T14:45:00Z",
@@ -8387,7 +8387,7 @@
   {
     "code": 2638934,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 52,
     "kickoff_time": "2026-09-13T18:00:00Z",
@@ -8561,7 +8561,7 @@
   {
     "code": 2638909,
     "event": 6,
-    "finished": false,
+    "finished": true,
     "finished_provisional": true,
     "id": 54,
     "kickoff_time": "2026-09-15T18:00:00Z",

@@ -54,14 +54,25 @@ gw,5,8,275,486465,Søren Tengstedt,MID,12,False
 gw,5,9,281,477408,Victor Edvardsen,FWD,15,False
 gw,5,10,108,554203,David Garden,FWD,13,False
 gw,5,11,384,513579,Nicolas Binder,FWD,12,False
-season,,1,434,132100,Ronald Koeman Jr.,GK,40,False
-season,,2,63,646065,Mateo Chávez,DEF,33,False
-season,,3,340,250676,Sergiño Dest,DEF,33,False
-season,,4,94,463214,Simon Janssen,DEF,27,False
-season,,5,234,597036,Gjivai Zechiël,MID,49,True
-season,,6,275,486465,Søren Tengstedt,MID,43,False
-season,,7,98,582592,Irakli Yegoian,MID,39,False
-season,,8,71,550228,Ro-Zangelo Daal,MID,37,False
-season,,9,190,573060,Rafik El Arguioui,MID,35,False
-season,,10,129,597363,Thom van Bergen,FWD,37,False
-season,,11,281,477408,Victor Edvardsen,FWD,35,False
+gw,6,1,434,132100,Ronald Koeman Jr.,GK,11,False
+gw,6,2,210,573121,Givairo Read,DEF,17,False
+gw,6,3,574,201057,Thilo Kehrer,DEF,16,False
+gw,6,4,143,109236,Robin Pröpper,DEF,14,False
+gw,6,5,360,463414,Sven Mijnans,MID,20,False
+gw,6,6,37,549458,Oscar Gloukh,MID,17,False
+gw,6,7,382,545713,Ilyès Hamache,MID,16,False
+gw,6,8,509,177591,Julian Brandt,MID,16,False
+gw,6,9,224,581136,Anis Hadj Moussa,MID,15,False
+gw,6,10,50,209914,Kasper Dolberg,FWD,20,True
+gw,6,11,240,547218,Nacho Ferri,FWD,17,False
+season,,1,434,132100,Ronald Koeman Jr.,GK,51,False
+season,,2,63,646065,Mateo Chávez,DEF,36,False
+season,,3,340,250676,Sergiño Dest,DEF,35,False
+season,,4,210,573121,Givairo Read,DEF,32,False
+season,,5,234,597036,Gjivai Zechiël,MID,57,True
+season,,6,275,486465,Søren Tengstedt,MID,53,False
+season,,7,71,550228,Ro-Zangelo Daal,MID,42,False
+season,,8,98,582592,Irakli Yegoian,MID,41,False
+season,,9,190,573060,Rafik El Arguioui,MID,38,False
+season,,10,129,597363,Thom van Bergen,FWD,39,False
+season,,11,281,477408,Victor Edvardsen,FWD,37,False
