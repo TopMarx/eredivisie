@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 55,
-      "code": 2638939,
-      "team_h": 3,
-      "team_h_score": null,
-      "team_a": 10,
-      "team_a_score": null,
-      "event": 7,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-09-18T18:00:00Z",
-      "event_name": "Speelronde 7",
-      "is_home": false
-    },
-    {
       "id": 71,
       "code": 2638952,
       "team_h": 10,
@@ -595,6 +580,35 @@
       "selected": 1998,
       "transfers_in": 189,
       "transfers_out": 189
+    },
+    {
+      "element": 313,
+      "fixture": 55,
+      "opponent_team": 3,
+      "total_points": 2,
+      "was_home": false,
+      "kickoff_time": "2026-09-18T18:00:00Z",
+      "team_h_score": 3,
+      "team_a_score": 0,
+      "round": 7,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 3,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 4,
+      "own_goals": 0,
+      "bonus": 0,
+      "value": 45,
+      "transfers_balance": -78,
+      "selected": 1957,
+      "transfers_in": 47,
+      "transfers_out": 125
     }
   ],
   "history_past": [

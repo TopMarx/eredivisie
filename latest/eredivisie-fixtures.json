@@ -8742,17 +8742,160 @@
     "code": 2638939,
     "event": 7,
     "finished": false,
-    "finished_provisional": false,
+    "finished_provisional": true,
     "id": 55,
     "kickoff_time": "2026-09-18T18:00:00Z",
-    "minutes": 0,
+    "minutes": 90,
     "provisional_start_time": false,
-    "started": false,
+    "started": true,
     "team_a": 10,
-    "team_a_score": null,
+    "team_a_score": 0,
     "team_h": 3,
-    "team_h_score": null,
-    "stats": []
+    "team_h_score": 3,
+    "stats": [
+      {
+        "identifier": "goals_scored",
+        "a": [],
+        "h": [
+          {
+            "value": 1,
+            "element": 119
+          },
+          {
+            "value": 1,
+            "element": 127
+          },
+          {
+            "value": 1,
+            "element": 129
+          }
+        ]
+      },
+      {
+        "identifier": "assists",
+        "a": [],
+        "h": [
+          {
+            "value": 2,
+            "element": 121
+          }
+        ]
+      },
+      {
+        "identifier": "penalties_saved",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "penalties_missed",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "yellow_cards",
+        "a": [
+          {
+            "value": 1,
+            "element": 315
+          },
+          {
+            "value": 1,
+            "element": 333
+          }
+        ],
+        "h": []
+      },
+      {
+        "identifier": "red_cards",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "saves",
+        "a": [
+          {
+            "value": 4,
+            "element": 313
+          }
+        ],
+        "h": [
+          {
+            "value": 1,
+            "element": 109
+          }
+        ]
+      },
+      {
+        "identifier": "own_goals",
+        "a": [],
+        "h": []
+      },
+      {
+        "identifier": "bonus",
+        "a": [],
+        "h": [
+          {
+            "value": 3,
+            "element": 129
+          },
+          {
+            "value": 2,
+            "element": 119
+          },
+          {
+            "value": 1,
+            "element": 538
+          }
+        ]
+      },
+      {
+        "identifier": "bps",
+        "a": [
+          {
+            "value": 18,
+            "element": 317
+          },
+          {
+            "value": 17,
+            "element": 324
+          },
+          {
+            "value": 16,
+            "element": 313
+          },
+          {
+            "value": 12,
+            "element": 316
+          },
+          {
+            "value": 12,
+            "element": 329
+          }
+        ],
+        "h": [
+          {
+            "value": 42,
+            "element": 129
+          },
+          {
+            "value": 40,
+            "element": 119
+          },
+          {
+            "value": 31,
+            "element": 538
+          },
+          {
+            "value": 30,
+            "element": 121
+          },
+          {
+            "value": 29,
+            "element": 113
+          }
+        ]
+      }
+    ]
   },
   {
     "code": 2638938,
