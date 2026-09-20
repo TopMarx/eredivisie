@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 544,28,4,2026-08-29T14:30:00Z,False,15,Excelsior,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,18,6,2,4
 544,35,5,2026-09-04T18:00:00Z,True,10,PEC Zwolle,2,2,False,4,0,0,0,0,0,0,0,0,0,0,0,1,60,30,14,6,8
 544,52,6,2026-09-13T18:00:00Z,False,11,PSV,4,1,False,13,0,0,0,1,0,0,0,0,0,0,0,1,60,40,9,3,6
+544,58,7,2026-09-19T16:45:00Z,True,12,sc Heerenveen,0,4,False,28,0,0,0,1,0,0,0,0,0,0,0,1,60,44,5,4,1

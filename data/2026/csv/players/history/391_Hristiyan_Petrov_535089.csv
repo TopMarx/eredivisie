@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 391,34,4,2026-08-30T12:30:00Z,False,18,Willem II,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,102,2,3,-1
 391,43,5,2026-09-06T12:30:00Z,True,2,AZ,2,3,False,2,0,0,0,0,0,0,0,0,0,0,0,1,45,97,1,5,-4
 391,49,6,2026-09-13T12:30:00Z,True,14,Telstar,0,0,False,37,0,0,0,0,0,0,0,0,0,0,0,1,45,92,2,9,-7
+391,58,7,2026-09-19T16:45:00Z,False,13,Sparta Rotterdam,0,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,93,2,2,0

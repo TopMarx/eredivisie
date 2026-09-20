@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 4,31,4,2026-08-30T12:30:00Z,False,6,Feyenoord,2,2,False,90,0,0,0,2,0,0,0,0,0,0,0,1,45,248,8,16,-8
 4,40,5,2026-09-06T14:45:00Z,True,7,Fortuna Sittard,2,3,False,90,0,0,0,3,0,0,0,0,0,0,0,1,45,248,14,15,-1
 4,46,6,2026-09-12T14:30:00Z,False,4,FC Twente,2,0,False,73,0,0,0,1,0,0,0,0,0,0,0,2,45,236,10,23,-13
+4,56,7,2026-09-19T14:30:00Z,True,17,SC Cambuur,1,1,False,80,0,0,0,1,0,0,0,0,0,0,0,2,45,246,13,8,5
