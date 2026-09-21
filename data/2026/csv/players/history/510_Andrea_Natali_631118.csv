@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 510,27,4,2026-08-29T16:45:00Z,True,8,Go Ahead Eagles,5,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,13,1,0,1
 510,43,5,2026-09-06T12:30:00Z,False,12,sc Heerenveen,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,12,0,1,-1
 510,45,6,2026-09-11T18:00:00Z,True,18,Willem II,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,12,2,2,0
+510,60,7,2026-09-20T12:30:00Z,True,14,Telstar,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,12,0,0,0

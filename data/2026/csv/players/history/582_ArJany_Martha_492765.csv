@@ -3,3 +3,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 582,42,5,2026-09-06T12:30:00Z,True,17,SC Cambuur,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,1,0,1
 582,44,5,2026-09-09T16:45:00Z,False,4,FC Twente,1,0,False,8,0,0,0,0,0,0,0,0,0,0,0,1,45,1,1,0,1
 582,49,6,2026-09-13T12:30:00Z,False,12,sc Heerenveen,0,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,1,-1
+582,60,7,2026-09-20T12:30:00Z,False,2,AZ,1,0,False,16,0,0,0,0,0,0,0,0,0,0,0,1,45,1,1,0,1

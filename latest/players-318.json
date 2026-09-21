@@ -2,7 +2,7 @@
   "team_opta_id": 318,
   "team_name": "sc Heerenveen",
   "season": 2026,
-  "generated_at": "2026-09-20T02:40:10.700522+00:00",
+  "generated_at": "2026-09-21T02:48:06.718863+00:00",
   "players": [
     {
       "player_id": 396,
@@ -3506,7 +3506,7 @@
           "team_a_score": 4,
           "round": 7,
           "modified": false,
-          "minutes": 17,
+          "minutes": 18,
           "goals_scored": 0,
           "assists": 1,
           "clean_sheets": 0,
@@ -4986,7 +4986,7 @@
           "team_a_score": 4,
           "round": 7,
           "modified": false,
-          "minutes": 72,
+          "minutes": 71,
           "goals_scored": 0,
           "assists": 2,
           "clean_sheets": 1,
