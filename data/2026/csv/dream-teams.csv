@@ -65,14 +65,25 @@ gw,6,8,509,177591,Julian Brandt,MID,16,False
 gw,6,9,224,581136,Anis Hadj Moussa,MID,15,False
 gw,6,10,50,209914,Kasper Dolberg,FWD,20,True
 gw,6,11,240,547218,Nacho Ferri,FWD,17,False
-season,,1,434,132100,Ronald Koeman Jr.,GK,51,False
-season,,2,63,646065,Mateo Chávez,DEF,36,False
-season,,3,340,250676,Sergiño Dest,DEF,35,False
-season,,4,210,573121,Givairo Read,DEF,32,False
-season,,5,234,597036,Gjivai Zechiël,MID,57,True
-season,,6,275,486465,Søren Tengstedt,MID,53,False
-season,,7,71,550228,Ro-Zangelo Daal,MID,42,False
-season,,8,98,582592,Irakli Yegoian,MID,41,False
-season,,9,190,573060,Rafik El Arguioui,MID,38,False
-season,,10,129,597363,Thom van Bergen,FWD,39,False
-season,,11,281,477408,Victor Edvardsen,FWD,37,False
+gw,7,1,241,93687,Mattijs Branderhorst,GK,7,False
+gw,7,2,214,465677,Mika Mármol,DEF,13,False
+gw,7,3,210,573121,Givairo Read,DEF,11,False
+gw,7,4,388,233375,Sam Kersten,DEF,9,False
+gw,7,5,62,576739,Elijah Dijkstra,DEF,9,False
+gw,7,6,224,581136,Anis Hadj Moussa,MID,16,True
+gw,7,7,348,231765,Guus Til,MID,14,False
+gw,7,8,149,550822,Daouda Weidmann,MID,13,False
+gw,7,9,251,546518,Philip Brittijn,MID,11,False
+gw,7,10,404,501599,Maxence Rivera,MID,11,False
+gw,7,11,284,491792,Stefán Sigurdarson,FWD,9,False
+season,,1,434,132100,Ronald Koeman Jr.,GK,55,False
+season,,2,63,646065,Mateo Chávez,DEF,44,False
+season,,3,210,573121,Givairo Read,DEF,43,False
+season,,4,340,250676,Sergiño Dest,DEF,36,False
+season,,5,234,597036,Gjivai Zechiël,MID,63,True
+season,,6,275,486465,Søren Tengstedt,MID,54,False
+season,,7,224,581136,Anis Hadj Moussa,MID,49,False
+season,,8,222,538779,Luciano Valente,MID,46,False
+season,,9,98,582592,Irakli Yegoian,MID,45,False
+season,,10,129,597363,Thom van Bergen,FWD,48,False
+season,,11,281,477408,Victor Edvardsen,FWD,39,False
