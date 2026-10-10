@@ -62,7 +62,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 60,2638943,7,2,313,AZ,AZ,14,905,Telstar,TEL,1,0,2026-09-20T12:30:00Z,True,True,,
 61,2638945,7,4,324,FC Twente,TWE,11,204,PSV,PSV,3,2,2026-09-20T12:30:00Z,True,True,,
 63,2638944,7,9,320,N.E.C.,NEC,8,734,Go Ahead Eagles,GAE,1,1,2026-09-20T14:45:00Z,True,True,,
-68,2638946,8,11,204,PSV,PSV,12,318,sc Heerenveen,HEE,,,2026-10-09T18:00:00Z,False,False,,
+68,2638946,8,11,204,PSV,PSV,12,318,sc Heerenveen,HEE,2,0,2026-10-09T18:00:00Z,False,True,,
 67,2638948,8,8,734,Go Ahead Eagles,GAE,13,323,Sparta Rotterdam,SPA,,,2026-10-10T14:30:00Z,False,False,,
 65,2638947,8,6,198,Feyenoord,FEY,2,313,AZ,AZ,,,2026-10-10T16:45:00Z,False,False,,
 66,2638950,8,7,316,Fortuna Sittard,FOR,4,324,FC Twente,TWE,,,2026-10-10T18:00:00Z,False,False,,
