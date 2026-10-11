@@ -6,3 +6,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 242,40,5,2026-09-06T14:45:00Z,False,16,ADO Den Haag,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,71,1,1,0
 242,47,6,2026-09-12T18:00:00Z,True,1,Ajax,1,5,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,65,2,6,-4
 242,59,7,2026-09-19T19:00:00Z,False,18,Willem II,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,67,2,2,0
+242,66,8,2026-10-10T18:00:00Z,True,4,FC Twente,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,65,0,3,-3

@@ -2,7 +2,7 @@
   "team_opta_id": 204,
   "team_name": "PSV",
   "season": 2026,
-  "generated_at": "2026-10-10T02:33:38.679855+00:00",
+  "generated_at": "2026-10-11T02:42:35.396821+00:00",
   "players": [
     {
       "player_id": 352,
@@ -956,7 +956,7 @@
           "team_a_score": 0,
           "round": 8,
           "modified": false,
-          "minutes": 7,
+          "minutes": 8,
           "goals_scored": 0,
           "assists": 0,
           "clean_sheets": 0,
@@ -2784,7 +2784,7 @@
           "team_a_score": 0,
           "round": 8,
           "modified": false,
-          "minutes": 82,
+          "minutes": 81,
           "goals_scored": 0,
           "assists": 0,
           "clean_sheets": 1,

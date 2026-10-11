@@ -6,3 +6,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 303,20,5,2026-09-08T16:45:00Z,True,15,Excelsior,2,2,False,27,0,0,0,1,0,0,0,0,0,0,0,1,45,44,2,9,-7
 303,53,6,2026-09-12T19:00:00Z,False,17,SC Cambuur,3,0,False,17,0,0,0,1,0,0,0,0,0,0,0,1,45,43,2,5,-3
 303,63,7,2026-09-20T14:45:00Z,True,8,Go Ahead Eagles,1,1,False,59,0,0,0,1,0,0,0,0,0,0,0,1,45,44,2,1,1
+303,64,8,2026-10-10T19:00:00Z,False,1,Ajax,1,1,False,81,0,0,0,1,0,0,0,0,0,0,0,2,45,46,5,3,2
