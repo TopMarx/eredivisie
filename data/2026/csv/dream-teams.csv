@@ -76,14 +76,25 @@ gw,7,8,149,550822,Daouda Weidmann,MID,13,False
 gw,7,9,251,546518,Philip Brittijn,MID,11,False
 gw,7,10,404,501599,Maxence Rivera,MID,11,False
 gw,7,11,284,491792,Stefán Sigurdarson,FWD,9,False
-season,,1,434,132100,Ronald Koeman Jr.,GK,55,False
-season,,2,63,646065,Mateo Chávez,DEF,44,False
-season,,3,210,573121,Givairo Read,DEF,43,False
-season,,4,340,250676,Sergiño Dest,DEF,36,False
-season,,5,234,597036,Gjivai Zechiël,MID,63,True
-season,,6,275,486465,Søren Tengstedt,MID,54,False
-season,,7,224,581136,Anis Hadj Moussa,MID,49,False
-season,,8,222,538779,Luciano Valente,MID,46,False
-season,,9,98,582592,Irakli Yegoian,MID,45,False
-season,,10,129,597363,Thom van Bergen,FWD,48,False
-season,,11,281,477408,Victor Edvardsen,FWD,39,False
+gw,8,1,363,494964,Thijs Jansen,GK,11,False
+gw,8,2,114,428920,Marco Rente,DEF,17,True
+gw,8,3,540,484406,Javi López,DEF,13,False
+gw,8,4,143,109236,Robin Pröpper,DEF,11,False
+gw,8,5,339,510162,Ryan Flamingo,DEF,9,False
+gw,8,6,446,510779,Tyrone Owusu,MID,15,False
+gw,8,7,184,511356,Yoann Cathline,MID,14,False
+gw,8,8,15,510620,Evan Rottier,MID,12,False
+gw,8,9,584,538157,Isaac Babadi,MID,10,False
+gw,8,10,98,582592,Irakli Yegoian,MID,9,False
+gw,8,11,494,499036,Anthony Descotte,FWD,9,False
+season,,1,434,132100,Ronald Koeman Jr.,GK,56,False
+season,,2,210,573121,Givairo Read,DEF,49,False
+season,,3,63,646065,Mateo Chávez,DEF,45,False
+season,,4,340,250676,Sergiño Dest,DEF,44,False
+season,,5,234,597036,Gjivai Zechiël,MID,66,True
+season,,6,275,486465,Søren Tengstedt,MID,62,False
+season,,7,98,582592,Irakli Yegoian,MID,54,False
+season,,8,224,581136,Anis Hadj Moussa,MID,52,False
+season,,9,222,538779,Luciano Valente,MID,49,False
+season,,10,129,597363,Thom van Bergen,FWD,54,False
+season,,11,130,434030,Brynjólfur Willumsson,FWD,43,False
