@@ -6,3 +6,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 330,35,5,2026-09-04T18:00:00Z,False,13,Sparta Rotterdam,2,2,False,62,0,0,0,1,0,0,0,0,0,0,0,2,65,1302,14,155,-141
 330,51,6,2026-09-13T14:45:00Z,True,6,Feyenoord,0,7,False,20,0,0,0,1,0,0,0,0,0,0,0,1,64,1216,2,110,-108
 330,55,7,2026-09-18T18:00:00Z,False,3,FC Groningen,3,0,False,60,0,0,0,2,0,0,0,0,0,0,0,2,64,1143,4,80,-76
+330,71,8,2026-10-11T12:30:00Z,True,17,SC Cambuur,0,1,False,77,0,0,1,0,0,0,0,0,0,0,0,3,63,1094,3,56,-53

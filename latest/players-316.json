@@ -2,7 +2,7 @@
   "team_opta_id": 316,
   "team_name": "Fortuna Sittard",
   "season": 2026,
-  "generated_at": "2026-10-11T02:42:35.396821+00:00",
+  "generated_at": "2026-10-12T03:49:24.866964+00:00",
   "players": [
     {
       "player_id": 219,
@@ -5318,6 +5318,46 @@
           "selected": 3,
           "transfers_in": 0,
           "transfers_out": 1
+        }
+      ]
+    },
+    {
+      "player_id": 603,
+      "opta_id": 167432,
+      "first_name": "Daley",
+      "second_name": "Sinkgraven",
+      "web_name": "Sinkgraven",
+      "known_name": "",
+      "position": "DEF",
+      "history": [
+        {
+          "element": 603,
+          "fixture": 66,
+          "opponent_team": 4,
+          "total_points": 1,
+          "was_home": true,
+          "kickoff_time": "2026-10-10T18:00:00Z",
+          "team_h_score": 1,
+          "team_a_score": 1,
+          "round": 8,
+          "modified": false,
+          "minutes": 1,
+          "goals_scored": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "goals_conceded": 0,
+          "penalties_saved": 0,
+          "penalties_missed": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "own_goals": 0,
+          "bonus": 0,
+          "value": 40,
+          "transfers_balance": 0,
+          "selected": 0,
+          "transfers_in": 0,
+          "transfers_out": 0
         }
       ]
     },

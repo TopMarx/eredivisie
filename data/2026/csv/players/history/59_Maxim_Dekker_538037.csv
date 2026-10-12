@@ -7,3 +7,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 59,45,6,2026-09-11T18:00:00Z,False,2,AZ,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,2,44,50,3,4,-1
 59,54,6,2026-09-15T18:00:00Z,False,1,Ajax,5,1,False,83,0,0,0,4,0,0,0,0,0,0,0,0,44,50,3,4,-1
 59,59,7,2026-09-19T19:00:00Z,True,7,Fortuna Sittard,0,1,False,90,0,0,0,1,0,0,0,0,0,0,0,2,44,51,5,4,1
+59,70,8,2026-10-11T10:15:00Z,False,5,FC Utrecht,3,1,False,90,0,0,0,3,0,0,0,0,0,0,0,1,44,49,0,2,-2

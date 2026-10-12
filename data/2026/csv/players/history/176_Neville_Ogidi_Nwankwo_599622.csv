@@ -6,3 +6,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 176,37,5,2026-09-08T12:00:00Z,True,8,Go Ahead Eagles,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,398,1,32,-31
 176,50,6,2026-09-13T10:15:00Z,False,15,Excelsior,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,382,1,21,-20
 176,62,7,2026-09-20T10:15:00Z,False,6,Feyenoord,5,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,363,0,21,-21
+176,70,8,2026-10-11T10:15:00Z,True,18,Willem II,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,347,1,17,-16
