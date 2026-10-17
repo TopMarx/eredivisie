@@ -71,7 +71,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 71,2638952,8,10,424,PEC Zwolle,PEC,17,314,SC Cambuur,CAM,0,1,2026-10-11T12:30:00Z,True,True,,
 72,2638953,8,14,905,Telstar,TEL,16,701,ADO Den Haag,ADO,2,2,2026-10-11T12:30:00Z,True,True,,
 69,2638954,8,15,539,Excelsior,EXC,3,425,FC Groningen,GRO,1,5,2026-10-11T14:45:00Z,True,True,,
-73,2638955,9,12,318,sc Heerenveen,HEE,15,539,Excelsior,EXC,,,2026-10-16T18:00:00Z,False,False,,
+73,2638955,9,12,318,sc Heerenveen,HEE,15,539,Excelsior,EXC,4,0,2026-10-16T18:00:00Z,False,True,,
 74,2638956,9,16,701,ADO Den Haag,ADO,11,204,PSV,PSV,,,2026-10-17T14:30:00Z,False,False,,
 77,2638958,9,14,905,Telstar,TEL,6,198,Feyenoord,FEY,,,2026-10-17T18:00:00Z,False,False,,
 76,2638959,9,13,323,Sparta Rotterdam,SPA,18,207,Willem II,WIL,,,2026-10-17T19:00:00Z,False,False,,

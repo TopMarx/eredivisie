@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 576,49,6,2026-09-13T12:30:00Z,True,14,Telstar,0,0,False,29,0,0,0,0,0,0,0,0,0,0,0,1,55,27,17,3,14
 576,58,7,2026-09-19T16:45:00Z,False,13,Sparta Rotterdam,0,4,False,10,0,0,0,0,0,0,0,0,0,0,0,1,55,30,8,6,2
 576,68,8,2026-10-09T18:00:00Z,False,11,PSV,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,30,2,2,0
+576,73,9,2026-10-16T18:00:00Z,True,15,Excelsior,4,0,False,8,0,1,0,0,0,0,0,0,0,0,0,4,54,26,3,8,-5
