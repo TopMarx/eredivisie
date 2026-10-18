@@ -6,3 +6,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 297,52,6,2026-09-13T18:00:00Z,True,13,Sparta Rotterdam,4,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3208,2,312,-310
 297,61,7,2026-09-20T12:30:00Z,False,4,FC Twente,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3052,0,167,-167
 297,68,8,2026-10-09T18:00:00Z,True,12,sc Heerenveen,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,73,2929,0,123,-123
+297,74,9,2026-10-17T14:30:00Z,False,16,ADO Den Haag,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,73,2894,0,38,-38

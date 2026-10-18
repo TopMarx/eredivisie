@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 76,
-      "code": 2638959,
-      "team_h": 13,
-      "team_h_score": null,
-      "team_a": 18,
-      "team_a_score": null,
-      "event": 9,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-10-17T19:00:00Z",
-      "event_name": "Speelronde 9",
-      "is_home": true
-    },
-    {
       "id": 90,
       "code": 2638971,
       "team_h": 13,
@@ -623,6 +608,35 @@
       "selected": 6967,
       "transfers_in": 1214,
       "transfers_out": 263
+    },
+    {
+      "element": 433,
+      "fixture": 76,
+      "opponent_team": 18,
+      "total_points": 11,
+      "was_home": true,
+      "kickoff_time": "2026-10-17T19:00:00Z",
+      "team_h_score": 3,
+      "team_a_score": 2,
+      "round": 9,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 1,
+      "assists": 1,
+      "clean_sheets": 0,
+      "goals_conceded": 2,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "bonus": 3,
+      "value": 63,
+      "transfers_balance": 1729,
+      "selected": 8773,
+      "transfers_in": 1831,
+      "transfers_out": 102
     }
   ],
   "history_past": [
