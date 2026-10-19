@@ -7,3 +7,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 43,54,6,2026-09-15T18:00:00Z,True,18,Willem II,5,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,7,0,0,0
 43,57,7,2026-09-19T18:00:00Z,True,15,Excelsior,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,7,0,0,0
 43,64,8,2026-10-10T19:00:00Z,True,9,N.E.C.,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,7,0,0,0
+43,78,9,2026-10-18T14:45:00Z,False,3,FC Groningen,2,5,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,7,0,0,0

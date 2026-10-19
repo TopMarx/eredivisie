@@ -4,3 +4,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 562,48,6,2026-09-12T16:45:00Z,True,3,FC Groningen,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,0,0,0
 562,63,7,2026-09-20T14:45:00Z,False,9,N.E.C.,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,0,0,0
 562,67,8,2026-10-10T14:30:00Z,True,13,Sparta Rotterdam,3,3,False,17,0,0,0,1,0,0,0,0,0,0,0,1,45,1,0,0,0
+562,80,9,2026-10-18T10:15:00Z,False,10,PEC Zwolle,4,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,1,0,0,0

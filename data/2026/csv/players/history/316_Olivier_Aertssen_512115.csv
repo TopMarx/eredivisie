@@ -7,3 +7,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 316,51,6,2026-09-13T14:45:00Z,True,6,Feyenoord,0,7,False,78,0,0,0,7,0,0,0,0,0,0,0,-1,45,153,12,15,-3
 316,55,7,2026-09-18T18:00:00Z,False,3,FC Groningen,3,0,False,79,0,0,0,3,0,0,0,0,0,0,0,1,45,155,3,6,-3
 316,71,8,2026-10-11T12:30:00Z,True,17,SC Cambuur,0,1,False,90,0,0,0,1,0,0,0,0,0,0,0,2,45,160,7,2,5
+316,80,9,2026-10-18T10:15:00Z,True,8,Go Ahead Eagles,4,1,False,90,0,0,0,1,0,0,0,0,0,0,0,2,45,155,2,8,-6

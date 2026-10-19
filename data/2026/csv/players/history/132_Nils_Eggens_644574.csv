@@ -7,3 +7,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 132,48,6,2026-09-12T16:45:00Z,False,8,Go Ahead Eagles,1,1,False,13,0,0,0,1,0,0,0,0,0,0,0,1,45,432,6,48,-42
 132,55,7,2026-09-18T18:00:00Z,True,10,PEC Zwolle,3,0,False,5,0,0,0,0,0,0,0,0,0,0,0,1,45,422,17,37,-20
 132,69,8,2026-10-11T14:45:00Z,False,15,Excelsior,1,5,False,6,0,0,0,0,0,0,0,0,0,0,0,1,45,414,15,29,-14
+132,78,9,2026-10-18T14:45:00Z,True,1,Ajax,2,5,False,7,0,0,0,0,0,0,0,0,0,0,0,1,44,419,21,14,7

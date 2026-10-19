@@ -7,3 +7,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 292,53,6,2026-09-12T19:00:00Z,False,17,SC Cambuur,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,4830,8,1422,-1414
 292,63,7,2026-09-20T14:45:00Z,True,8,Go Ahead Eagles,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,4160,0,800,-800
 292,64,8,2026-10-10T19:00:00Z,False,1,Ajax,1,1,False,90,0,0,0,1,0,0,0,0,0,0,0,2,50,3601,2,566,-564
+292,75,9,2026-10-18T18:00:00Z,True,7,Fortuna Sittard,2,2,False,62,0,0,0,2,0,0,0,0,0,0,0,1,49,3562,24,65,-41
