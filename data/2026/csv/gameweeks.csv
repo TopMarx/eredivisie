@@ -6,10 +6,10 @@ id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is
 5,Speelronde 5,2026-09-04T17:55:00Z,64,180,True,True,False,False,False
 6,Speelronde 6,2026-09-11T17:55:00Z,52,136,True,True,False,False,False
 7,Speelronde 7,2026-09-18T17:55:00Z,53,121,True,True,False,False,False
-8,Speelronde 8,2026-10-09T17:55:00Z,40,83,True,True,True,False,False
-9,Speelronde 9,2026-10-16T17:55:00Z,39,100,True,True,False,True,False
-10,Speelronde 10,2026-10-23T17:55:00Z,0,,False,False,False,False,True
-11,Speelronde 11,2026-10-31T15:25:00Z,0,,False,False,False,False,False
+8,Speelronde 8,2026-10-09T17:55:00Z,40,83,True,True,False,False,False
+9,Speelronde 9,2026-10-16T17:55:00Z,39,100,True,True,True,False,False
+10,Speelronde 10,2026-10-23T17:55:00Z,7,57,False,False,False,True,False
+11,Speelronde 11,2026-10-31T15:25:00Z,0,,False,False,False,False,True
 12,Speelronde 12,2026-11-06T18:55:00Z,0,,False,False,False,False,False
 13,Speelronde 13,2026-11-21T15:25:00Z,0,,False,False,False,False,False
 14,Speelronde 14,2026-11-27T18:55:00Z,0,,False,False,False,False,False

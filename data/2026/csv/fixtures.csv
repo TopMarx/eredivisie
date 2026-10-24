@@ -80,7 +80,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 78,2638963,9,3,425,FC Groningen,GRO,1,215,Ajax,AJA,2,5,2026-10-18T14:45:00Z,True,True,,
 79,2638961,9,4,324,FC Twente,TWE,5,325,FC Utrecht,UTR,1,2,2026-10-18T18:00:00Z,True,True,,
 75,2638957,9,9,320,N.E.C.,NEC,7,316,Fortuna Sittard,FOR,2,2,2026-10-18T18:00:00Z,True,True,,
-82,2638964,10,8,734,Go Ahead Eagles,GAE,14,905,Telstar,TEL,,,2026-10-23T18:00:00Z,False,False,,
+82,2638964,10,8,734,Go Ahead Eagles,GAE,14,905,Telstar,TEL,3,2,2026-10-23T18:00:00Z,False,True,,
 84,2638965,10,5,325,FC Utrecht,UTR,10,424,PEC Zwolle,PEC,,,2026-10-24T14:30:00Z,False,False,,
 85,2638966,10,18,207,Willem II,WIL,17,314,SC Cambuur,CAM,,,2026-10-24T16:45:00Z,False,False,,
 83,2638967,10,16,701,ADO Den Haag,ADO,12,318,sc Heerenveen,HEE,,,2026-10-24T19:00:00Z,False,False,,
