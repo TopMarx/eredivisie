@@ -8,3 +8,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 174,62,7,2026-09-20T10:15:00Z,False,6,Feyenoord,5,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,15,0,2,-2
 174,70,8,2026-10-11T10:15:00Z,True,18,Willem II,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,14,0,1,-1
 174,79,9,2026-10-18T18:00:00Z,False,4,FC Twente,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,13,0,1,-1
+174,84,10,2026-10-24T14:30:00Z,True,10,PEC Zwolle,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,13,0,0,0

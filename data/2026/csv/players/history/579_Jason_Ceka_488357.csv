@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 579,56,7,2026-09-19T14:30:00Z,False,16,ADO Den Haag,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,1,0,1
 579,71,8,2026-10-11T12:30:00Z,False,10,PEC Zwolle,0,1,False,45,0,0,0,0,0,0,0,1,0,0,0,0,50,2,0,0,0
 579,81,9,2026-10-18T12:30:00Z,True,2,AZ,2,2,False,56,0,1,0,1,0,0,0,0,0,0,0,4,50,2,0,0,0
+579,85,10,2026-10-24T16:45:00Z,False,18,Willem II,1,6,False,90,1,0,0,1,0,0,0,0,0,0,0,7,50,2,0,0,0

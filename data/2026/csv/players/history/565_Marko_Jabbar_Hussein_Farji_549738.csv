@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 565,58,7,2026-09-19T16:45:00Z,False,13,Sparta Rotterdam,0,4,False,17,1,0,0,0,0,0,0,0,0,0,0,6,65,3,0,1,-1
 565,68,8,2026-10-09T18:00:00Z,False,11,PSV,2,0,False,26,0,0,0,1,0,0,0,0,0,0,0,1,65,3,0,0,0
 565,73,9,2026-10-16T18:00:00Z,True,15,Excelsior,4,0,False,17,0,0,0,0,0,0,0,0,0,0,0,1,65,3,0,0,0
+565,83,10,2026-10-24T19:00:00Z,False,16,ADO Den Haag,2,3,False,4,0,0,0,0,0,0,0,0,0,0,0,1,64,2,0,1,-1

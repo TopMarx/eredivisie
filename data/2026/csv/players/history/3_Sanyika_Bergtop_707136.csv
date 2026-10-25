@@ -8,3 +8,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 3,56,7,2026-09-19T14:30:00Z,True,17,SC Cambuur,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,190,5,14,-9
 3,72,8,2026-10-11T12:30:00Z,False,14,Telstar,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,190,9,9,0
 3,74,9,2026-10-17T14:30:00Z,True,11,PSV,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,186,2,6,-4
+3,83,10,2026-10-24T19:00:00Z,True,12,sc Heerenveen,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,185,2,3,-1

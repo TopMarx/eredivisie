@@ -8,3 +8,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 458,59,7,2026-09-19T19:00:00Z,True,7,Fortuna Sittard,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,21,2,1,1
 458,70,8,2026-10-11T10:15:00Z,False,5,FC Utrecht,3,1,False,9,0,0,0,1,0,0,0,0,0,0,0,1,44,19,0,2,-2
 458,76,9,2026-10-17T19:00:00Z,False,13,Sparta Rotterdam,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,43,23,4,0,4
+458,85,10,2026-10-24T16:45:00Z,True,17,SC Cambuur,1,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,42,21,2,4,-2

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 85,
-      "code": 2638966,
-      "team_h": 18,
-      "team_h_score": null,
-      "team_a": 17,
-      "team_a_score": null,
-      "event": 10,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-10-24T16:45:00Z",
-      "event_name": "Speelronde 10",
-      "is_home": true
-    },
-    {
       "id": 93,
       "code": 2638974,
       "team_h": 11,
@@ -637,6 +622,35 @@
       "selected": 607,
       "transfers_in": 0,
       "transfers_out": 13
+    },
+    {
+      "element": 454,
+      "fixture": 85,
+      "opponent_team": 17,
+      "total_points": 0,
+      "was_home": true,
+      "kickoff_time": "2026-10-24T16:45:00Z",
+      "team_h_score": 1,
+      "team_a_score": 6,
+      "round": 10,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 6,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 5,
+      "own_goals": 0,
+      "bonus": 0,
+      "value": 44,
+      "transfers_balance": -3,
+      "selected": 604,
+      "transfers_in": 3,
+      "transfers_out": 6
     }
   ],
   "history_past": []
