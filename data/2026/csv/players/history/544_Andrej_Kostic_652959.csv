@@ -7,3 +7,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 544,58,7,2026-09-19T16:45:00Z,True,12,sc Heerenveen,0,4,False,28,0,0,0,1,0,0,0,0,0,0,0,1,60,44,5,4,1
 544,67,8,2026-10-10T14:30:00Z,False,8,Go Ahead Eagles,3,3,False,11,0,1,0,0,0,0,0,0,0,0,0,4,60,46,7,5,2
 544,76,9,2026-10-17T19:00:00Z,True,18,Willem II,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,45,2,2,0
+544,90,10,2026-10-25T15:45:00Z,True,1,Ajax,1,2,False,20,0,0,0,0,0,0,0,0,0,0,0,1,60,45,3,4,-1

@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 575,61,7,2026-09-20T12:30:00Z,False,4,FC Twente,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,6,1,1,0
 575,68,8,2026-10-09T18:00:00Z,True,12,sc Heerenveen,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,60,12,6,0,6
 575,74,9,2026-10-17T14:30:00Z,False,16,ADO Den Haag,2,1,False,50,0,0,0,2,0,0,0,0,0,0,0,1,60,16,4,1,3
+575,89,10,2026-10-25T13:30:00Z,True,6,Feyenoord,1,1,False,14,0,0,0,0,0,0,0,0,0,0,0,1,60,18,4,1,3

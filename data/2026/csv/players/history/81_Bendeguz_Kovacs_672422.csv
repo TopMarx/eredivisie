@@ -8,3 +8,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 81,60,7,2026-09-20T12:30:00Z,True,14,Telstar,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,48,250,4,17,-13
 81,65,8,2026-10-10T16:45:00Z,False,6,Feyenoord,2,0,False,10,0,0,0,0,0,0,0,0,0,0,0,1,48,252,9,8,1
 81,81,9,2026-10-18T12:30:00Z,False,17,SC Cambuur,2,2,False,27,0,0,0,0,0,0,0,0,0,0,0,1,48,252,3,3,0
+81,86,10,2026-10-25T19:00:00Z,True,4,FC Twente,0,2,False,3,0,0,0,1,0,0,0,0,0,0,0,1,48,252,7,6,1
