@@ -9,3 +9,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 455,70,8,2026-10-11T10:15:00Z,False,5,FC Utrecht,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1268,87,52,35
 455,76,9,2026-10-17T19:00:00Z,False,13,Sparta Rotterdam,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1280,35,19,16
 455,85,10,2026-10-24T16:45:00Z,True,17,SC Cambuur,1,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1317,41,18,23
+455,93,11,2026-10-31T17:45:00Z,False,11,PSV,7,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1325,39,26,13
