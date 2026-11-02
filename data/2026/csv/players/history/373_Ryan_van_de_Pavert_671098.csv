@@ -9,3 +9,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 373,71,8,2026-10-11T12:30:00Z,False,10,PEC Zwolle,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,220,0,19,-19
 373,81,9,2026-10-18T12:30:00Z,True,2,AZ,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,211,0,9,-9
 373,85,10,2026-10-24T16:45:00Z,False,18,Willem II,1,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,206,0,5,-5
+373,94,11,2026-10-31T20:00:00Z,True,8,Go Ahead Eagles,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,201,0,5,-5

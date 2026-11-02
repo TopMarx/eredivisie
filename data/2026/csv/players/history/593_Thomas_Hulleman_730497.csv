@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 593,67,8,2026-10-10T14:30:00Z,True,13,Sparta Rotterdam,3,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1,0,0,0
 593,80,9,2026-10-18T10:15:00Z,False,10,PEC Zwolle,4,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1,0,0,0
 593,82,10,2026-10-23T18:00:00Z,True,14,Telstar,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,1,0,0,0
+593,94,11,2026-10-31T20:00:00Z,False,17,SC Cambuur,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,1,0,1

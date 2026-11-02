@@ -9,3 +9,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 150,66,8,2026-10-10T18:00:00Z,False,7,Fortuna Sittard,1,1,False,54,0,0,0,1,0,0,0,0,0,0,0,1,65,478,4,96,-92
 150,79,9,2026-10-18T18:00:00Z,True,5,FC Utrecht,1,2,False,45,0,0,0,2,0,0,0,0,0,0,0,1,65,426,8,58,-50
 150,86,10,2026-10-25T19:00:00Z,False,2,AZ,0,2,False,5,0,0,0,0,0,0,0,0,0,0,0,1,64,361,1,66,-65
+150,96,11,2026-11-01T13:30:00Z,False,15,Excelsior,0,9,False,27,0,0,0,0,0,0,0,0,0,0,0,1,63,318,0,46,-46

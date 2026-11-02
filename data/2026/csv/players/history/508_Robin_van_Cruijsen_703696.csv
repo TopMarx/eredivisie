@@ -9,3 +9,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 508,67,8,2026-10-10T14:30:00Z,False,8,Go Ahead Eagles,3,3,False,60,0,0,0,2,0,0,0,0,0,0,0,2,59,172,1,22,-21
 508,76,9,2026-10-17T19:00:00Z,True,18,Willem II,3,2,False,82,0,0,0,2,0,0,0,0,0,0,0,2,59,168,0,4,-4
 508,90,10,2026-10-25T15:45:00Z,True,1,Ajax,1,2,False,69,0,0,0,2,0,0,0,0,0,0,0,2,59,160,0,8,-8
+508,97,11,2026-11-01T15:45:00Z,False,3,FC Groningen,2,3,False,35,0,0,0,0,0,0,0,0,0,0,0,1,59,157,0,3,-3
