@@ -109,14 +109,25 @@ gw,10,8,382,545713,Ilyès Hamache,MID,11,False
 gw,10,9,190,573060,Rafik El Arguioui,MID,10,False
 gw,10,10,384,513579,Nicolas Binder,FWD,12,False
 gw,10,11,130,434030,Brynjólfur Willumsson,FWD,12,False
-season,,1,434,132100,Ronald Koeman Jr.,GK,60,False
-season,,2,210,573121,Givairo Read,DEF,59,False
-season,,3,340,250676,Sergiño Dest,DEF,49,False
-season,,4,63,646065,Mateo Chávez,DEF,48,False
-season,,5,275,486465,Søren Tengstedt,MID,79,True
-season,,6,401,515937,Jacob Trenskow,MID,69,False
-season,,7,234,597036,Gjivai Zechiël,MID,69,False
-season,,8,509,177591,Julian Brandt,MID,66,False
-season,,9,224,581136,Anis Hadj Moussa,MID,63,False
-season,,10,129,597363,Thom van Bergen,FWD,62,False
-season,,11,130,434030,Brynjólfur Willumsson,FWD,61,False
+gw,11,1,313,219250,Jasper Schendelaar,GK,10,False
+gw,11,2,367,578361,Ismaël Baouf,DEF,15,False
+gw,11,3,64,577122,Billy Van Duijl,DEF,13,False
+gw,11,4,542,437878,Devid Eugene Bouah,DEF,9,False
+gw,11,5,148,584447,Sondre Ørjasæter,MID,20,True
+gw,11,6,360,463414,Sven Mijnans,MID,17,False
+gw,11,7,160,511167,Daan Rots,MID,14,False
+gw,11,8,190,573060,Rafik El Arguioui,MID,13,False
+gw,11,9,446,510779,Tyrone Owusu,MID,12,False
+gw,11,10,165,120202,Wout Weghorst,FWD,20,False
+gw,11,11,432,482550,Nökkvi Thórisson,FWD,15,False
+season,,1,434,132100,Ronald Koeman Jr.,GK,62,False
+season,,2,210,573121,Givairo Read,DEF,61,False
+season,,3,340,250676,Sergiño Dest,DEF,58,False
+season,,4,63,646065,Mateo Chávez,DEF,49,False
+season,,5,275,486465,Søren Tengstedt,MID,81,True
+season,,6,401,515937,Jacob Trenskow,MID,72,False
+season,,7,234,597036,Gjivai Zechiël,MID,71,False
+season,,8,348,231765,Guus Til,MID,70,False
+season,,9,190,573060,Rafik El Arguioui,MID,68,False
+season,,10,129,597363,Thom van Bergen,FWD,70,False
+season,,11,130,434030,Brynjólfur Willumsson,FWD,66,False

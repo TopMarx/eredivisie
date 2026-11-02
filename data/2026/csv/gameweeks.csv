@@ -9,7 +9,7 @@ id,name,deadline_time,average_entry_score,highest_score,finished,data_checked,is
 8,Speelronde 8,2026-10-09T17:55:00Z,40,83,True,True,False,False,False
 9,Speelronde 9,2026-10-16T17:55:00Z,39,100,True,True,False,False,False
 10,Speelronde 10,2026-10-23T17:55:00Z,45,117,True,True,True,False,False
-11,Speelronde 11,2026-10-31T15:25:00Z,51,137,True,False,False,True,False
+11,Speelronde 11,2026-10-31T15:25:00Z,51,137,True,True,False,True,False
 12,Speelronde 12,2026-11-06T18:55:00Z,0,,False,False,False,False,True
 13,Speelronde 13,2026-11-21T15:25:00Z,0,,False,False,False,False,False
 14,Speelronde 14,2026-11-27T18:55:00Z,0,,False,False,False,False,False
