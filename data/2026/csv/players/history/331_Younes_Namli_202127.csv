@@ -10,3 +10,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 331,80,9,2026-10-18T10:15:00Z,True,8,Go Ahead Eagles,4,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,64,55,0,2,-2
 331,84,10,2026-10-24T14:30:00Z,False,5,FC Utrecht,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,64,54,0,1,-1
 331,98,11,2026-11-01T11:15:00Z,True,16,ADO Den Haag,1,0,False,59,0,1,0,0,0,0,0,0,0,0,0,4,64,58,3,0,3
+331,100,12,2026-11-06T19:00:00Z,False,18,Willem II,1,1,False,84,0,1,0,1,0,0,0,0,0,0,0,5,64,103,45,2,43
