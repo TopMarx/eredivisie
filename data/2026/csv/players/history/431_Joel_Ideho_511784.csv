@@ -10,3 +10,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 431,76,9,2026-10-17T19:00:00Z,True,18,Willem II,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,49,107,0,3,-3
 431,90,10,2026-10-25T15:45:00Z,True,1,Ajax,1,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,48,107,0,0,0
 431,97,11,2026-11-01T15:45:00Z,False,3,FC Groningen,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,48,105,0,2,-2
+431,101,12,2026-11-07T17:45:00Z,False,16,ADO Den Haag,3,1,False,4,0,0,0,0,0,0,0,0,0,0,0,1,48,103,0,2,-2

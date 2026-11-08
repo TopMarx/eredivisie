@@ -10,3 +10,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 267,80,9,2026-10-18T10:15:00Z,False,10,PEC Zwolle,4,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,6,0,0,0
 267,82,10,2026-10-23T18:00:00Z,True,14,Telstar,3,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,6,0,0,0
 267,94,11,2026-10-31T20:00:00Z,False,17,SC Cambuur,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,7,1,0,1
+267,102,12,2026-11-07T20:00:00Z,False,15,Excelsior,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,40,5,0,2,-2

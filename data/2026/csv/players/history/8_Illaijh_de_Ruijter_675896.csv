@@ -10,3 +10,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 8,74,9,2026-10-17T14:30:00Z,True,11,PSV,2,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,43,288,1,13,-12
 8,83,10,2026-10-24T19:00:00Z,True,12,sc Heerenveen,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,43,275,1,14,-13
 8,98,11,2026-11-01T11:15:00Z,False,10,PEC Zwolle,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,42,263,0,13,-13
+8,101,12,2026-11-07T17:45:00Z,True,13,Sparta Rotterdam,3,1,False,70,0,0,0,1,0,0,0,0,0,0,0,2,42,254,1,10,-9

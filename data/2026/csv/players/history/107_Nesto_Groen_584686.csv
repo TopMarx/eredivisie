@@ -10,3 +10,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 107,73,9,2026-10-16T18:00:00Z,False,12,sc Heerenveen,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,45,640,14,34,-20
 107,87,10,2026-10-25T11:15:00Z,False,7,Fortuna Sittard,1,0,False,55,0,0,0,0,0,0,0,0,0,0,0,1,45,602,6,47,-41
 107,96,11,2026-11-01T13:30:00Z,True,4,FC Twente,0,9,False,4,0,0,0,9,0,0,0,0,1,0,0,-2,44,594,21,31,-10
+107,102,12,2026-11-07T20:00:00Z,True,8,Go Ahead Eagles,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,558,14,52,-38
