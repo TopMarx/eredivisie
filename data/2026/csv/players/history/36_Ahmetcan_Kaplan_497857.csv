@@ -10,3 +10,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 36,75,9,2026-10-18T18:00:00Z,True,7,Fortuna Sittard,2,2,False,90,0,0,0,2,0,0,0,0,0,0,0,1,49,75,2,0,2
 36,88,10,2026-10-25T13:30:00Z,True,3,FC Groningen,2,2,False,55,0,0,0,2,0,0,0,0,0,0,0,0,49,77,4,1,3
 36,95,11,2026-10-31T17:45:00Z,False,12,sc Heerenveen,1,0,False,90,0,0,0,1,0,0,0,0,0,0,0,2,49,87,8,1,7
+36,107,12,2026-11-08T19:00:00Z,False,5,FC Utrecht,2,3,False,90,0,0,0,2,0,0,0,0,0,0,0,1,49,97,10,1,9

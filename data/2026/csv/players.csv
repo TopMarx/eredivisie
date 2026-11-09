@@ -2,157 +2,157 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 20,229595,Maarten,Paes,Paes,,1,215,Ajax,AJA,1,GK,a,,90,0,0,0,1,0,0,0,0,0,3,0,3,48,0.8
 21,596599,Joeri,Heerkens,Heerkens,,1,215,Ajax,AJA,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 22,593028,Paul,Reverson,Reverson,,1,215,Ajax,AJA,1,GK,u,Verhuurd aan De Graafschap,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
-23,615379,Dies,Janse,Janse,,1,215,Ajax,AJA,2,DEF,a,,283,0,0,1,3,0,0,0,1,0,0,1,10,54,0.7
-24,498040,Youri,Baas,Baas,,1,215,Ajax,AJA,2,DEF,a,,822,1,0,2,11,0,0,0,2,0,0,5,33,64,11.0
+23,615379,Dies,Janse,Janse,,1,215,Ajax,AJA,2,DEF,a,,373,0,0,1,5,1,0,0,1,0,0,1,9,54,0.7
+24,498040,Youri,Baas,Baas,,1,215,Ajax,AJA,2,DEF,a,,900,1,0,2,12,0,0,0,2,0,0,5,35,64,11.0
 25,565013,Anton,Gaaei,Gaaei,,1,215,Ajax,AJA,2,DEF,i,Blessure,360,0,0,1,6,0,0,0,1,0,0,0,9,53,3.2
-26,477625,Lucas,Rosa,Rosa,,1,215,Ajax,AJA,2,DEF,a,,612,0,1,2,7,0,0,0,3,0,0,3,23,55,3.2
-27,650530,Jorthy,Mokio,Mokio,,1,215,Ajax,AJA,3,MID,a,,743,3,2,2,11,0,0,0,2,0,0,2,42,60,1.9
-28,222702,Owen,Wijndal,Wijndal,,1,215,Ajax,AJA,2,DEF,a,,403,0,1,2,5,0,0,0,0,0,0,0,20,47,1.6
+26,477625,Lucas,Rosa,Rosa,,1,215,Ajax,AJA,2,DEF,a,,702,0,1,2,9,0,0,0,4,0,0,3,23,54,3.2
+27,650530,Jorthy,Mokio,Mokio,,1,215,Ajax,AJA,3,MID,a,,833,3,2,2,13,0,0,0,2,0,0,2,44,60,1.9
+28,222702,Owen,Wijndal,Wijndal,,1,215,Ajax,AJA,2,DEF,a,,493,0,1,2,7,0,0,0,1,0,0,0,20,47,1.6
 29,210906,Ko,Itakura,Itakura,,1,215,Ajax,AJA,2,DEF,u,Vertrokken naar Borussia Mönchengladbach,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0.6
 30,240992,Josip,Sutalo,Sutalo,,1,215,Ajax,AJA,2,DEF,u,Vertrokken naar Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0.4
-31,624879,Aaron,Bouwman,Bouwman,,1,215,Ajax,AJA,2,DEF,a,,551,1,0,3,6,0,0,0,1,0,0,0,27,55,3.4
-32,58877,Daley,Blind,Blind,,1,215,Ajax,AJA,2,DEF,a,,18,0,0,0,0,0,0,0,0,0,0,0,2,53,4.5
+31,624879,Aaron,Bouwman,Bouwman,,1,215,Ajax,AJA,2,DEF,a,,641,1,0,3,8,0,0,0,2,0,0,0,27,55,3.4
+32,58877,Daley,Blind,Blind,,1,215,Ajax,AJA,2,DEF,a,,29,0,0,0,1,0,0,0,0,0,0,0,3,53,4.5
 33,648146,Jinairo,Johnson,Johnson,,1,215,Ajax,AJA,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
 34,550224,Tristan,Gooijer,Gooijer,,1,215,Ajax,AJA,2,DEF,u,Vertrokken naar Lommel SK,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.5
-35,230971,Caio Henrique,Oliveira Silva,C. Henrique,,1,215,Ajax,AJA,2,DEF,d,Bovenbeenblessure,486,0,1,2,7,0,0,0,1,0,0,0,20,62,3.1
-37,549458,Oscar,Gloukh,Gloukh,,1,215,Ajax,AJA,3,MID,a,,666,1,4,2,8,0,0,0,1,0,0,5,40,91,3.9
-38,109065,Davy,Klaassen,Klaassen,,1,215,Ajax,AJA,3,MID,a,,638,3,1,2,6,0,0,1,2,0,0,0,32,83,2.9
+35,230971,Caio Henrique,Oliveira Silva,C. Henrique,,1,215,Ajax,AJA,2,DEF,a,,486,0,1,2,7,0,0,0,1,0,0,0,20,62,3.1
+37,549458,Oscar,Gloukh,Gloukh,,1,215,Ajax,AJA,3,MID,a,,752,1,6,2,9,0,0,0,2,0,0,8,50,91,4.0
+38,109065,Davy,Klaassen,Klaassen,,1,215,Ajax,AJA,3,MID,a,,697,3,1,2,6,0,0,1,2,0,0,0,33,83,2.9
 39,568465,Mika,Godts,Godts,,1,215,Ajax,AJA,3,MID,u,Vertrokken naar Paris Saint-Germain,29,0,1,0,0,0,0,0,0,0,0,0,4,124,4.0
 40,492629,Youri,Regeer,Regeer,,1,215,Ajax,AJA,3,MID,u,Verhuurd aan Werder Bremen,150,0,0,1,2,0,0,0,1,0,0,0,4,65,0.1
-41,88935,Steven,Berghuis,Berghuis,,1,215,Ajax,AJA,3,MID,a,,416,1,2,2,5,0,0,0,2,0,0,3,26,77,1.3
-42,560116,Rayane,Bounida,Bounida,,1,215,Ajax,AJA,3,MID,a,,8,0,0,0,1,0,0,0,0,0,0,0,1,69,0.1
+41,88935,Steven,Berghuis,Berghuis,,1,215,Ajax,AJA,3,MID,a,,416,1,2,2,5,0,0,0,2,0,0,3,26,77,1.2
+42,560116,Rayane,Bounida,Bounida,,1,215,Ajax,AJA,3,MID,a,,39,1,0,0,3,0,0,0,0,0,0,0,7,69,0.1
 43,492771,Kian,Fitz-Jim,Fitz-Jim,,1,215,Ajax,AJA,3,MID,u,Vertrokken naar Torino FC,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0.0
-44,493014,Oliver,Edvardsen,Edvardsen,,1,215,Ajax,AJA,3,MID,d,Blessure,106,0,0,0,2,0,0,0,0,0,0,0,4,69,0.2
+44,493014,Oliver,Edvardsen,Edvardsen,,1,215,Ajax,AJA,3,MID,a,,106,0,0,0,2,0,0,0,0,0,0,0,4,69,0.2
 45,641213,Maher,Carrizo,Carrizo,,1,215,Ajax,AJA,3,MID,u,Verhuurd aan FC Kopenhagen,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0.2
 46,650561,Pharell,Nash,Nash,,1,215,Ajax,AJA,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.0
-47,650628,Abdellah,Ouazane,Ouazane,,1,215,Ajax,AJA,3,MID,a,,434,2,1,1,6,0,0,0,4,0,0,3,27,45,10.5
+47,650628,Abdellah,Ouazane,Ouazane,,1,215,Ajax,AJA,3,MID,a,,437,2,1,1,7,0,0,0,4,0,0,3,28,45,10.5
 48,505199,Amourricho,van Axel Dongen,Van Axel Dongen,,1,215,Ajax,AJA,3,MID,u,Contract ontbonden,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.0
 49,567732,Jan,Faberski,Faberski,,1,215,Ajax,AJA,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.0
 50,209914,Kasper,Dolberg,Dolberg,,1,215,Ajax,AJA,4,FWD,i,Knieblessure,326,2,3,1,4,0,0,0,0,0,0,3,30,84,1.9
 51,593012,Don-Angelo,Konadu,Konadu,,1,215,Ajax,AJA,4,FWD,u,Verhuurd aan Lommel SK,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.2
-487,478011,Marcos Leonardo,Santos Almeida,M. Leonardo,,1,215,Ajax,AJA,4,FWD,a,,221,1,1,0,3,0,0,0,0,0,0,0,15,112,2.3
+487,478011,Marcos Leonardo,Santos Almeida,M. Leonardo,,1,215,Ajax,AJA,4,FWD,a,,224,1,1,0,4,0,0,0,0,0,0,0,16,112,2.2
 492,650643,Mohamed,Abdalla,Abdalla,,1,215,Ajax,AJA,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
-502,488213,Tolu,Arokodare,Tolu,,1,215,Ajax,AJA,4,FWD,a,,522,6,2,2,7,0,0,0,0,0,0,7,53,89,30.5
-509,177591,Julian,Brandt,Brandt,,1,215,Ajax,AJA,3,MID,d,Spierblessure,725,6,2,2,10,0,0,0,1,0,0,11,67,98,27.2
-516,77318,Marc,ter Stegen,Ter Stegen,,1,215,Ajax,AJA,1,GK,a,,900,0,0,3,12,0,1,0,0,0,30,8,48,56,24.6
+502,488213,Tolu,Arokodare,Tolu,,1,215,Ajax,AJA,4,FWD,a,,608,7,2,2,8,0,0,0,1,0,0,9,60,89,31.2
+509,177591,Julian,Brandt,Brandt,,1,215,Ajax,AJA,3,MID,i,Spierblessure,725,6,2,2,10,0,0,0,1,0,0,11,67,98,26.5
+516,77318,Marc,ter Stegen,Ter Stegen,,1,215,Ajax,AJA,1,GK,a,,990,0,0,3,14,0,1,0,0,0,34,8,50,56,24.8
 541,669937,Jofre,Torrents,Torrents,,1,215,Ajax,AJA,2,DEF,a,,8,0,0,0,0,0,0,0,0,0,0,0,1,46,0.0
-551,194282,Viktor,Tsygankov,Tsygankov,,1,215,Ajax,AJA,3,MID,d,Blessure,248,1,1,0,5,0,0,0,0,0,0,0,15,86,0.0
-557,172912,Sofyan,Amrabat,S. Amrabat,,1,215,Ajax,AJA,3,MID,d,Liesblessure,533,0,0,1,7,0,0,0,0,0,0,0,14,64,0.1
+551,194282,Viktor,Tsygankov,Tsygankov,,1,215,Ajax,AJA,3,MID,i,Blessure,248,1,1,0,5,0,0,0,0,0,0,0,15,86,0.0
+557,172912,Sofyan,Amrabat,S. Amrabat,,1,215,Ajax,AJA,3,MID,a,,563,0,0,1,9,0,0,0,0,0,0,0,15,64,0.1
 571,535818,Simon,Adingra,Adingra,,1,215,Ajax,AJA,3,MID,i,Blessure,30,0,0,0,0,0,0,0,0,0,0,0,1,84,0.0
 574,201057,Thilo,Kehrer,Kehrer,,1,215,Ajax,AJA,2,DEF,a,,442,1,1,0,7,0,0,0,0,0,0,3,22,58,1.3
-598,227127,Yves,Bissouma,Bissouma,,1,215,Ajax,AJA,3,MID,a,,67,0,0,0,1,0,0,0,0,0,0,0,3,64,0.0
+598,227127,Yves,Bissouma,Bissouma,,1,215,Ajax,AJA,3,MID,a,,126,0,0,0,1,0,0,0,0,0,0,0,4,64,0.0
 52,563876,Rome-Jayden,Owusu-Oduro,Owusu-Oduro,,2,313,AZ,AZ,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,47,1.4
 53,86912,Hobie,Verhulst,Verhulst,,2,313,AZ,AZ,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
 54,59108,Jeroen,Zoet,Zoet,,2,313,AZ,AZ,1,GK,i,Blessure,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.2
-55,420687,Jari,De Busser,De Busser,,2,313,AZ,AZ,1,GK,a,,990,0,0,3,13,0,0,0,0,0,20,0,32,50,27.6
-56,550226,Wouter,Goes,Goes,,2,313,AZ,AZ,2,DEF,a,,828,0,1,3,11,0,0,0,2,0,0,5,33,55,21.5
+55,420687,Jari,De Busser,De Busser,,2,313,AZ,AZ,1,GK,a,,1080,0,0,3,16,0,0,0,0,0,22,0,33,50,27.5
+56,550226,Wouter,Goes,Goes,,2,313,AZ,AZ,2,DEF,a,,887,0,1,3,14,0,0,0,2,0,0,5,33,55,21.3
 57,465987,Alexandre,Penetra,Penetra,,2,313,AZ,AZ,2,DEF,u,Verhuurd aan Çorum FK,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.7
 58,565905,Seiya,Maikuma,Maikuma,,2,313,AZ,AZ,2,DEF,a,,45,0,0,0,1,0,0,0,0,0,0,0,5,54,0.7
-60,498481,Denso,Kasius,Kasius,,2,313,AZ,AZ,2,DEF,a,,49,0,0,0,2,0,0,0,0,0,0,0,2,59,0.4
-61,431637,Mees,de Wit,M. De Wit,,2,313,AZ,AZ,2,DEF,a,,173,0,1,0,2,0,0,0,1,0,0,0,8,52,5.0
-62,576739,Elijah,Dijkstra,Dijkstra,,2,313,AZ,AZ,2,DEF,a,,894,0,0,4,10,0,0,0,1,0,0,5,39,51,26.6
-63,646065,Mateo,Chávez,Chávez,,2,313,AZ,AZ,2,DEF,a,,809,1,3,3,10,0,0,0,1,0,0,6,49,56,32.3
+60,498481,Denso,Kasius,Kasius,,2,313,AZ,AZ,2,DEF,a,,55,0,0,0,2,0,0,0,0,0,0,0,3,59,0.4
+61,431637,Mees,de Wit,M. De Wit,,2,313,AZ,AZ,2,DEF,a,,174,0,1,0,2,0,0,0,1,0,0,0,9,52,5.0
+62,576739,Elijah,Dijkstra,Dijkstra,,2,313,AZ,AZ,2,DEF,a,,977,0,1,4,13,0,0,0,1,0,0,5,43,51,26.6
+63,646065,Mateo,Chávez,Chávez,,2,313,AZ,AZ,2,DEF,a,,899,2,3,3,13,0,0,0,1,0,0,6,56,56,32.4
 65,622188,Rion,Ichihara,Ichihara,,2,313,AZ,AZ,2,DEF,a,,10,0,0,0,0,0,0,0,0,0,0,0,1,43,0.0
-66,219262,Peer,Koopmeiners,Koopmeiners,,2,313,AZ,AZ,3,MID,a,,984,1,1,3,13,0,0,0,0,0,0,4,37,65,5.2
-67,85654,Jordy,Clasie,Clasie,,2,313,AZ,AZ,3,MID,a,,342,1,0,1,9,0,0,0,0,0,0,2,19,60,0.3
-68,568188,Kees,Smit,Smit,,2,313,AZ,AZ,3,MID,a,,339,0,2,2,2,0,0,0,0,0,0,0,17,73,7.8
+66,219262,Peer,Koopmeiners,Koopmeiners,,2,313,AZ,AZ,3,MID,a,,1074,1,1,3,16,0,0,0,1,0,0,4,38,65,5.1
+67,85654,Jordy,Clasie,Clasie,,2,313,AZ,AZ,3,MID,a,,372,1,0,1,9,0,0,0,0,0,0,2,20,60,0.3
+68,568188,Kees,Smit,Smit,,2,313,AZ,AZ,3,MID,a,,369,0,2,2,2,0,0,0,0,0,0,0,18,73,7.8
 69,438251,Ibrahim,Sadiq,Sadiq,,2,313,AZ,AZ,3,MID,u,Vertrokken naar Colorado Rapids,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.3
 70,509478,Mayckel,Lahdo,Lahdo,,2,313,AZ,AZ,3,MID,u,Vertrokken naar Malmö FF,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.1
-71,550228,Ro-Zangelo,Daal,Daal,,2,313,AZ,AZ,3,MID,a,,886,5,0,4,11,0,0,0,3,0,0,12,60,73,20.8
-72,637895,Ayoub,Oufkir,Oufkir,,2,313,AZ,AZ,3,MID,a,,244,2,0,0,7,0,0,0,4,0,0,0,18,65,0.2
+71,550228,Ro-Zangelo,Daal,Daal,,2,313,AZ,AZ,3,MID,a,,969,5,1,4,14,0,0,0,3,0,0,12,65,73,20.6
+72,637895,Ayoub,Oufkir,Oufkir,,2,313,AZ,AZ,3,MID,a,,334,3,1,0,10,0,0,0,4,0,0,0,28,65,0.2
 73,513456,Isak,Jensen,Jensen,,2,313,AZ,AZ,3,MID,u,Verhuurd aan FC Lorient,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.3
-74,560551,Weslley,Pinto Batista,Patati,,2,313,AZ,AZ,3,MID,d,Blessure,521,1,0,0,8,0,0,0,2,0,0,0,17,66,1.4
+74,560551,Weslley,Pinto Batista,Patati,,2,313,AZ,AZ,3,MID,d,Blessure,521,1,0,0,8,0,0,0,2,0,0,0,17,66,1.3
 77,647853,Wassim,Bouziane,Bouziane,,2,313,AZ,AZ,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0.0
 78,647873,Rio,Robbemond,Robbemond,,2,313,AZ,AZ,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0.1
-79,550227,Dave,Kwakman,Kwakman,,2,313,AZ,AZ,3,MID,a,,760,1,1,2,8,0,0,0,0,0,0,1,29,55,1.3
-80,560374,Lewis,Schouten,Schouten,,2,313,AZ,AZ,3,MID,d,Hamstringblessure,984,1,0,3,13,0,0,0,2,0,0,3,31,50,1.2
+79,550227,Dave,Kwakman,Kwakman,,2,313,AZ,AZ,3,MID,a,,850,1,1,2,11,0,0,0,0,0,0,1,31,55,1.3
+80,560374,Lewis,Schouten,Schouten,,2,313,AZ,AZ,3,MID,d,Hamstringblessure,984,1,0,3,13,0,0,0,2,0,0,3,31,49,1.1
 81,672422,Bendegúz,Kovács,Kovács,,2,313,AZ,AZ,4,FWD,a,,48,0,0,0,1,0,0,0,0,0,0,0,5,48,0.4
 82,447235,Troy,Parrott,Parrott,,2,313,AZ,AZ,4,FWD,u,Vertrokken naar Real Betis,33,0,1,0,0,0,0,0,0,0,0,0,4,99,2.3
-83,563877,Mexx,Meerdink,Meerdink,,2,313,AZ,AZ,4,FWD,a,,918,4,2,3,12,0,0,0,0,0,0,6,49,90,36.9
+83,563877,Mexx,Meerdink,Meerdink,,2,313,AZ,AZ,4,FWD,a,,1008,6,3,3,15,0,0,1,0,0,0,9,63,90,36.7
 84,441441,Jizz,Hornkamp,Hornkamp,,2,313,AZ,AZ,4,FWD,i,Blessure,76,2,0,0,1,0,0,0,0,0,0,3,14,69,0.6
 118,520262,Stije,Resink,Resink,,2,313,AZ,AZ,3,MID,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.1
-218,235628,Calvin,Stengs,Stengs,,2,313,AZ,AZ,3,MID,a,,529,1,3,2,7,0,0,0,0,0,0,2,33,60,2.9
+218,235628,Calvin,Stengs,Stengs,,2,313,AZ,AZ,3,MID,a,,535,1,3,2,7,0,0,0,0,0,0,2,34,60,2.9
 500,568471,Sam,de Grand,De Grand,,2,313,AZ,AZ,2,DEF,u,Verhuurd aan Lommel SK,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.5
 510,631118,Andrea,Natali,Natali,,2,313,AZ,AZ,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 522,682039,Hessel,de Wit,H. De Wit,,2,313,AZ,AZ,3,MID,a,,18,0,0,0,0,0,0,0,0,0,0,0,1,44,0.0
-556,568423,Valdemar,Byskov,Byskov,,2,313,AZ,AZ,3,MID,a,,256,0,2,1,2,0,0,0,0,0,0,0,14,63,0.0
-561,167075,Wesley,Hoedt,Hoedt,,2,313,AZ,AZ,2,DEF,a,,107,0,0,1,0,0,0,0,0,0,0,0,7,46,0.0
+556,568423,Valdemar,Byskov,Byskov,,2,313,AZ,AZ,3,MID,a,,315,0,2,1,5,0,0,0,0,0,0,0,15,63,0.0
+561,167075,Wesley,Hoedt,Hoedt,,2,313,AZ,AZ,2,DEF,a,,197,0,0,1,3,0,0,0,0,0,0,0,8,46,0.0
 587,634626,Ismail,Ka,Ka,,2,313,AZ,AZ,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
-109,216139,Etienne,Vaessen,Vaessen,,3,425,FC Groningen,GRO,1,GK,a,,990,0,1,1,24,0,1,0,1,0,39,2,37,51,14.4
-110,581593,Lovro,Stubljar,Stubljar,,3,425,FC Groningen,GRO,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.0
+109,216139,Etienne,Vaessen,Vaessen,,3,425,FC Groningen,GRO,1,GK,s,Geschorst t/m speelronde 13 (21 nov.),1077,0,1,1,28,0,1,0,1,1,40,2,34,51,14.2
+110,581593,Lovro,Stubljar,Stubljar,,3,425,FC Groningen,GRO,1,GK,a,,1,0,0,0,1,0,0,0,0,0,0,0,1,43,0.0
 111,497264,Rijk,Janse,Janse,,3,425,FC Groningen,GRO,1,GK,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.4
-112,633744,Wouter,Prins,Prins,,3,425,FC Groningen,GRO,2,DEF,a,,510,0,0,2,12,0,0,0,0,0,0,0,19,50,0.4
-113,538777,Thijmen,Blokzijl,Blokzijl,,3,425,FC Groningen,GRO,2,DEF,a,,990,0,1,1,24,1,0,0,0,0,0,0,19,54,14.4
-114,428920,Marco,Rente,Rente,,3,425,FC Groningen,GRO,2,DEF,a,,470,2,1,1,13,0,0,0,0,0,0,3,31,53,6.4
+112,633744,Wouter,Prins,Prins,,3,425,FC Groningen,GRO,2,DEF,a,,527,0,0,2,14,0,0,0,0,0,0,0,19,50,0.4
+113,538777,Thijmen,Blokzijl,Blokzijl,,3,425,FC Groningen,GRO,2,DEF,a,,1080,0,1,1,28,1,0,0,0,0,0,0,19,54,14.4
+114,428920,Marco,Rente,Rente,,3,425,FC Groningen,GRO,2,DEF,a,,560,2,1,1,17,0,0,0,1,0,0,3,30,53,6.3
 115,646652,Sven,Bouland,Bouland,,3,425,FC Groningen,GRO,2,DEF,u,Vertrokken naar MVV,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
-116,639577,Tyrique,Mercera,Mercera,,3,425,FC Groningen,GRO,2,DEF,a,,19,0,0,0,1,0,0,0,0,0,0,0,1,49,0.1
+116,639577,Tyrique,Mercera,Mercera,,3,425,FC Groningen,GRO,2,DEF,a,,30,0,0,0,2,0,0,0,0,0,0,0,2,49,0.1
 117,649808,Elvis,van der Laan,Van der Laan,,3,425,FC Groningen,GRO,2,DEF,a,,171,0,0,0,2,0,0,0,0,0,0,0,5,40,0.7
-119,601181,Jorg,Schreuders,Schreuders,,3,425,FC Groningen,GRO,3,MID,a,,937,1,4,1,21,0,0,0,0,0,0,2,41,59,1.2
-120,538778,Tika,de Jonge,De Jonge,,3,425,FC Groningen,GRO,3,MID,a,,954,0,2,1,24,0,0,0,1,0,0,0,28,58,0.3
+119,601181,Jorg,Schreuders,Schreuders,,3,425,FC Groningen,GRO,3,MID,a,,1015,1,4,1,24,0,0,0,0,0,0,2,43,59,1.2
+120,538778,Tika,de Jonge,De Jonge,,3,425,FC Groningen,GRO,3,MID,a,,1043,0,2,1,27,0,0,0,1,0,0,0,30,58,0.3
 121,659908,David,van der Werff,Van der Werff,,3,425,FC Groningen,GRO,3,MID,d,Blessure,806,2,3,2,20,0,0,0,3,0,0,2,40,60,1.9
 122,490132,Noam,Emeran,Emeran,,3,425,FC Groningen,GRO,3,MID,u,Contract ontbonden,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
 123,703860,Mark,Hoekstra,Hoekstra,,3,425,FC Groningen,GRO,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.2
 124,592436,Travis,Hernes,Hernes,,3,425,FC Groningen,GRO,3,MID,i,Knieblessure,49,0,0,0,0,0,0,0,1,0,0,0,5,48,0.1
 125,703855,Jismerai,Dillema,Dillema,,3,425,FC Groningen,GRO,3,MID,a,,7,0,0,0,1,0,0,0,0,0,0,0,1,43,0.1
 126,727095,Ryan,Metu,Metu,,3,425,FC Groningen,GRO,3,MID,i,Blessure,21,0,0,0,0,0,0,0,0,0,0,0,3,43,0.1
-127,576754,Tygo,Land,Land,,3,425,FC Groningen,GRO,3,MID,a,,585,2,1,0,13,0,0,0,1,0,0,1,30,53,3.1
-128,209604,Pelle,Clement,Clement,,3,425,FC Groningen,GRO,3,MID,a,,935,0,2,2,23,0,0,0,0,0,0,0,29,59,0.3
-129,597363,Thom,van Bergen,Van Bergen,,3,425,FC Groningen,GRO,4,FWD,a,,968,7,3,1,23,0,0,1,1,0,0,14,70,81,38.4
-130,434030,Brynjólfur,Willumsson,Willumsson,,3,425,FC Groningen,GRO,4,FWD,a,,828,8,1,2,21,0,0,0,1,0,0,11,66,69,16.9
+127,576754,Tygo,Land,Land,,3,425,FC Groningen,GRO,3,MID,a,,602,2,1,0,15,0,0,0,1,0,0,1,31,53,3.1
+128,209604,Pelle,Clement,Clement,,3,425,FC Groningen,GRO,3,MID,a,,1025,0,2,2,27,0,0,0,1,0,0,0,30,59,0.3
+129,597363,Thom,van Bergen,Van Bergen,,3,425,FC Groningen,GRO,4,FWD,a,,1058,8,4,1,27,0,0,1,1,0,0,16,81,81,38.4
+130,434030,Brynjólfur,Willumsson,Willumsson,,3,425,FC Groningen,GRO,4,FWD,a,,917,9,1,2,24,0,0,0,1,0,0,11,72,69,17.1
 131,192382,Oskar,Zawada,Zawada,,3,425,FC Groningen,GRO,4,FWD,a,,76,0,1,0,2,0,0,0,0,0,0,0,8,58,0.2
-132,644574,Nils,Eggens,Eggens,,3,425,FC Groningen,GRO,4,FWD,a,,73,1,0,0,2,0,0,0,0,0,0,0,12,44,0.6
+132,644574,Nils,Eggens,Eggens,,3,425,FC Groningen,GRO,4,FWD,a,,74,1,0,0,3,0,0,0,0,0,0,0,13,44,0.6
 493,658130,Nikolas,Brandis,Brandis,,3,425,FC Groningen,GRO,2,DEF,a,,46,0,0,0,1,0,0,0,0,0,0,0,3,48,0.0
 507,616925,Malcolm,Jeng,Jeng,,3,425,FC Groningen,GRO,2,DEF,i,Achillespeesblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.0
 518,673549,Alvin,Nordin,Nordin,,3,425,FC Groningen,GRO,3,MID,d,Blessure,13,0,0,0,0,0,0,0,0,0,0,0,2,49,0.0
-537,506214,Jacob,Ondrejka,Ondrejka,,3,425,FC Groningen,GRO,3,MID,a,,386,1,0,1,8,0,0,0,1,0,0,3,21,63,0.0
-538,485123,Márk,Csinger,Csinger,,3,425,FC Groningen,GRO,2,DEF,a,,642,0,0,1,18,0,0,0,2,0,0,1,12,50,0.0
+537,506214,Jacob,Ondrejka,Ondrejka,,3,425,FC Groningen,GRO,3,MID,a,,458,2,1,1,10,0,0,0,1,0,0,4,32,63,0.0
+538,485123,Márk,Csinger,Csinger,,3,425,FC Groningen,GRO,2,DEF,a,,714,0,0,1,20,0,0,0,2,0,0,1,13,50,0.0
 583,232566,Pelle,Boevink,Boevink,,3,425,FC Groningen,GRO,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 588,742190,Jahelille,Hall,Hall,,3,425,FC Groningen,GRO,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 589,742188,Jesper,Mosselaar,Mosselaar,,3,425,FC Groningen,GRO,2,DEF,a,,1,0,0,0,0,0,0,0,0,0,0,0,1,40,0.0
-599,170135,Hans,Hateboer,Hateboer,,3,425,FC Groningen,GRO,2,DEF,a,,365,0,1,0,11,0,0,0,1,0,0,0,7,50,0.2
+599,170135,Hans,Hateboer,Hateboer,,3,425,FC Groningen,GRO,2,DEF,s,Geschorst door directe rode kaart,455,0,1,0,15,0,0,0,1,1,0,0,4,50,0.2
 133,84164,Lars,Unnerstall,Unnerstall,,4,324,FC Twente,TWE,1,GK,i,Rugblessure,540,0,0,2,6,0,0,0,0,0,16,0,20,49,4.8
 134,436493,Issam,El Maach,El Maach,,4,324,FC Twente,TWE,1,GK,u,Contract ontbonden,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
 135,668057,Yannick,Gerritsen,Gerritsen,,4,324,FC Twente,TWE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
-136,38989,Remko,Pasveer,Pasveer,,4,324,FC Twente,TWE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.4
+136,38989,Remko,Pasveer,Pasveer,,4,324,FC Twente,TWE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.4
 138,576740,Juliën,Mesbahi,Mesbahi,,4,324,FC Twente,TWE,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
-139,463005,Bart,van Rooij,Van Rooij,,4,324,FC Twente,TWE,2,DEF,a,,899,0,1,4,9,0,0,0,1,0,0,4,40,65,26.9
+139,463005,Bart,van Rooij,Van Rooij,,4,324,FC Twente,TWE,2,DEF,a,,989,0,1,4,11,0,0,0,1,0,0,4,41,65,26.8
 140,521064,Max,Bruns,Bruns,,4,324,FC Twente,TWE,2,DEF,i,Blessure,455,0,1,2,6,0,0,0,1,0,0,0,19,44,0.7
 141,521880,Stav,Lemkin,Lemkin,,4,324,FC Twente,TWE,2,DEF,i,Buikwandblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.2
 142,499139,Guilherme,Peixoto,Peixoto,,4,324,FC Twente,TWE,2,DEF,u,Verhuurd aan Roda JC,26,0,0,0,1,0,0,0,0,0,0,0,2,44,0.0
-143,109236,Robin,Pröpper,Pröpper,,4,324,FC Twente,TWE,2,DEF,a,,854,2,0,3,9,0,0,0,1,0,0,5,47,52,7.9
-144,636868,Ruud,Nijstad,Nijstad,,4,324,FC Twente,TWE,2,DEF,a,,855,1,0,3,9,0,0,0,0,0,0,0,34,55,10.5
+143,109236,Robin,Pröpper,Pröpper,,4,324,FC Twente,TWE,2,DEF,a,,944,2,0,3,11,0,0,0,2,0,0,5,47,53,8.1
+144,636868,Ruud,Nijstad,Nijstad,,4,324,FC Twente,TWE,2,DEF,a,,945,1,0,3,11,0,0,0,0,0,0,2,37,55,10.5
 145,721209,Bjorn,Titulaer,Titulaer,,4,324,FC Twente,TWE,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
-146,588756,Aske,Adelgaard,Adelgaard,,4,324,FC Twente,TWE,2,DEF,a,,668,0,1,4,5,0,0,0,0,0,0,4,38,54,3.4
+146,588756,Aske,Adelgaard,Adelgaard,,4,324,FC Twente,TWE,2,DEF,a,,749,0,1,4,7,0,0,0,0,0,0,4,39,54,3.4
 147,616386,Krzysztof,Kurowski,Kurowski,,4,324,FC Twente,TWE,2,DEF,a,,13,0,1,0,1,0,0,0,0,0,0,0,4,43,0.1
-148,584447,Sondre,Ørjasæter,Ørjasæter,,4,324,FC Twente,TWE,3,MID,a,,725,2,7,4,8,0,0,0,1,0,0,6,58,69,11.9
-149,550822,Daouda,Weidmann,Weidmann,,4,324,FC Twente,TWE,3,MID,a,,710,3,3,3,8,0,0,0,0,1,0,10,51,53,9.8
-150,102228,Marko,Pjaca,Pjaca,,4,324,FC Twente,TWE,3,MID,a,,480,2,0,1,7,0,0,0,0,0,0,0,26,62,0.4
+148,584447,Sondre,Ørjasæter,Ørjasæter,,4,324,FC Twente,TWE,3,MID,a,,815,2,7,4,10,0,0,0,1,0,0,6,60,69,12.4
+149,550822,Daouda,Weidmann,Weidmann,,4,324,FC Twente,TWE,3,MID,a,,791,3,3,3,10,0,0,0,1,1,0,10,52,53,9.8
+150,102228,Marko,Pjaca,Pjaca,,4,324,FC Twente,TWE,3,MID,a,,501,2,0,1,7,0,0,0,0,0,0,0,27,62,0.4
 151,450043,Mathias,Kjølø,Kjølø,,4,324,FC Twente,TWE,3,MID,u,Vertrokken naar Rosenborg BK,22,0,0,0,0,0,0,0,0,0,0,0,1,49,0.1
 152,223345,Taylor,Booth,Booth,,4,324,FC Twente,TWE,3,MID,u,Verhuurd aan Real Salt Lake City,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.1
 153,511786,Kristian,Hlynsson,Hlynsson,,4,324,FC Twente,TWE,3,MID,a,,148,0,0,0,1,0,0,0,0,0,0,0,6,73,3.5
 155,178974,Arno,Verschueren,Verschueren,,4,324,FC Twente,TWE,3,MID,u,Vertrokken naar SK Beveren,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.0
 156,613579,Gijs,Besselink,Besselink,,4,324,FC Twente,TWE,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
-157,546604,Younes,Taha,Taha,,4,324,FC Twente,TWE,3,MID,a,,727,2,4,4,7,0,0,0,1,0,0,0,43,69,2.7
+157,546604,Younes,Taha,Taha,,4,324,FC Twente,TWE,3,MID,a,,795,2,5,4,9,0,0,0,1,0,0,0,48,69,2.7
 158,655383,Nigel,Groenewald,Groenewald,,4,324,FC Twente,TWE,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-159,462095,Thomas,van den Belt,Van den Belt,,4,324,FC Twente,TWE,3,MID,a,,310,1,1,1,3,0,0,0,0,0,0,0,22,57,0.5
-160,511167,Daan,Rots,D. Rots,,4,324,FC Twente,TWE,3,MID,a,,627,3,2,3,3,0,0,0,1,0,0,4,43,73,8.4
+159,462095,Thomas,van den Belt,Van den Belt,,4,324,FC Twente,TWE,3,MID,a,,318,1,1,1,3,0,0,0,0,0,0,0,23,57,0.5
+160,511167,Daan,Rots,D. Rots,,4,324,FC Twente,TWE,3,MID,a,,717,3,2,3,5,0,0,0,1,0,0,4,45,73,8.3
 161,581797,Sayfallah,Ltaief,Ltaief,,4,324,FC Twente,TWE,3,MID,u,Vertrokken naar KS Cracovia SA,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 162,465996,Naci,Ünüvar,Ünüvar,,4,324,FC Twente,TWE,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0.3
-163,647148,Lucas,Vennegoor of Hesselink,Vennegoor of Hesselink,,4,324,FC Twente,TWE,4,FWD,a,,119,1,0,0,0,0,0,0,0,0,0,0,12,48,1.4
-165,120202,Wout,Weghorst,Weghorst,,4,324,FC Twente,TWE,4,FWD,a,,920,8,2,4,10,0,0,1,2,0,0,6,62,85,19.1
-233,488355,Ramiz,Zerrouki,Zerrouki,,4,324,FC Twente,TWE,3,MID,a,,976,1,1,4,10,0,0,0,1,0,0,0,33,69,2.4
-337,194122,Joël,Drommel,Drommel,,4,324,FC Twente,TWE,1,GK,a,,450,0,2,2,4,0,0,0,0,0,13,3,28,48,6.5
+163,647148,Lucas,Vennegoor of Hesselink,Vennegoor of Hesselink,,4,324,FC Twente,TWE,4,FWD,a,,127,1,0,0,0,0,0,0,0,0,0,0,13,48,1.4
+165,120202,Wout,Weghorst,Weghorst,,4,324,FC Twente,TWE,4,FWD,a,,1010,9,2,4,12,0,0,1,2,0,0,6,68,85,19.6
+233,488355,Ramiz,Zerrouki,Zerrouki,,4,324,FC Twente,TWE,3,MID,a,,1066,1,2,4,12,0,0,0,2,0,0,0,37,69,2.4
+337,194122,Joël,Drommel,Drommel,,4,324,FC Twente,TWE,1,GK,a,,540,0,2,2,6,0,0,0,0,0,13,3,29,48,6.6
 358,633740,Jordy,Bawuah,Bawuah,,4,324,FC Twente,TWE,3,MID,a,,60,1,1,0,0,0,0,0,0,0,0,0,11,43,0.1
 530,597008,Filip,Thorvaldsen,Thorvaldsen,,4,324,FC Twente,TWE,3,MID,i,Blessure,176,0,0,0,3,0,0,0,0,0,0,0,6,63,0.0
 580,554192,Michal,Rosiak,Rosiak,,4,324,FC Twente,TWE,2,DEF,a,,62,0,0,0,0,0,0,0,0,0,0,0,2,43,0.0
 606,655369,Jip,Meilink,Meilink,,4,324,FC Twente,TWE,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
-85,548721,Sem,van Duijn,Van Duijn,,5,325,FC Utrecht,UTR,4,FWD,a,,142,1,0,0,6,0,0,0,0,0,0,3,15,58,0.3
-166,166227,Vasilios,Barkas,Barkas,,5,325,FC Utrecht,UTR,1,GK,a,,630,0,0,0,23,0,0,0,1,0,29,0,11,48,7.0
+85,548721,Sem,van Duijn,Van Duijn,,5,325,FC Utrecht,UTR,4,FWD,a,,156,1,0,0,6,0,0,0,0,0,0,3,16,58,0.3
+166,166227,Vasilios,Barkas,Barkas,,5,325,FC Utrecht,UTR,1,GK,a,,720,0,0,0,26,0,0,0,1,0,33,0,13,48,6.9
 168,530183,Kevin,Gadellaa,Gadellaa,,5,325,FC Utrecht,UTR,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
 169,613318,Mees,Eppink,Eppink,,5,325,FC Utrecht,UTR,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
 170,179515,Siebe,Horemans,Horemans,,5,325,FC Utrecht,UTR,2,DEF,a,,839,0,0,0,28,0,0,0,2,0,0,0,8,48,0.7
-171,226957,Niklas,Vesterlund,Vesterlund,,5,325,FC Utrecht,UTR,2,DEF,a,,803,0,2,1,23,0,0,0,0,0,0,0,20,50,0.8
-172,492979,Matisse,Didden,Didden,,5,325,FC Utrecht,UTR,2,DEF,a,,743,2,0,0,22,0,0,0,0,0,0,1,23,50,1.0
+171,226957,Niklas,Vesterlund,Vesterlund,,5,325,FC Utrecht,UTR,2,DEF,a,,893,0,2,1,26,0,0,0,0,0,0,0,21,50,0.8
+172,492979,Matisse,Didden,Didden,,5,325,FC Utrecht,UTR,2,DEF,a,,833,2,0,0,25,0,0,0,0,0,0,1,24,50,1.0
 173,451735,Mike,Eerdhuijzen,Eerdhuijzen,,5,325,FC Utrecht,UTR,2,DEF,u,Vertrokken naar KV Mechelen,135,0,0,0,3,0,0,0,0,0,0,0,2,50,0.1
 174,610439,Emeka,Adiele,Adiele,,5,325,FC Utrecht,UTR,2,DEF,u,Verhuurd aan Burton Albion FC,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 175,510660,Guus,Offerhaus,Offerhaus,,5,325,FC Utrecht,UTR,2,DEF,a,,273,0,0,0,14,0,0,0,2,0,0,0,0,47,0.9
@@ -163,51 +163,51 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 180,425617,Victor,Jensen,Jensen,,5,325,FC Utrecht,UTR,3,MID,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0.1
 181,461548,Zidane Aamar,Iqbal,Iqbal,,5,325,FC Utrecht,UTR,3,MID,u,Vertrokken naar Dundee United,57,0,0,0,4,0,0,0,0,0,0,0,2,49,0.2
 182,543668,Alonzo,Engwanda,Engwanda,,5,325,FC Utrecht,UTR,3,MID,i,Hamstringblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0.2
-183,533719,Adrian,Blake,Blake,,5,325,FC Utrecht,UTR,3,MID,a,,319,2,2,1,12,0,0,0,0,0,0,0,29,55,0.6
-184,511356,Yoann,Cathline,Cathline,,5,325,FC Utrecht,UTR,3,MID,a,,723,3,2,0,21,0,0,0,1,0,0,3,42,69,1.7
+183,533719,Adrian,Blake,Blake,,5,325,FC Utrecht,UTR,3,MID,a,,350,2,2,1,12,0,0,0,0,0,0,0,30,55,0.6
+184,511356,Yoann,Cathline,Cathline,,5,325,FC Utrecht,UTR,3,MID,a,,813,4,2,0,24,0,0,0,2,0,0,5,50,69,1.7
 185,494932,Miguel,Rodríguez,Rodríguez,,5,325,FC Utrecht,UTR,3,MID,u,Vertrokken naar Deportivo Alavés,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0.1
-186,204651,Dani,de Wit,D. De Wit,,5,325,FC Utrecht,UTR,3,MID,a,,954,2,1,0,30,0,0,0,3,0,0,3,34,74,2.7
+186,204651,Dani,de Wit,D. De Wit,,5,325,FC Utrecht,UTR,3,MID,a,,1044,3,1,0,33,0,0,0,3,0,0,3,41,74,2.7
 187,464744,Davy,van den Berg,Van den Berg,,5,325,FC Utrecht,UTR,3,MID,a,,469,0,4,0,13,0,0,0,2,0,0,1,25,54,0.1
 189,636869,Jaygo,van Ommeren,Van Ommeren,,5,325,FC Utrecht,UTR,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
-191,550451,Oualid,Agougil,Agougil,,5,325,FC Utrecht,UTR,3,MID,a,,274,0,1,0,6,0,0,0,1,0,0,2,11,44,0.0
+191,550451,Oualid,Agougil,Agougil,,5,325,FC Utrecht,UTR,3,MID,a,,305,0,1,0,6,0,0,0,1,0,0,2,12,44,0.0
 192,684169,Björn,Menzo,Menzo,,5,325,FC Utrecht,UTR,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
-193,500032,Ángel,Alarcón,Alarcón,,5,325,FC Utrecht,UTR,3,MID,a,,714,4,0,1,19,0,0,0,0,0,0,3,43,73,3.0
+193,500032,Ángel,Alarcón,Alarcón,,5,325,FC Utrecht,UTR,3,MID,a,,772,4,1,1,22,0,0,0,0,0,0,3,47,73,3.0
 194,627583,Emmanuel,Chigozie Owen,Chigozie Owen,,5,325,FC Utrecht,UTR,3,MID,a,,6,0,0,0,3,0,0,0,0,0,0,0,1,48,0.0
 195,577636,Miliano,Jonathans,Jonathans,,5,325,FC Utrecht,UTR,3,MID,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.0
-196,593232,Artem,Stepanov,Stepanov,,5,325,FC Utrecht,UTR,4,FWD,a,,494,5,0,1,18,0,0,0,2,0,0,6,37,74,6.3
+196,593232,Artem,Stepanov,Stepanov,,5,325,FC Utrecht,UTR,4,FWD,a,,552,5,0,1,21,0,0,0,2,0,0,6,38,74,6.2
 197,472094,David,Min,Min,,5,325,FC Utrecht,UTR,4,FWD,u,Verhuurd aan Arminia Bielefeld,78,0,0,0,3,0,0,0,0,0,0,0,3,59,0.8
 198,432717,Noah,Ohio,Ohio,,5,325,FC Utrecht,UTR,4,FWD,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,53,0.5
-405,167720,Joris,van Overeem,Van Overeem,,5,325,FC Utrecht,UTR,3,MID,a,,518,0,1,0,12,0,0,0,2,0,0,0,13,62,2.1
-475,437726,Arthur,Zagré,Zagré,,5,325,FC Utrecht,UTR,2,DEF,a,,865,0,3,0,25,0,0,0,2,0,0,1,21,48,8.8
-490,625589,Per,Kloosterboer,Kloosterboer,,5,325,FC Utrecht,UTR,2,DEF,a,,127,0,0,0,7,0,0,0,1,0,0,0,0,43,0.1
-545,544947,Marius,Broholm,Broholm,,5,325,FC Utrecht,UTR,3,MID,a,,256,0,1,0,8,0,0,0,1,0,0,0,9,70,0.0
-566,44604,Nordin,Amrabat,N. Amrabat,,5,325,FC Utrecht,UTR,3,MID,a,,30,0,0,0,0,0,0,0,0,0,0,0,2,53,0.0
-569,429905,Jakov,Medic,Medić,,5,325,FC Utrecht,UTR,2,DEF,a,,51,0,0,0,0,0,0,0,0,0,0,0,3,43,0.0
-578,456307,Nikolas,Panagiotou,Panagiotou,,5,325,FC Utrecht,UTR,2,DEF,a,,626,0,0,0,16,0,0,0,2,0,0,0,7,50,0.0
+405,167720,Joris,van Overeem,Van Overeem,,5,325,FC Utrecht,UTR,3,MID,a,,608,0,1,0,15,0,0,0,2,0,0,0,15,62,2.1
+475,437726,Arthur,Zagré,Zagré,,5,325,FC Utrecht,UTR,2,DEF,a,,865,0,3,0,25,0,0,0,2,0,0,1,21,48,8.7
+490,625589,Per,Kloosterboer,Kloosterboer,,5,325,FC Utrecht,UTR,2,DEF,a,,202,0,0,0,10,0,0,0,1,0,0,0,1,43,0.1
+545,544947,Marius,Broholm,Broholm,,5,325,FC Utrecht,UTR,3,MID,a,,314,0,1,0,11,0,0,0,1,0,0,0,10,70,0.0
+566,44604,Nordin,Amrabat,N. Amrabat,,5,325,FC Utrecht,UTR,3,MID,a,,61,0,1,0,0,0,0,0,1,0,0,0,5,53,0.0
+569,429905,Jakov,Medic,Medić,,5,325,FC Utrecht,UTR,2,DEF,a,,52,0,0,0,0,0,0,0,0,0,0,0,4,43,0.0
+578,456307,Nikolas,Panagiotou,Panagiotou,,5,325,FC Utrecht,UTR,2,DEF,a,,716,0,0,0,19,0,0,0,2,0,0,0,8,50,0.0
 597,57133,Sergio,Padt,Padt,,5,325,FC Utrecht,UTR,1,GK,a,,270,0,0,0,6,0,0,0,0,0,11,0,7,45,0.1
 199,585931,Mannou,Berger,Berger,,6,198,Feyenoord,FEY,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.3
 200,145175,Timon,Wellenreuther,Wellenreuther,,6,198,Feyenoord,FEY,1,GK,u,Vertrokken naar VfL Wolfsburg,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0.1
 201,212583,Liam,Bossin,Bossin,,6,198,Feyenoord,FEY,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
-202,458185,Tsuyoshi,Watanabe,Watanabe,,6,198,Feyenoord,FEY,2,DEF,a,,757,0,2,3,9,0,0,0,1,0,0,0,33,60,2.9
+202,458185,Tsuyoshi,Watanabe,Watanabe,,6,198,Feyenoord,FEY,2,DEF,a,,821,0,2,3,12,0,0,0,1,0,0,0,34,60,2.9
 204,465797,Jordan,Bos,J. Bos,,6,198,Feyenoord,FEY,2,DEF,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,63,0.2
 205,233821,Anel,Ahmedhodzic,Ahmedhodzic,,6,198,Feyenoord,FEY,2,DEF,u,Vertrokken naar Burnley FC,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.9
-206,202911,Jeremiah,St. Juste,St. Juste,,6,198,Feyenoord,FEY,2,DEF,i,Scheenblessure,663,0,0,4,6,0,0,0,0,0,0,2,31,50,4.3
+206,202911,Jeremiah,St. Juste,St. Juste,,6,198,Feyenoord,FEY,2,DEF,i,Scheenblessure,663,0,0,4,6,0,0,0,0,0,0,2,31,50,4.2
 207,202072,Bart,Nieuwkoop,Nieuwkoop,,6,198,Feyenoord,FEY,2,DEF,i,Blessure,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.0
 208,547590,Thomas,Beelen,Beelen,,6,198,Feyenoord,FEY,2,DEF,i,Beenblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.1
 209,231652,Gijs,Smal,Smal,,6,198,Feyenoord,FEY,2,DEF,i,Enkelblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.1
-210,573121,Givairo,Read,Read,,6,198,Feyenoord,FEY,2,DEF,a,,927,0,7,4,11,0,0,0,0,0,0,5,61,71,30.7
+210,573121,Givairo,Read,Read,,6,198,Feyenoord,FEY,2,DEF,a,,1017,0,8,4,16,0,0,0,0,0,0,5,64,71,30.8
 211,229707,Jordan,Lotomba,Lotomba,,6,198,Feyenoord,FEY,2,DEF,u,Vertrokken naar Celtic,34,0,1,0,1,0,0,0,0,0,0,0,5,49,0.1
 212,208748,Mats,Deijl,Deijl,,6,198,Feyenoord,FEY,2,DEF,a,,25,0,0,0,0,0,0,0,0,0,0,0,2,51,3.1
 213,441273,Neraysho,Kasanwirjo,Kasanwirjo,,6,198,Feyenoord,FEY,2,DEF,u,Vertrokken naar SK Brann,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
-214,465677,Mika,Mármol,Mármol,,6,198,Feyenoord,FEY,2,DEF,a,,960,0,3,4,12,0,0,0,0,0,0,3,46,57,11.2
+214,465677,Mika,Mármol,Mármol,,6,198,Feyenoord,FEY,2,DEF,a,,1050,0,3,4,17,0,0,0,0,0,0,3,46,57,11.1
 215,455605,In-Beom,Hwang,Hwang,,6,198,Feyenoord,FEY,3,MID,u,Vertrokken naar FC Porto,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0.0
 216,243505,Jakub,Moder,Moder,,6,198,Feyenoord,FEY,3,MID,i,Knieblessure,1,0,0,0,0,0,0,0,0,0,0,0,1,69,0.1
-217,582587,Thijs,Kraaijeveld,Kraaijeveld,,6,198,Feyenoord,FEY,3,MID,a,,188,0,0,1,3,0,0,0,0,0,0,0,10,42,1.2
-220,482257,Oussama,Targhalline,Targhalline,,6,198,Feyenoord,FEY,3,MID,d,Ziek,638,0,1,3,8,0,0,0,2,0,0,0,21,62,0.5
-221,460855,Sem,Steijn,Steijn,,6,198,Feyenoord,FEY,3,MID,a,,188,2,1,0,5,0,0,0,0,0,0,2,21,101,0.6
-222,538779,Luciano,Valente,Valente,,6,198,Feyenoord,FEY,3,MID,a,,881,5,2,4,9,0,0,0,0,0,0,8,64,82,27.6
+217,582587,Thijs,Kraaijeveld,Kraaijeveld,,6,198,Feyenoord,FEY,3,MID,a,,213,0,0,1,5,0,0,0,0,0,0,0,11,42,1.2
+220,482257,Oussama,Targhalline,Targhalline,,6,198,Feyenoord,FEY,3,MID,a,,702,0,1,3,11,0,0,0,2,0,0,0,23,62,0.5
+221,460855,Sem,Steijn,Steijn,,6,198,Feyenoord,FEY,3,MID,a,,213,3,1,0,7,0,0,0,0,0,0,2,27,101,0.6
+222,538779,Luciano,Valente,Valente,,6,198,Feyenoord,FEY,3,MID,a,,945,5,2,4,12,0,0,0,0,0,0,8,66,82,27.4
 223,218378,Luka,Ivanusec,Ivanusec,,6,198,Feyenoord,FEY,3,MID,u,Contract ontbonden,0,0,0,0,0,0,0,0,0,0,0,0,0,54,0.0
-224,581136,Anis,Hadj Moussa,Hadj Moussa,,6,198,Feyenoord,FEY,3,MID,a,,884,6,2,4,11,0,0,0,2,0,0,10,68,112,8.3
+224,581136,Anis,Hadj Moussa,Hadj Moussa,,6,198,Feyenoord,FEY,3,MID,a,,974,7,2,4,16,0,0,0,2,0,0,10,75,112,8.7
 226,556187,Leo,Sauer,Sauer,,6,198,Feyenoord,FEY,3,MID,u,Vertrokken naar VfB Stuttgart,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0.2
 227,648777,Gaoussou,Diarra,Diarra,,6,198,Feyenoord,FEY,3,MID,a,,422,2,1,2,7,0,0,0,1,0,0,0,27,53,0.3
 228,465634,Gonçalo,Borges,Borges,,6,198,Feyenoord,FEY,3,MID,a,,26,0,0,0,1,0,0,0,0,0,0,0,1,74,1.2
@@ -215,21 +215,21 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 230,648689,Tobias,van den Elshout,Van den Elshout,,6,198,Feyenoord,FEY,3,MID,a,,60,0,0,0,0,0,0,0,0,0,0,0,5,46,0.2
 231,650641,Jivayno,Zinhagel,Zinhagel,,6,198,Feyenoord,FEY,3,MID,i,Hamstringblessure,44,1,0,0,0,0,0,0,0,0,0,0,7,44,0.0
 232,689727,Ilai,Grootfaam,Grootfaam,,6,198,Feyenoord,FEY,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
-234,597036,Gjivai,Zechiël,Zechiël,,6,198,Feyenoord,FEY,3,MID,a,,941,5,4,4,12,0,0,0,2,0,0,10,71,88,55.7
-235,453106,Charles,Vanhoutte,Vanhoutte,,6,198,Feyenoord,FEY,3,MID,a,,797,0,1,4,8,0,0,0,3,0,0,3,28,64,0.3
+234,597036,Gjivai,Zechiël,Zechiël,,6,198,Feyenoord,FEY,3,MID,a,,1026,5,4,4,16,0,0,0,2,0,0,10,73,87,55.0
+235,453106,Charles,Vanhoutte,Vanhoutte,,6,198,Feyenoord,FEY,3,MID,a,,887,0,1,4,13,0,0,0,3,0,0,3,30,64,0.3
 236,560653,Stephano,Carrillo,Carrillo,,6,198,Feyenoord,FEY,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0.1
 237,451341,Ayase,Ueda,Ueda,,6,198,Feyenoord,FEY,4,FWD,u,Vertrokken naar Lille,305,3,1,2,4,0,0,0,0,0,0,2,25,120,4.9
-238,615392,Shaqueel,van Persie,Van Persie,,6,198,Feyenoord,FEY,4,FWD,a,,99,0,0,0,0,0,0,0,0,0,0,0,6,57,9.4
+238,615392,Shaqueel,van Persie,Van Persie,,6,198,Feyenoord,FEY,4,FWD,a,,110,0,0,0,2,0,0,0,0,0,0,0,7,57,9.3
 239,477682,Casper,Tengstedt,Tengstedt,,6,198,Feyenoord,FEY,4,FWD,u,Vertrokken naar Toulouse FC,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0.2
-240,547218,Nacho,Ferri,Ferri,,6,198,Feyenoord,FEY,4,FWD,a,,574,6,2,4,7,0,0,0,1,0,0,3,48,89,15.3
-485,513429,Tjark,Ernst,Ernst,,6,198,Feyenoord,FEY,1,GK,a,,990,0,0,4,12,0,0,0,0,0,29,0,40,54,3.3
+240,547218,Nacho,Ferri,Ferri,,6,198,Feyenoord,FEY,4,FWD,a,,652,7,4,4,10,0,0,0,1,0,0,4,61,89,15.4
+485,513429,Tjark,Ernst,Ernst,,6,198,Feyenoord,FEY,1,GK,a,,1080,0,0,4,17,0,0,0,0,0,34,0,41,54,3.2
 526,669858,Tijme,Wessels,Wessels,,6,198,Feyenoord,FEY,2,DEF,i,Knieblessure,18,0,0,0,0,0,0,0,0,0,0,0,1,40,0.0
-540,484406,Javi,López,López,,6,198,Feyenoord,FEY,2,DEF,a,,381,1,0,1,6,0,0,0,2,0,0,1,17,52,0.2
+540,484406,Javi,López,López,,6,198,Feyenoord,FEY,2,DEF,a,,471,1,0,1,11,0,0,0,2,0,0,1,17,52,0.2
 567,241270,Florian,Kastenmeier,Kastenmeier,,6,198,Feyenoord,FEY,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 572,200641,Reiss,Nelson,Nelson,,6,198,Feyenoord,FEY,3,MID,a,,12,0,0,0,0,0,0,0,0,0,0,0,1,73,0.0
-585,687190,Jerayno,Schaken,Schaken,,6,198,Feyenoord,FEY,3,MID,a,,31,1,0,0,0,0,0,0,0,0,0,0,6,44,0.1
+585,687190,Jerayno,Schaken,Schaken,,6,198,Feyenoord,FEY,3,MID,a,,56,1,0,0,2,0,0,0,0,0,0,0,7,43,0.1
 219,574369,Shiloh,'t Zand,'t Zand,,7,316,Fortuna Sittard,FOR,3,MID,a,,864,2,1,2,14,0,0,0,3,0,0,3,36,45,1.0
-241,93687,Mattijs,Branderhorst,Branderhorst,,7,316,Fortuna Sittard,FOR,1,GK,a,,1080,0,0,2,20,0,1,0,0,0,52,2,44,50,3.6
+241,93687,Mattijs,Branderhorst,Branderhorst,,7,316,Fortuna Sittard,FOR,1,GK,a,,1080,0,0,2,20,0,1,0,0,0,52,2,44,50,3.7
 242,88276,Luuk,Koopmans,Koopmans,,7,316,Fortuna Sittard,FOR,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
 243,656329,Ramazan,Bayram,Bayram,,7,316,Fortuna Sittard,FOR,1,GK,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 244,504750,Justin,Hubner,Hubner,,7,316,Fortuna Sittard,FOR,2,DEF,a,,1080,0,0,2,20,1,0,0,2,0,0,2,22,44,0.9
@@ -246,7 +246,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 255,740019,Ganni,Buyukhan,Buyukhan,,7,316,Fortuna Sittard,FOR,3,MID,a,,3,0,0,0,0,0,0,0,0,0,0,0,1,44,0.0
 256,571329,Sven,Simons,Simons,,7,316,Fortuna Sittard,FOR,3,MID,a,,134,0,1,0,1,0,0,0,2,0,0,0,6,54,0.0
 257,640351,Owen,Johnson,Johnson,,7,316,Fortuna Sittard,FOR,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.4
-258,537472,Lequincio,Zeefuik,Zeefuik,,7,316,Fortuna Sittard,FOR,4,FWD,d,Uitgevallen met een blessure,691,3,2,0,11,0,0,0,3,0,0,5,37,60,10.1
+258,537472,Lequincio,Zeefuik,Zeefuik,,7,316,Fortuna Sittard,FOR,4,FWD,d,Uitgevallen met een blessure,691,3,2,0,11,0,0,0,3,0,0,5,37,60,9.8
 259,713163,Amin,Laoukili,Laoukili,,7,316,Fortuna Sittard,FOR,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
 476,554214,Siebe,Wylin,Wylin,,7,316,Fortuna Sittard,FOR,2,DEF,a,,239,0,0,0,5,0,0,0,0,0,0,0,8,45,0.0
 477,443609,Ole,Romeny,Romeny,,7,316,Fortuna Sittard,FOR,4,FWD,d,Enkelblessure,356,1,0,0,9,0,0,0,0,1,0,1,11,64,1.6
@@ -257,12 +257,12 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 590,750137,David,Stockbrink,Stockbrink,,7,316,Fortuna Sittard,FOR,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 591,748279,Kevin,van Burgsteden,Van Burgsteden,,7,316,Fortuna Sittard,FOR,2,DEF,a,,1,0,0,0,1,0,0,0,0,0,0,0,1,40,0.0
 603,167432,Daley,Sinkgraven,Sinkgraven,,7,316,Fortuna Sittard,FOR,2,DEF,i,Fitheid,59,0,0,0,1,0,0,0,0,0,0,0,4,40,0.2
-260,566401,Nando,Verdoni,Verdoni,,8,734,Go Ahead Eagles,GAE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
+260,566401,Nando,Verdoni,Verdoni,,8,734,Go Ahead Eagles,GAE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.3
 261,86822,Nick,Marsman,Marsman,,8,734,Go Ahead Eagles,GAE,1,GK,i,Blessure,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.3
 262,198242,Kjetil,Haug,Haug,,8,734,Go Ahead Eagles,GAE,1,GK,a,,900,0,0,0,23,0,0,0,0,0,27,0,18,44,3.0
 263,211559,Gerrit,Nauber,Nauber,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,6,0,0,0,0,0,0,0,0,0,0,0,1,49,0.0
 264,208365,Joris,Kramer,Kramer,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,1080,0,0,1,27,0,0,0,1,0,0,3,20,53,5.5
-265,491278,Dean,James,James,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,802,0,2,0,20,0,0,0,1,0,0,0,19,54,4.4
+265,491278,Dean,James,James,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,802,0,2,0,20,0,0,0,1,0,0,0,19,54,4.3
 266,492770,Julius,Dirksen,Dirksen,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,744,1,0,2,17,0,0,0,3,0,0,3,26,45,1.6
 267,588736,Pim,Saathof,Saathof,,8,734,Go Ahead Eagles,GAE,2,DEF,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 268,615380,Eus,Waayers,Waayers,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,31,0,0,0,2,0,0,0,0,0,0,0,0,39,0.2
@@ -271,56 +271,56 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 271,533713,Tomas,Galvez,Galvez,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,195,0,1,1,4,0,0,0,1,0,0,0,11,48,0.1
 272,699925,Yassir,Salah Rahmouni,Salah Rahmouni,,8,734,Go Ahead Eagles,GAE,3,MID,a,,274,0,0,1,8,0,0,0,1,0,0,0,11,48,0.0
 274,449414,Evert,Linthorst,Linthorst,,8,734,Go Ahead Eagles,GAE,3,MID,a,,839,1,1,0,22,0,0,0,0,0,0,2,30,55,0.4
-275,486465,Søren,Tengstedt,Tengstedt,,8,734,Go Ahead Eagles,GAE,3,MID,a,,1009,9,2,1,25,0,0,0,1,0,0,14,89,74,35.3
+275,486465,Søren,Tengstedt,Tengstedt,,8,734,Go Ahead Eagles,GAE,3,MID,a,,1009,9,2,1,25,0,0,0,1,0,0,14,89,74,35.6
 276,588737,Robbin,Weijenberg,Weijenberg,,8,734,Go Ahead Eagles,GAE,3,MID,a,,6,0,0,0,1,0,0,0,0,0,0,0,1,44,0.0
 277,422185,Mathis,Suray,Suray,,8,734,Go Ahead Eagles,GAE,3,MID,a,,993,3,4,1,24,0,0,0,0,0,0,0,52,69,6.9
 278,505422,Oskar,Sivertsen,Sivertsen,,8,734,Go Ahead Eagles,GAE,3,MID,a,,235,0,2,0,8,0,0,0,0,0,0,0,17,55,0.0
 279,475357,Richonell,Margaret,Margaret,,8,734,Go Ahead Eagles,GAE,3,MID,a,,63,0,0,0,3,0,0,0,0,0,0,0,4,56,0.1
 280,246074,Melle,Meulensteen,Meulensteen,,8,734,Go Ahead Eagles,GAE,3,MID,a,,952,1,3,2,23,0,0,0,0,0,0,5,43,59,3.1
-281,477408,Victor,Edvardsen,Edvardsen,,8,734,Go Ahead Eagles,GAE,4,FWD,a,,955,3,4,1,23,0,0,0,0,0,0,5,51,72,10.0
+281,477408,Victor,Edvardsen,Edvardsen,,8,734,Go Ahead Eagles,GAE,4,FWD,a,,955,3,4,1,23,0,0,0,0,0,0,5,51,71,9.6
 282,689065,Ofosu,Boakye,Boakye,,8,734,Go Ahead Eagles,GAE,4,FWD,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.8
 283,248885,Thibo,Baeten,Baeten,,8,734,Go Ahead Eagles,GAE,4,FWD,a,,305,0,1,0,8,0,0,0,2,0,0,0,13,49,0.4
-284,491792,Stefán,Sigurdarson,Sigurdarson,,8,734,Go Ahead Eagles,GAE,4,FWD,a,,675,4,1,0,17,0,0,0,0,0,0,5,42,59,4.3
+284,491792,Stefán,Sigurdarson,Sigurdarson,,8,734,Go Ahead Eagles,GAE,4,FWD,a,,675,4,1,0,17,0,0,0,0,0,0,5,42,59,4.2
 285,554831,Erik,Flataker,Flataker,,8,734,Go Ahead Eagles,GAE,4,FWD,a,,270,1,0,1,5,0,0,0,0,0,0,0,14,58,0.1
 562,643167,Tino,Jukic,Jukic,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,23,0,0,0,1,0,0,0,0,0,0,0,2,45,0.0
 592,722367,Dani,Tijman,Tijman,,8,734,Go Ahead Eagles,GAE,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 593,730497,Thomas,Hulleman,Hulleman,,8,734,Go Ahead Eagles,GAE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 605,72162,Jasper,Cillessen,Cillessen,,8,734,Go Ahead Eagles,GAE,1,GK,a,,180,0,0,1,4,0,0,0,0,0,5,0,7,45,0.1
-36,497857,Ahmetcan,Kaplan,Kaplan,,9,320,N.E.C.,NEC,2,DEF,a,,253,0,0,0,5,0,0,0,0,0,0,0,4,49,0.1
-286,490731,Gonzalo,Crettaz,Crettaz,,9,320,N.E.C.,NEC,1,GK,a,,765,0,0,0,14,0,0,0,0,0,14,0,15,49,7.3
+36,497857,Ahmetcan,Kaplan,Kaplan,,9,320,N.E.C.,NEC,2,DEF,a,,343,0,0,0,7,0,0,0,0,0,0,0,5,49,0.1
+286,490731,Gonzalo,Crettaz,Crettaz,,9,320,N.E.C.,NEC,1,GK,a,,855,0,0,0,16,0,0,0,0,0,17,0,17,49,7.2
 287,593016,Freek,Entius,Entius,,9,320,N.E.C.,NEC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.3
 288,469265,Brayann,Pereira,Pereira,,9,320,N.E.C.,NEC,2,DEF,u,Vertrokken naar West Bromwich Albion FC,190,0,0,0,3,0,0,0,1,0,0,0,3,50,0.5
-289,230428,Philippe,Sandler,Sandler,,9,320,N.E.C.,NEC,2,DEF,a,,128,0,0,0,3,0,0,0,1,0,0,0,1,49,4.0
+289,230428,Philippe,Sandler,Sandler,,9,320,N.E.C.,NEC,2,DEF,a,,141,0,0,0,3,0,0,0,1,0,0,0,2,49,4.0
 290,218127,Thomas,Ouwejan,Ouwejan,,9,320,N.E.C.,NEC,2,DEF,u,Vertrokken naar FC Machida Zelvia,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.2
 291,76623,Bram,Nuytinck,Nuytinck,,9,320,N.E.C.,NEC,2,DEF,i,Blessure,249,0,0,0,5,0,0,0,0,0,0,0,6,44,0.1
-292,568125,Deveron,Fonville,Fonville,,9,320,N.E.C.,NEC,2,DEF,a,,416,0,0,1,8,0,0,0,0,0,0,2,13,49,5.0
-293,223203,Perr,Schuurs,Schuurs,,9,320,N.E.C.,NEC,2,DEF,d,Hamstringblessure,306,2,2,0,6,0,0,0,0,0,0,1,28,55,1.5
-294,565011,Tobias,Storm,Storm,,9,320,N.E.C.,NEC,2,DEF,i,Blessure,836,0,0,0,15,0,0,0,2,0,0,0,13,43,2.6
+292,568125,Deveron,Fonville,Fonville,,9,320,N.E.C.,NEC,2,DEF,a,,492,0,1,1,10,0,0,0,0,0,0,2,17,49,4.9
+293,223203,Perr,Schuurs,Schuurs,,9,320,N.E.C.,NEC,2,DEF,d,Hamstringblessure,306,2,2,0,6,0,0,0,0,0,0,1,28,55,1.4
+294,565011,Tobias,Storm,Storm,,9,320,N.E.C.,NEC,2,DEF,a,,838,0,0,0,15,0,0,0,2,0,0,0,14,43,2.5
 295,685672,Yousri,Sbai,Sbai,,9,320,N.E.C.,NEC,2,DEF,u,Verhuurd aan Jong FC Utrecht,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
-299,55882,Tjaronn,Chery,Chery,,9,320,N.E.C.,NEC,3,MID,a,,774,4,2,0,15,0,0,0,0,0,0,6,50,78,21.3
+299,55882,Tjaronn,Chery,Chery,,9,320,N.E.C.,NEC,3,MID,a,,861,4,2,0,17,0,0,0,0,0,0,6,52,77,21.0
 300,703749,Sam,de Laat,De Laat,,9,320,N.E.C.,NEC,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.1
-301,552034,Noé,Lebreton,Lebreton,,9,320,N.E.C.,NEC,3,MID,a,,787,2,1,0,18,0,0,0,2,0,0,6,37,67,3.7
-302,458683,Darko,Nejasmic,Nejašmić,,9,320,N.E.C.,NEC,3,MID,a,,740,1,1,1,15,0,0,0,0,0,0,3,29,64,2.4
-303,623206,Kevin,Kers,Kers,,9,320,N.E.C.,NEC,3,MID,a,,397,1,0,0,9,0,0,0,0,0,0,0,16,45,0.1
+301,552034,Noé,Lebreton,Lebreton,,9,320,N.E.C.,NEC,3,MID,a,,877,2,1,0,20,0,0,0,2,0,0,6,39,67,3.7
+302,458683,Darko,Nejasmic,Nejašmić,,9,320,N.E.C.,NEC,3,MID,a,,830,1,2,1,17,0,0,0,0,0,0,3,34,64,2.4
+303,623206,Kevin,Kers,Kers,,9,320,N.E.C.,NEC,3,MID,a,,465,2,0,0,11,0,0,0,0,0,0,0,23,45,0.1
 304,489855,Isak,Hansen-Aarøen,Hansen-Aarøen,,9,320,N.E.C.,NEC,3,MID,a,,152,0,0,0,3,0,0,0,1,0,0,0,3,49,0.1
-305,422078,Willum,Willumsson,Willumsson,,9,320,N.E.C.,NEC,3,MID,a,,157,1,1,0,2,0,0,0,0,0,0,0,15,63,0.1
-307,711438,Merijn,van de Wiel,Van de Wiel,,9,320,N.E.C.,NEC,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
+305,422078,Willum,Willumsson,Willumsson,,9,320,N.E.C.,NEC,3,MID,a,,159,1,1,0,2,0,0,0,1,0,0,0,15,63,0.1
+307,711438,Merijn,van de Wiel,Van de Wiel,,9,320,N.E.C.,NEC,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 308,664261,Adam,Tahaui,Tahaui,,9,320,N.E.C.,NEC,3,MID,a,,395,2,0,0,6,0,0,0,0,0,0,5,27,58,0.3
 309,223707,Koki,Ogawa,Ogawa,,9,320,N.E.C.,NEC,4,FWD,u,Vertrokken naar FC Machida Zelvia,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0.9
-310,55543,Bryan,Linssen,Linssen,,9,320,N.E.C.,NEC,4,FWD,a,,724,1,0,1,12,0,0,0,2,0,0,0,20,78,11.0
-311,240860,Kaj,Sierhuis,Sierhuis,,9,320,N.E.C.,NEC,4,FWD,a,,308,2,1,0,7,0,0,0,0,0,0,0,20,79,6.8
-480,217119,Jamiro,Monteiro,Monteiro,,9,320,N.E.C.,NEC,3,MID,a,,605,0,0,0,11,0,0,0,1,0,0,0,15,57,0.5
+310,55543,Bryan,Linssen,Linssen,,9,320,N.E.C.,NEC,4,FWD,a,,814,1,0,1,14,0,0,0,3,0,0,0,21,78,11.0
+311,240860,Kaj,Sierhuis,Sierhuis,,9,320,N.E.C.,NEC,4,FWD,a,,308,2,1,0,7,0,0,0,0,0,0,0,20,79,6.7
+480,217119,Jamiro,Monteiro,Monteiro,,9,320,N.E.C.,NEC,3,MID,a,,607,0,0,0,11,0,0,0,1,0,0,0,16,57,0.5
 491,220046,Emre,Mor,Mor,,9,320,N.E.C.,NEC,3,MID,i,Blessure,73,0,1,0,1,0,0,0,0,0,0,0,7,70,0.4
-495,635361,Clement,Bischoff,Bischoff,,9,320,N.E.C.,NEC,3,MID,a,,637,1,1,1,14,0,0,0,1,0,0,0,25,68,1.1
-501,62399,Dusan,Tadić,Tadić,,9,320,N.E.C.,NEC,3,MID,a,,619,0,1,0,11,0,0,0,1,0,0,1,17,82,4.1
+495,635361,Clement,Bischoff,Bischoff,,9,320,N.E.C.,NEC,3,MID,a,,658,1,1,1,14,0,0,0,2,0,0,0,25,68,1.1
+501,62399,Dusan,Tadić,Tadić,,9,320,N.E.C.,NEC,3,MID,a,,706,2,1,0,13,0,0,0,1,0,0,4,32,82,4.1
 511,624891,Joep,Geneste,Geneste,,9,320,N.E.C.,NEC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 512,705927,Yassin,Moslih,Moslih,,9,320,N.E.C.,NEC,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 531,488025,Nikolas,Polster,Polster,,9,320,N.E.C.,NEC,1,GK,a,,225,0,0,0,5,0,0,0,0,0,9,0,5,45,0.0
-534,503593,Gabriel,Costa Brás,Gabriel,Gabriel Brás,9,320,N.E.C.,NEC,2,DEF,a,,295,0,0,0,4,0,0,0,1,0,0,0,6,44,0.0
+534,503593,Gabriel,Costa Brás,Gabriel,Gabriel Brás,9,320,N.E.C.,NEC,2,DEF,a,,382,0,0,0,6,0,0,0,1,0,0,0,7,44,0.0
 535,569009,Almugera,Kabar,Kabar,,9,320,N.E.C.,NEC,2,DEF,a,,221,0,0,0,7,0,0,0,2,0,0,0,2,46,0.0
 558,218358,Dennis,Geiger,Geiger,,9,320,N.E.C.,NEC,3,MID,i,Blessure,246,0,1,0,5,0,0,0,0,0,0,2,12,60,0.0
 563,638556,Ayodele,Thomas,Thomas,,9,320,N.E.C.,NEC,3,MID,a,,195,0,0,0,3,0,0,0,1,0,0,0,5,67,0.0
-602,247957,Mitchel,Bakker,Bakker,,9,320,N.E.C.,NEC,2,DEF,a,,78,0,0,0,0,0,0,1,0,0,0,0,1,49,0.0
+602,247957,Mitchel,Bakker,Bakker,,9,320,N.E.C.,NEC,2,DEF,a,,168,0,1,0,2,0,0,1,0,0,0,1,6,49,0.0
 312,551220,Tom,De Graaff,De Graaff,,10,424,PEC Zwolle,PEC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,42,1.0
 313,219250,Jasper,Schendelaar,Schendelaar,,10,424,PEC Zwolle,PEC,1,GK,a,,1080,0,0,2,24,0,0,0,0,0,50,6,43,45,3.2
 314,543310,Duke,Verduin,Verduin,,10,424,PEC Zwolle,PEC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.7
@@ -342,75 +342,75 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 330,247958,Thijs,Oosting,Oosting,,10,424,PEC Zwolle,PEC,3,MID,a,,732,2,2,3,10,0,0,0,0,0,0,3,43,63,1.9
 331,202127,Younes,Namli,Namli,,10,424,PEC Zwolle,PEC,3,MID,a,,143,0,2,0,1,0,0,0,0,0,0,0,9,64,0.1
 332,240795,Elias,Sørensen,Sørensen,,10,424,PEC Zwolle,PEC,3,MID,a,,421,2,0,1,13,0,0,0,0,0,0,0,25,50,0.1
-333,233378,Koen,Kostons,Kostons,,10,424,PEC Zwolle,PEC,4,FWD,a,,670,4,0,1,20,0,0,1,3,0,0,2,30,66,4.3
+333,233378,Koen,Kostons,Kostons,,10,424,PEC Zwolle,PEC,4,FWD,a,,670,4,0,1,20,0,0,1,3,0,0,2,30,66,4.2
 496,544005,Ibrahim,Cissoko,Cissoko,,10,424,PEC Zwolle,PEC,3,MID,a,,367,1,1,0,8,0,0,0,2,0,0,0,17,53,0.7
 539,589895,Jan,Bürger,Bürger,,10,424,PEC Zwolle,PEC,2,DEF,a,,82,0,0,0,1,0,0,0,0,0,0,0,6,40,0.1
 564,459655,Sydney,van Hooijdonk,Van Hooijdonk,,10,424,PEC Zwolle,PEC,4,FWD,a,,468,2,0,1,9,0,0,0,0,0,0,3,23,65,0.4
 573,455784,Filip,Krastev,Krastev,,10,424,PEC Zwolle,PEC,3,MID,i,Achillespeesblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0.0
 594,722747,Gilles,van der Wal,Van der Wal,,10,424,PEC Zwolle,PEC,3,MID,a,,330,0,0,2,3,0,0,0,2,0,0,0,9,45,0.0
-164,215145,Sam,Lammers,Lammers,,11,204,PSV,PSV,4,FWD,i,Hamstringblessure,21,0,0,0,0,0,0,0,0,0,0,0,2,73,1.0
-296,568331,Kodai,Sano,Sano,,11,204,PSV,PSV,3,MID,a,,822,2,0,2,10,0,0,0,2,0,0,1,30,74,6.7
+164,215145,Sam,Lammers,Lammers,,11,204,PSV,PSV,4,FWD,a,,21,0,0,0,0,0,0,0,0,0,0,0,2,73,1.0
+296,568331,Kodai,Sano,Sano,,11,204,PSV,PSV,3,MID,a,,912,2,1,2,12,0,0,0,2,0,0,1,35,74,6.6
 297,588352,Sami,Ouaissa,Ouaissa,,11,204,PSV,PSV,3,MID,i,Blessure,78,0,0,0,2,0,0,0,0,0,0,0,2,73,4.1
 334,167073,Nick,Olij,Olij,,11,204,PSV,PSV,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0.8
-335,446189,Matej,Kovar,Kovar,,11,204,PSV,PSV,1,GK,a,,990,0,0,2,13,0,0,0,0,0,31,0,33,54,6.3
+335,446189,Matej,Kovar,Kovar,,11,204,PSV,PSV,1,GK,a,,1080,0,0,2,15,0,0,0,0,0,32,0,34,54,6.3
 336,583584,Tijn,Smolenaars,Smolenaars,,11,204,PSV,PSV,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
-338,240244,Armando,Obispo,Obispo,,11,204,PSV,PSV,2,DEF,a,,948,0,2,2,13,0,0,0,3,0,0,4,34,51,3.6
-339,510162,Ryan,Flamingo,Flamingo,,11,204,PSV,PSV,2,DEF,a,,522,1,0,1,8,0,0,0,0,0,0,3,24,53,5.8
-340,250676,Sergiño,Dest,Dest,,11,204,PSV,PSV,2,DEF,a,,878,2,4,2,11,0,0,0,0,0,0,8,58,72,30.3
-341,429171,Mauro,Júnior,Mauro Jr.,,11,204,PSV,PSV,2,DEF,a,,894,2,2,1,12,0,0,0,1,0,0,5,45,70,33.8
+338,240244,Armando,Obispo,Obispo,,11,204,PSV,PSV,2,DEF,a,,1038,0,2,2,15,0,0,0,3,0,0,4,35,51,3.6
+339,510162,Ryan,Flamingo,Flamingo,,11,204,PSV,PSV,2,DEF,a,,526,1,0,1,8,0,0,0,0,0,0,3,25,53,5.7
+340,250676,Sergiño,Dest,Dest,,11,204,PSV,PSV,2,DEF,a,,952,2,4,2,12,0,0,0,1,0,0,8,59,72,30.3
+341,429171,Mauro,Júnior,Mauro Jr.,,11,204,PSV,PSV,2,DEF,a,,984,2,2,1,14,0,0,0,1,0,0,5,46,70,33.7
 342,615389,Wessel,Kuhn,Kuhn,,11,204,PSV,PSV,2,DEF,i,Knieblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.0
 343,534223,Adamo,Nagalo,Nagalo,,11,204,PSV,PSV,2,DEF,i,Blessure,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.0
 344,554683,Yarek,Gasiorowski,Gasiorowski,,11,204,PSV,PSV,2,DEF,a,,123,0,0,1,0,0,0,0,0,0,0,0,9,57,4.7
 345,636864,Fabian,Merién,Merién,,11,204,PSV,PSV,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
-346,501441,Kiliann,Sildillia,Sildillia,,11,204,PSV,PSV,2,DEF,a,,11,0,0,0,1,0,0,0,0,0,0,0,2,46,0.3
-347,577717,Ruben,van Bommel,Van Bommel,,11,204,PSV,PSV,3,MID,a,,672,3,4,2,7,0,0,0,3,0,0,4,48,93,24.4
-348,231765,Guus,Til,Til,,11,204,PSV,PSV,3,MID,a,,872,7,3,2,10,0,0,0,1,0,0,5,70,120,13.0
+346,501441,Kiliann,Sildillia,Sildillia,,11,204,PSV,PSV,2,DEF,a,,26,0,0,0,2,0,0,0,0,0,0,0,3,46,0.3
+347,577717,Ruben,van Bommel,Van Bommel,,11,204,PSV,PSV,3,MID,a,,736,4,5,2,8,0,0,0,3,0,0,5,59,93,24.5
+348,231765,Guus,Til,Til,,11,204,PSV,PSV,3,MID,a,,935,7,3,2,11,0,0,0,1,0,0,5,72,120,12.9
 349,230152,Jerdy,Schouten,Schouten,,11,204,PSV,PSV,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0.1
 350,231653,Joey,Veerman,Veerman,,11,204,PSV,PSV,3,MID,u,Vertrokken naar Borussia Dortmund,90,0,0,0,1,0,0,0,0,0,0,0,2,110,1.0
-351,45034,Ivan,Perisic,Perisic,,11,204,PSV,PSV,3,MID,a,,656,2,1,0,10,0,0,0,2,0,0,5,33,98,7.5
-352,549127,Esmir,Bajraktarevic,Bajraktarevic,,11,204,PSV,PSV,3,MID,a,,291,1,4,1,4,0,0,0,0,0,0,2,29,78,0.4
+351,45034,Ivan,Perisic,Perisic,,11,204,PSV,PSV,3,MID,a,,656,2,1,0,10,0,0,0,2,0,0,5,33,98,7.3
+352,549127,Esmir,Bajraktarevic,Bajraktarevic,,11,204,PSV,PSV,3,MID,a,,376,1,6,1,6,0,0,0,0,0,0,2,37,78,0.4
 353,510657,Couhaib,Driouech,Driouech,,11,204,PSV,PSV,3,MID,u,Vertrokken naar Celta de Vigo,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0.9
 354,624896,Joel,van den Berg,Van den Berg,,11,204,PSV,PSV,3,MID,u,Vertrokken naar Celtic,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
-355,235905,Dennis,Man,Man,,11,204,PSV,PSV,3,MID,a,,105,0,0,0,1,0,0,0,1,0,0,0,4,81,0.4
+355,235905,Dennis,Man,Man,,11,204,PSV,PSV,3,MID,a,,109,0,0,0,1,0,0,0,1,0,0,0,5,81,0.4
 356,546410,Paul,Wanner,Wanner,,11,204,PSV,PSV,3,MID,i,Voetblessure,400,0,4,0,6,0,0,0,0,0,0,0,23,88,0.4
 357,651260,Noah,Fernandez,Fernandez,,11,204,PSV,PSV,3,MID,a,,373,1,0,1,5,0,0,0,1,0,0,3,19,59,1.2
 359,624893,Jim,Koller,Koller,,11,204,PSV,PSV,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.0
-360,463414,Sven,Mijnans,Mijnans,,11,204,PSV,PSV,3,MID,a,,504,6,3,2,7,0,0,1,0,1,0,6,56,107,4.8
-361,439742,Ricardo,Pepi,Pepi,,11,204,PSV,PSV,4,FWD,a,,460,4,1,0,5,0,0,0,0,0,0,5,37,114,9.1
+360,463414,Sven,Mijnans,Mijnans,,11,204,PSV,PSV,3,MID,a,,594,9,3,2,9,0,0,1,1,1,0,9,75,108,5.7
+361,439742,Ricardo,Pepi,Pepi,,11,204,PSV,PSV,4,FWD,a,,486,4,1,0,6,0,0,0,0,0,0,5,38,114,9.0
 362,108168,Alassane,Pléa,Pléa,,11,204,PSV,PSV,4,FWD,i,Blessure,22,0,1,0,1,0,0,0,0,0,0,0,4,93,0.5
-426,630312,Ayoni,Santos,Santos,Ayoni Santos,11,204,PSV,PSV,3,MID,a,,340,0,0,0,6,0,0,0,0,0,0,0,10,52,0.4
+426,630312,Ayoni,Santos,Santos,Ayoni Santos,11,204,PSV,PSV,3,MID,a,,365,1,1,0,7,0,0,0,0,0,0,2,21,52,0.4
 513,650593,Amir,Bouhamdi,Bouhamdi,,11,204,PSV,PSV,3,MID,a,,197,0,2,0,3,0,0,0,0,0,0,1,13,43,0.5
 514,576738,Essien,Bassey,Bassey,,11,204,PSV,PSV,2,DEF,u,Vertrokken naar Viking FK,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
 515,650596,Shuryjano,Cornecion,Cornecion,,11,204,PSV,PSV,3,MID,a,,55,1,0,0,1,0,0,0,0,0,0,0,9,44,0.0
-517,104215,Filip,Kostić,Kostić,,11,204,PSV,PSV,2,DEF,a,,237,0,1,0,3,0,0,0,2,0,0,0,7,63,0.5
-546,247955,Lutsharel,Geertruida,Geertruida,,11,204,PSV,PSV,2,DEF,a,,527,1,2,1,8,0,0,0,1,0,0,4,30,66,2.8
+517,104215,Filip,Kostić,Kostić,,11,204,PSV,PSV,2,DEF,a,,327,0,1,0,5,0,0,0,2,0,0,0,8,63,0.5
+546,247955,Lutsharel,Geertruida,Geertruida,,11,204,PSV,PSV,2,DEF,a,,612,1,2,1,10,0,0,0,1,0,0,4,31,66,2.8
 550,664246,Khadim,Ngom,Ngom,,11,204,PSV,PSV,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 575,685552,Mikkel,Hansen,Bro Hansen,,11,204,PSV,PSV,4,FWD,a,,64,0,0,0,2,0,0,0,0,0,0,0,2,60,0.0
-137,511168,Mees,Hilgers,Hilgers,,12,318,sc Heerenveen,HEE,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.3
+137,511168,Mees,Hilgers,Hilgers,,12,318,sc Heerenveen,HEE,2,DEF,a,,4,0,0,0,0,0,0,0,0,0,0,0,1,49,0.3
 298,441300,Dirk,Proper,Proper,,12,318,sc Heerenveen,HEE,3,MID,a,,420,0,1,1,8,0,0,0,1,0,0,0,14,54,0.9
-385,578503,Bernt,Klaverboer,Klaverboer,,12,318,sc Heerenveen,HEE,1,GK,a,,990,0,0,5,13,1,0,0,0,0,28,4,43,50,6.2
+385,578503,Bernt,Klaverboer,Klaverboer,,12,318,sc Heerenveen,HEE,1,GK,a,,1080,0,0,5,16,1,0,0,0,0,28,4,44,50,6.3
 386,165388,Andries,Noppert,Noppert,,12,318,sc Heerenveen,HEE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.4
 387,703186,Timo,Schreuder,Schreuder,,12,318,sc Heerenveen,HEE,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
-388,233375,Sam,Kersten,Kersten,,12,318,sc Heerenveen,HEE,2,DEF,a,,944,0,1,4,13,0,0,0,1,0,0,11,44,47,9.8
-389,546517,Maas,Willemsen,Willemsen,,12,318,sc Heerenveen,HEE,2,DEF,a,,985,0,0,5,13,0,0,0,0,0,0,5,41,46,5.9
+388,233375,Sam,Kersten,Kersten,,12,318,sc Heerenveen,HEE,2,DEF,a,,1029,0,1,4,16,0,0,0,1,0,0,11,45,47,9.8
+389,546517,Maas,Willemsen,Willemsen,,12,318,sc Heerenveen,HEE,2,DEF,a,,1075,1,0,5,16,0,0,0,0,0,0,5,48,46,6.4
 390,538834,Nikolai,Hopland,Hopland,,12,318,sc Heerenveen,HEE,2,DEF,u,Vertrokken naar Randers FC,7,0,0,0,0,0,0,0,0,0,0,0,1,45,0.0
 391,535089,Hristiyan,Petrov,Petrov,,12,318,sc Heerenveen,HEE,2,DEF,a,,93,0,0,0,0,0,0,0,0,0,0,0,7,44,0.1
-392,554837,Oliver,Braude,Braude,,12,318,sc Heerenveen,HEE,2,DEF,a,,855,2,1,4,13,0,0,0,1,0,0,4,48,57,5.5
-393,487709,Vasilios,Zagaritis,Zagaritis,,12,318,sc Heerenveen,HEE,2,DEF,a,,990,0,0,5,13,0,0,0,2,0,0,2,36,55,5.6
-394,629311,Mats,Egbring,Egbring,,12,318,sc Heerenveen,HEE,2,DEF,a,,82,0,0,1,0,0,0,0,0,0,0,2,9,40,0.7
+392,554837,Oliver,Braude,Braude,,12,318,sc Heerenveen,HEE,2,DEF,a,,945,2,1,4,16,0,0,0,1,0,0,4,49,57,5.7
+393,487709,Vasilios,Zagaritis,Zagaritis,,12,318,sc Heerenveen,HEE,2,DEF,a,,1070,0,0,5,16,0,0,0,2,0,0,2,37,55,5.6
+394,629311,Mats,Egbring,Egbring,,12,318,sc Heerenveen,HEE,2,DEF,a,,91,0,0,1,0,0,0,0,0,0,0,2,10,40,0.8
 395,681898,Robin,Bouw,Bouw,,12,318,sc Heerenveen,HEE,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.1
 396,609641,Darling,Bladi,Bladi,,12,318,sc Heerenveen,HEE,2,DEF,a,,7,0,0,0,0,0,0,0,0,0,0,0,1,49,0.0
 397,208749,Luuk,Brouwers,Brouwers,,12,318,sc Heerenveen,HEE,3,MID,u,Vertrokken naar Omonia Nicosia,31,0,0,0,1,0,0,0,0,0,0,0,2,63,0.4
-398,546816,Levi,Smans,Smans,,12,318,sc Heerenveen,HEE,3,MID,a,,414,0,5,4,3,0,0,0,0,0,0,1,33,64,0.1
-399,644623,Marcus,Linday,Linday,,12,318,sc Heerenveen,HEE,3,MID,a,,709,0,0,4,8,1,0,0,3,0,0,0,15,59,0.2
-401,515937,Jacob,Trenskow,Trenskow,,12,318,sc Heerenveen,HEE,3,MID,a,,954,6,2,5,13,0,0,0,1,0,0,10,72,87,19.5
+398,546816,Levi,Smans,Smans,,12,318,sc Heerenveen,HEE,3,MID,a,,499,1,5,4,6,0,0,0,1,0,0,1,39,64,0.2
+399,644623,Marcus,Linday,Linday,,12,318,sc Heerenveen,HEE,3,MID,a,,799,0,1,4,11,1,0,0,3,0,0,0,20,59,0.2
+401,515937,Jacob,Trenskow,Trenskow,,12,318,sc Heerenveen,HEE,3,MID,a,,1044,6,5,5,16,0,0,0,1,0,0,12,85,87,19.9
 403,690499,Kai,Jansen,Jansen,,12,318,sc Heerenveen,HEE,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0.1
-404,501599,Maxence,Rivera,Rivera,,12,318,sc Heerenveen,HEE,3,MID,a,,679,2,3,4,8,0,0,0,0,0,0,1,43,70,0.4
-406,490245,Ringo,Meerveld,Meerveld,,12,318,sc Heerenveen,HEE,3,MID,a,,597,2,1,1,11,0,0,0,0,0,0,2,33,68,2.8
-407,560108,Nolhan,Courtens,Courtens,,12,318,sc Heerenveen,HEE,3,MID,a,,694,2,0,4,8,0,0,0,1,0,0,1,31,45,0.5
+404,501599,Maxence,Rivera,Rivera,,12,318,sc Heerenveen,HEE,3,MID,a,,724,2,3,4,10,0,0,0,0,0,0,1,44,70,0.4
+406,490245,Ringo,Meerveld,Meerveld,,12,318,sc Heerenveen,HEE,3,MID,a,,642,5,1,1,12,0,0,0,0,0,0,5,52,68,2.9
+407,560108,Nolhan,Courtens,Courtens,,12,318,sc Heerenveen,HEE,3,MID,a,,784,2,0,4,11,0,0,0,1,0,0,1,33,45,0.5
 408,591233,Jermaine,Rijssel,Rijssel,,12,318,sc Heerenveen,HEE,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.0
-409,492976,Luca,Oyen,Oyen,,12,318,sc Heerenveen,HEE,3,MID,a,,220,2,1,0,4,0,0,0,1,0,0,0,22,60,0.0
-410,222699,Dylan,Vente,Vente,,12,318,sc Heerenveen,HEE,4,FWD,a,,913,2,2,5,11,0,0,0,0,0,0,3,39,68,5.1
+409,492976,Luca,Oyen,Oyen,,12,318,sc Heerenveen,HEE,3,MID,a,,224,2,2,0,4,0,0,0,1,0,0,0,26,60,0.0
+410,222699,Dylan,Vente,Vente,,12,318,sc Heerenveen,HEE,4,FWD,a,,1003,2,2,5,14,0,0,0,0,0,0,3,41,68,5.1
 505,696404,Lanroy,Machine,Machine,,12,318,sc Heerenveen,HEE,4,FWD,a,,101,0,0,0,0,0,0,0,0,0,0,0,4,52,0.3
 565,549738,Marko Jabbar Hussein,Farji,Farji,Marko Farji,12,318,sc Heerenveen,HEE,3,MID,a,,73,1,0,0,1,0,0,0,1,0,0,0,10,63,0.0
 576,219177,Roberts,Uldrikis,Uldrikis,,12,318,sc Heerenveen,HEE,4,FWD,a,,86,0,1,0,2,0,0,0,0,0,0,0,8,54,0.0
@@ -421,13 +421,13 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 167,120043,Michael,Brouwer,Brouwer,,13,323,Sparta Rotterdam,SPA,1,GK,d,Uitgevallen met een blessure,797,0,0,0,23,0,0,0,0,0,38,0,16,45,0.3
 411,515847,Pascal,Kuiper,Kuiper,,13,323,Sparta Rotterdam,SPA,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
 412,107645,Filip,Bednarek,Bednarek,,13,323,Sparta Rotterdam,SPA,1,GK,a,,372,0,0,0,8,0,0,0,0,0,11,0,10,43,0.8
-413,609883,Marvin,Young,Young,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,1061,2,2,0,29,0,0,0,1,0,0,2,31,55,10.4
+413,609883,Marvin,Young,Young,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,1061,2,2,0,29,0,0,0,1,0,0,2,31,55,10.3
 414,498217,Teo,Quintero,Quintero,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,248,0,0,0,8,0,0,0,0,0,0,0,8,47,0.4
 415,550453,Mike,Kleijn,Kleijn,,13,323,Sparta Rotterdam,SPA,2,DEF,u,Verhuurd aan FC Volendam,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 416,222693,Boyd,Reith,Reith,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,18,0,0,0,1,0,0,0,0,0,0,0,1,42,0.1
 417,85352,Bruno,Martins Indi,Martins Indi,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,894,0,0,0,25,0,0,0,2,0,0,0,10,44,1.8
 418,166377,Bas,Kuipers,Kuipers,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,1080,1,3,0,29,0,0,0,2,0,0,4,29,50,2.0
-419,630606,Nick,Verschuren,Verschuren,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,708,1,0,0,20,0,0,0,0,0,0,4,21,45,3.0
+419,630606,Nick,Verschuren,Verschuren,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,708,1,0,0,20,0,0,0,0,0,0,4,21,45,2.9
 420,587115,Max,de Ligt,De Ligt,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.3
 421,643481,Giannino,Vianello,Vianello,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,3,0,0,0,0,0,0,0,0,0,0,0,1,39,0.3
 422,672642,Lushendry,Martes,Martes,,13,323,Sparta Rotterdam,SPA,2,DEF,a,,1061,2,0,0,28,0,0,0,4,0,0,0,21,45,2.9
@@ -450,19 +450,19 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 188,547098,Emirhan,Demircan,Demircan,,14,905,Telstar,TEL,3,MID,a,,232,0,0,0,5,0,0,0,0,0,0,0,9,43,0.2
 400,664539,Isaiah,Ahmed,Ahmed,,14,905,Telstar,TEL,3,MID,a,,229,0,0,0,5,0,0,0,2,0,0,0,5,44,0.1
 432,482550,Nökkvi,Thórisson,Thórisson,,14,905,Telstar,TEL,4,FWD,a,,684,2,3,3,16,0,0,0,1,1,0,6,39,53,2.1
-434,132100,Ronald,Koeman Jr.,Koeman Jr.,,14,905,Telstar,TEL,1,GK,a,,1080,2,0,1,25,0,1,0,2,0,50,8,63,48,46.4
+434,132100,Ronald,Koeman Jr.,Koeman Jr.,,14,905,Telstar,TEL,1,GK,a,,1080,2,0,1,25,0,1,0,2,0,50,8,63,49,46.4
 435,650550,Finn,Mulder,Mulder,,14,905,Telstar,TEL,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
 436,465180,Daan,Reiziger,Reiziger,,14,905,Telstar,TEL,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2.2
 437,664274,Abdelrafie,Benzzine,Benzzine,,14,905,Telstar,TEL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
-438,179350,Jeff,Hardeveld,Hardeveld,,14,905,Telstar,TEL,2,DEF,a,,541,0,0,1,10,0,0,0,0,0,0,0,17,53,13.8
+438,179350,Jeff,Hardeveld,Hardeveld,,14,905,Telstar,TEL,2,DEF,a,,541,0,0,1,10,0,0,0,0,0,0,0,17,53,13.7
 439,611885,Rojendro,Oudsten,Oudsten,,14,905,Telstar,TEL,2,DEF,a,,178,0,0,0,2,0,0,0,0,0,0,0,7,40,0.2
 440,611882,Mano,Olfers,Olfers,,14,905,Telstar,TEL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
 441,582400,Tyrese,Noslin,Noslin,,14,905,Telstar,TEL,2,DEF,u,Vertrokken naar Barnsley FC,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 442,466381,Nigel,Ogidi Nwankwo,Ogidi Nwankwo,,14,905,Telstar,TEL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.3
 443,593017,Gerald,Alders,Alders,,14,905,Telstar,TEL,2,DEF,d,Blessure,591,0,0,3,12,0,0,0,2,0,0,0,20,45,1.2
-444,607727,Abdelnour,Soualhia,Soualhia,,14,905,Telstar,TEL,2,DEF,a,,1080,3,2,1,25,0,0,0,3,0,0,5,44,45,2.8
+444,607727,Abdelnour,Soualhia,Soualhia,,14,905,Telstar,TEL,2,DEF,a,,1080,3,2,1,25,0,0,0,3,0,0,5,44,45,2.9
 445,134408,Marvin,Peersman,Peersman,,14,905,Telstar,TEL,2,DEF,a,,1037,0,0,1,24,0,0,0,2,0,0,0,17,49,3.2
-446,510779,Tyrone,Owusu,Owusu,,14,905,Telstar,TEL,3,MID,a,,1018,5,2,3,23,0,0,0,1,0,0,7,64,50,3.6
+446,510779,Tyrone,Owusu,Owusu,,14,905,Telstar,TEL,3,MID,a,,1018,5,2,3,23,0,0,0,1,0,0,7,64,50,3.7
 447,564251,Nils,Rossen,Rossen,,14,905,Telstar,TEL,3,MID,a,,1016,0,0,2,24,0,0,0,0,0,0,0,26,53,0.2
 448,698792,Rayyan,Koubini,Koubini,,14,905,Telstar,TEL,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 449,501776,Patrick,Brouwer,Brouwer,,14,905,Telstar,TEL,3,MID,a,,946,3,4,1,23,0,0,0,0,0,0,6,56,59,4.1
@@ -473,23 +473,23 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 481,546398,Rui Jorge,Monteiro Mendes,Rui Mendes,,14,905,Telstar,TEL,3,MID,d,Fitheid,551,1,0,1,10,0,0,0,1,0,0,0,18,50,0.4
 497,550225,Prince,Aning,Aning,,14,905,Telstar,TEL,2,DEF,a,,110,0,0,0,3,0,0,0,0,0,0,0,6,40,0.1
 498,550458,Fabiano,Rust,Rust,,14,905,Telstar,TEL,3,MID,a,,38,0,0,0,1,0,0,0,0,0,0,0,2,43,0.0
-520,498047,Gabi,Caschili,Caschili,,14,905,Telstar,TEL,2,DEF,a,,290,0,1,0,11,0,0,0,0,0,0,0,8,39,0.2
+520,498047,Gabi,Caschili,Caschili,,14,905,Telstar,TEL,2,DEF,a,,290,0,1,0,11,0,0,0,0,0,0,0,8,39,0.3
 549,494962,Sem,Valk,Valk,,14,905,Telstar,TEL,2,DEF,a,,900,1,1,1,21,1,0,0,1,0,0,1,22,45,0.1
 555,622034,Fofin,Turay,Turay,,14,905,Telstar,TEL,3,MID,a,,13,0,0,0,0,0,0,0,0,0,0,0,1,45,0.0
 582,492765,Ar'Jany,Martha,Martha,,14,905,Telstar,TEL,3,MID,a,,364,1,1,0,11,0,0,0,0,0,0,1,20,45,0.0
-86,175948,Stijn,van Gassel,Van Gassel,,15,539,Excelsior,EXC,1,GK,a,,1080,0,1,2,29,1,0,0,0,0,40,1,32,45,13.7
+86,175948,Stijn,van Gassel,Van Gassel,,15,539,Excelsior,EXC,1,GK,a,,1080,0,1,2,29,1,0,0,0,0,40,1,32,45,13.6
 87,441276,Calvin,Raatsie,Raatsie,,15,539,Excelsior,EXC,1,GK,u,Vertrokken naar FC Dordrecht,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 88,678524,Tijmen,Holla,Holla,,15,539,Excelsior,EXC,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
 89,511268,Rick,Meissen,Meissen,,15,539,Excelsior,EXC,2,DEF,a,,1080,1,0,2,29,0,0,0,1,0,0,2,27,45,2.4
 90,546834,Stan,Henderikx,Henderikx,,15,539,Excelsior,EXC,2,DEF,u,Verhuurd aan FC Dordrecht,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
-91,508546,Casper,Widell,Widell,,15,539,Excelsior,EXC,2,DEF,a,,1005,1,0,1,29,0,0,0,0,0,0,0,21,44,4.7
+91,508546,Casper,Widell,Widell,,15,539,Excelsior,EXC,2,DEF,a,,1005,1,0,1,29,0,0,0,0,0,0,0,21,43,4.7
 92,513535,Nolan,Martens,Martens,,15,539,Excelsior,EXC,2,DEF,u,Vertrokken naar De Graafschap,119,0,0,1,1,0,0,0,0,0,0,0,7,40,1.4
 93,664268,Guilliano,Cairo,Cairo,,15,539,Excelsior,EXC,2,DEF,a,,13,0,0,0,1,0,0,0,0,0,0,0,2,40,0.1
-94,463214,Simon,Janssen,Janssen,,15,539,Excelsior,EXC,2,DEF,a,,669,0,3,2,15,0,0,0,1,0,0,3,33,46,8.9
+94,463214,Simon,Janssen,Janssen,,15,539,Excelsior,EXC,2,DEF,a,,669,0,3,2,15,0,0,0,1,0,0,3,33,46,8.7
 95,625950,Kasey,Bos,K. Bos,,15,539,Excelsior,EXC,2,DEF,a,,412,0,0,1,14,0,0,0,0,0,0,0,11,45,0.0
 96,702226,Marlon,van de Wetering,Van de Wetering,,15,539,Excelsior,EXC,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 97,531036,Adam,Carlén,Carlén,,15,539,Excelsior,EXC,3,MID,u,Vertrokken naar SK Artis Brno,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
-98,582592,Irakli,Yegoian,Yegoian,,15,539,Excelsior,EXC,3,MID,a,,1036,3,5,2,27,0,0,0,2,0,0,7,61,63,13.7
+98,582592,Irakli,Yegoian,Yegoian,,15,539,Excelsior,EXC,3,MID,a,,1036,3,5,2,27,0,0,0,2,0,0,7,61,62,13.4
 99,717603,Noa,El Hamdaoui,El Hamdaoui,,15,539,Excelsior,EXC,3,MID,u,Verhuurd aan MVV,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.3
 100,465550,Mathijs,Tielemans,Tielemans,,15,539,Excelsior,EXC,3,MID,u,Vertrokken naar Aalborg BK,0,0,0,0,0,0,0,0,0,0,0,0,0,49,0.0
 101,494959,Noah,Naujoks,Naujoks,,15,539,Excelsior,EXC,3,MID,a,,299,2,0,2,11,0,0,0,0,0,0,1,21,65,4.8
@@ -539,36 +539,36 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 553,492656,Jonas,Jensen-Abbew,Jensen-Abbew,,16,701,ADO Den Haag,ADO,2,DEF,a,,506,0,0,0,11,0,0,0,0,0,0,0,10,45,0.0
 586,644573,Sem,Eekhout,Eekhout,,16,701,ADO Den Haag,ADO,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.0
 600,234548,Álex,Pozo,Pozo,,16,701,ADO Den Haag,ADO,3,MID,i,Blessure,74,0,0,0,2,0,0,0,1,0,0,0,2,55,0.0
-64,577122,Billy,Van Duijl,Van Duijl,,17,314,SC Cambuur,CAM,2,DEF,a,,694,1,2,4,9,0,0,0,0,0,0,5,45,45,2.6
-190,573060,Rafik,El Arguioui,El Arguioui,,17,314,SC Cambuur,CAM,3,MID,a,,973,6,2,3,22,0,0,0,1,0,0,8,68,48,12.1
-363,494964,Thijs,Jansen,Jansen,,17,314,SC Cambuur,CAM,1,GK,a,,990,0,0,3,22,1,0,0,1,0,34,6,36,44,1.3
+64,577122,Billy,Van Duijl,Van Duijl,,17,314,SC Cambuur,CAM,2,DEF,a,,784,1,2,4,14,0,0,0,0,0,0,5,45,45,2.8
+190,573060,Rafik,El Arguioui,El Arguioui,,17,314,SC Cambuur,CAM,3,MID,a,,1061,6,3,3,26,0,0,0,2,0,0,8,72,49,12.5
+363,494964,Thijs,Jansen,Jansen,,17,314,SC Cambuur,CAM,1,GK,a,,1080,0,0,3,27,1,0,0,1,0,35,6,36,44,1.3
 364,700278,Matthijs,Kalisvaart,Kalisvaart,,17,314,SC Cambuur,CAM,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
 365,554604,Jasper,Meijster,Meijster,,17,314,SC Cambuur,CAM,1,GK,i,Handblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.1
 366,512129,Jamal,Amofa,Amofa,,17,314,SC Cambuur,CAM,2,DEF,i,Blessure,463,0,1,0,17,0,0,0,0,0,0,0,9,47,0.2
-367,578361,Ismaël,Baouf,Baouf,,17,314,SC Cambuur,CAM,2,DEF,a,,941,2,0,3,20,0,0,0,1,0,0,4,40,48,1.8
+367,578361,Ismaël,Baouf,Baouf,,17,314,SC Cambuur,CAM,2,DEF,a,,1031,2,0,3,25,0,0,0,1,0,0,4,40,48,1.9
 368,512318,Jorn,Berkhout,Berkhout,,17,314,SC Cambuur,CAM,2,DEF,a,,107,0,0,0,4,0,0,0,0,0,0,0,3,44,0.0
 369,491412,Rik,Mulders,Mulders,,17,314,SC Cambuur,CAM,2,DEF,a,,181,0,0,1,6,0,0,0,1,0,0,0,9,43,0.1
 370,669176,Jelte,Priem,Priem,,17,314,SC Cambuur,CAM,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.2
 371,624929,Lucas,Jetten,Jetten,,17,314,SC Cambuur,CAM,2,DEF,a,,348,0,0,0,16,0,0,0,1,0,0,0,3,39,4.4
-372,675342,Morgan,Costarelli,Costarelli,,17,314,SC Cambuur,CAM,2,DEF,a,,764,0,2,4,10,0,0,0,1,0,0,4,40,45,0.8
+372,675342,Morgan,Costarelli,Costarelli,,17,314,SC Cambuur,CAM,2,DEF,a,,836,0,2,4,13,0,0,0,2,0,0,4,40,45,0.8
 373,671098,Ryan,van de Pavert,Van de Pavert,,17,314,SC Cambuur,CAM,3,MID,u,Teruggekeerd naar Jong Ajax,45,0,0,0,3,0,0,0,0,0,0,0,1,44,0.3
-374,692988,Fabian,Kvam,Kvam,,17,314,SC Cambuur,CAM,3,MID,a,,342,1,0,2,5,0,0,0,0,0,0,1,18,48,0.0
-375,669397,Ethan,Apkakou,Apkakou,,17,314,SC Cambuur,CAM,3,MID,a,,144,0,0,0,2,0,0,0,0,0,0,0,5,47,0.0
+374,692988,Fabian,Kvam,Kvam,,17,314,SC Cambuur,CAM,3,MID,a,,343,1,0,2,6,0,0,0,0,0,0,1,19,48,0.0
+375,669397,Ethan,Apkakou,Apkakou,,17,314,SC Cambuur,CAM,3,MID,a,,161,0,0,0,4,0,0,0,0,0,0,0,6,47,0.0
 376,694232,Daan,Visser,Visser,,17,314,SC Cambuur,CAM,3,MID,a,,12,0,0,0,0,0,0,0,0,0,0,0,1,44,0.0
 377,724919,Danyello,Look,Look,,17,314,SC Cambuur,CAM,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0.0
-378,429439,Nicky,Souren,Souren,,17,314,SC Cambuur,CAM,3,MID,a,,977,0,1,3,22,0,0,0,3,0,0,2,27,49,0.2
+378,429439,Nicky,Souren,Souren,,17,314,SC Cambuur,CAM,3,MID,a,,1067,1,1,3,27,0,0,0,3,0,0,2,34,49,0.2
 379,703219,Wiebe,van der Heide,Van der Heide,,17,314,SC Cambuur,CAM,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0.3
-380,632961,Iwan,Henstra,Henstra,,17,314,SC Cambuur,CAM,3,MID,a,,410,1,0,0,17,0,0,0,1,0,0,0,17,48,0.2
+380,632961,Iwan,Henstra,Henstra,,17,314,SC Cambuur,CAM,3,MID,a,,427,2,0,0,19,0,0,0,1,0,0,0,23,48,0.2
 381,625192,Wiebe,Kooistra,Kooistra,,17,314,SC Cambuur,CAM,3,MID,a,,197,0,2,0,8,0,0,0,1,0,0,0,12,49,0.0
-382,545713,Ilyès,Hamache,Hamache,,17,314,SC Cambuur,CAM,3,MID,a,,825,5,3,4,15,0,0,0,0,0,0,4,62,54,1.9
-383,576753,Skye,Vink,Vink,,17,314,SC Cambuur,CAM,4,FWD,a,,258,0,0,0,13,0,0,0,0,0,0,0,10,46,0.9
-384,513579,Nicolas,Binder,Binder,,17,314,SC Cambuur,CAM,4,FWD,a,,485,5,2,3,6,0,0,0,1,0,0,9,48,51,2.2
-519,624906,Sami,Bouhoudane,Bouhoudane,,17,314,SC Cambuur,CAM,4,FWD,a,,426,0,2,0,13,0,0,0,1,0,0,0,17,49,0.5
+382,545713,Ilyès,Hamache,Hamache,,17,314,SC Cambuur,CAM,3,MID,a,,915,5,3,4,20,0,0,0,0,0,0,4,64,54,1.9
+383,576753,Skye,Vink,Vink,,17,314,SC Cambuur,CAM,4,FWD,a,,259,0,0,0,14,0,0,0,0,0,0,0,11,46,0.9
+384,513579,Nicolas,Binder,Binder,,17,314,SC Cambuur,CAM,4,FWD,a,,557,5,2,3,9,0,0,0,1,0,0,9,50,51,2.2
+519,624906,Sami,Bouhoudane,Bouhoudane,,17,314,SC Cambuur,CAM,4,FWD,a,,458,0,2,0,15,0,0,0,1,0,0,0,18,49,0.5
 521,738028,Wessel,van der Goot,Van der Goot,,17,314,SC Cambuur,CAM,3,MID,a,,17,0,0,0,1,0,0,0,0,0,0,0,2,44,0.0
-542,437878,Devid Eugene,Bouah,Bouah,,17,314,SC Cambuur,CAM,2,DEF,a,,482,0,1,3,5,0,0,0,2,1,0,0,22,45,0.0
-548,177890,Mathieu,Maertens,Maertens,,17,314,SC Cambuur,CAM,3,MID,a,,437,0,0,5,3,0,0,0,1,0,0,0,17,50,0.0
+542,437878,Devid Eugene,Bouah,Bouah,,17,314,SC Cambuur,CAM,2,DEF,a,,572,0,1,3,10,0,0,0,2,1,0,0,22,45,0.0
+548,177890,Mathieu,Maertens,Maertens,,17,314,SC Cambuur,CAM,3,MID,a,,494,0,0,5,6,0,0,0,2,0,0,0,17,50,0.0
 568,247708,Luca,Plogmann,Plogmann,,17,314,SC Cambuur,CAM,1,GK,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
-579,488357,Jason,Çeka,Ceka,,17,314,SC Cambuur,CAM,3,MID,a,,290,2,1,1,3,0,0,0,1,0,0,0,20,50,0.0
+579,488357,Jason,Çeka,Ceka,,17,314,SC Cambuur,CAM,3,MID,a,,378,2,1,1,7,0,0,0,1,0,0,0,22,50,0.0
 581,549945,Wout,Asselman,Asselman,,17,314,SC Cambuur,CAM,3,MID,d,Blessure,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 607,748139,Damian,Westerhof,Westerhof,,17,314,SC Cambuur,CAM,3,MID,i,Schouderblessure,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.0
 59,538037,Maxim,Dekker,Dekker,,18,207,Willem II,WIL,2,DEF,a,,710,0,0,0,24,0,0,0,1,0,0,0,7,44,0.1
@@ -582,7 +582,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 457,540409,Finn,Stam,Stam,,18,207,Willem II,WIL,2,DEF,a,,1069,0,0,0,39,0,0,0,2,0,0,0,6,43,0.8
 458,219064,Alessandro,Ciranni,Ciranni,,18,207,Willem II,WIL,2,DEF,a,,247,1,0,0,13,0,0,0,0,0,0,0,10,41,0.1
 459,492954,Amine,Et-Taïbi,Et-Taïbi,,18,207,Willem II,WIL,2,DEF,a,,66,0,0,0,5,0,0,0,0,0,0,0,3,40,0.2
-460,223841,Justin,Hoogma,Hoogma,,18,207,Willem II,WIL,2,DEF,i,Knieblessure,225,0,0,0,8,0,0,0,0,0,0,0,1,44,0.2
+460,223841,Justin,Hoogma,Hoogma,,18,207,Willem II,WIL,2,DEF,i,Knieblessure,225,0,0,0,8,0,0,0,0,0,0,0,1,43,0.2
 461,664432,Jens,Mathijsen,Mathijsen,,18,207,Willem II,WIL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0.7
 462,730412,Kayen,Scheepens,Scheepens,,18,207,Willem II,WIL,2,DEF,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0.2
 463,489651,Nathan,Tjoe-A-On,Tjoe-A-On,,18,207,Willem II,WIL,2,DEF,a,,1021,0,2,1,38,0,0,0,2,0,0,1,17,45,0.4
@@ -594,7 +594,7 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 469,614294,Lasse,Abildgaard,Abildgaard,,18,207,Willem II,WIL,3,MID,u,Verhuurd aan FC Eindhoven,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
 470,649758,Armin,Culum,Culum,,18,207,Willem II,WIL,3,MID,a,,45,0,0,0,3,0,0,0,0,0,0,0,1,50,0.0
 471,550456,Jaden,Slory,Slory,,18,207,Willem II,WIL,3,MID,a,,805,1,0,0,26,0,0,0,2,0,0,1,24,58,0.4
-472,533633,Devin,Haen,Haen,,18,207,Willem II,WIL,4,FWD,a,,1080,3,1,0,40,0,0,0,0,0,0,1,40,55,4.7
+472,533633,Devin,Haen,Haen,,18,207,Willem II,WIL,4,FWD,a,,1080,3,1,0,40,0,0,0,0,0,0,1,40,55,4.6
 473,174454,Thomas,Verheydt,Verheydt,,18,207,Willem II,WIL,4,FWD,a,,146,1,0,0,5,0,0,0,1,0,0,0,12,49,0.5
 474,703876,Siegert,Baartmans,Baartmans,,18,207,Willem II,WIL,4,FWD,u,Verhuurd aan FC Eindhoven,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0.1
 499,492980,Mats,Lemmens,Lemmens,,18,207,Willem II,WIL,2,DEF,a,,315,0,0,0,15,0,0,0,0,0,0,0,6,44,0.0
@@ -604,5 +604,5 @@ player_id,opta_id,first_name,second_name,web_name,known_name,team_id,team_opta_i
 536,748271,Divano,Iglesias,Iglesias,,18,207,Willem II,WIL,3,MID,a,,1,0,0,0,0,0,0,0,0,0,0,0,1,44,0.0
 552,111285,Tonny,Vilhena,Vilhena,,18,207,Willem II,WIL,3,MID,a,,502,1,0,0,15,0,0,0,1,0,0,0,18,55,0.0
 560,662216,Thijs,Muller,Muller,,18,207,Willem II,WIL,3,MID,a,,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0.0
-570,465548,Maxime,Delanghe,Delanghe,,18,207,Willem II,WIL,1,GK,a,,720,0,0,0,24,0,0,0,0,0,27,0,14,44,0.0
+570,465548,Maxime,Delanghe,Delanghe,,18,207,Willem II,WIL,1,GK,a,,720,0,0,0,24,0,0,0,0,0,27,0,14,44,0.1
 577,596047,Chido,Obi,Obi,,18,207,Willem II,WIL,4,FWD,a,,48,0,0,0,4,0,0,0,1,0,0,0,4,51,0.3

@@ -10,3 +10,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 77,81,9,2026-10-18T12:30:00Z,False,17,SC Cambuur,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,47,31,0,0,0
 77,86,10,2026-10-25T19:00:00Z,True,4,FC Twente,0,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,47,30,0,1,-1
 77,91,11,2026-10-31T20:00:00Z,False,1,Ajax,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,47,30,0,0,0
+77,105,12,2026-11-08T15:45:00Z,True,3,FC Groningen,4,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,47,29,0,1,-1
