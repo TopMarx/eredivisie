@@ -120,14 +120,25 @@ gw,11,8,190,573060,Rafik El Arguioui,MID,13,False
 gw,11,9,446,510779,Tyrone Owusu,MID,12,False
 gw,11,10,165,120202,Wout Weghorst,FWD,20,False
 gw,11,11,432,482550,Nökkvi Thórisson,FWD,15,False
-season,,1,434,132100,Ronald Koeman Jr.,GK,62,False
-season,,2,210,573121,Givairo Read,DEF,61,False
-season,,3,340,250676,Sergiño Dest,DEF,58,False
-season,,4,63,646065,Mateo Chávez,DEF,49,False
-season,,5,275,486465,Søren Tengstedt,MID,81,True
-season,,6,401,515937,Jacob Trenskow,MID,72,False
-season,,7,234,597036,Gjivai Zechiël,MID,71,False
-season,,8,348,231765,Guus Til,MID,70,False
-season,,9,190,573060,Rafik El Arguioui,MID,68,False
-season,,10,129,597363,Thom van Bergen,FWD,70,False
-season,,11,130,434030,Brynjólfur Willumsson,FWD,66,False
+gw,12,1,605,72162,Jasper Cillessen,GK,6,False
+gw,12,2,506,184508,Hidde ter Avest,DEF,10,False
+gw,12,3,266,492770,Julius Dirksen,DEF,9,False
+gw,12,4,444,607727,Abdelnour Soualhia,DEF,9,False
+gw,12,5,406,490245,Ringo Meerveld,MID,19,True
+gw,12,6,360,463414,Sven Mijnans,MID,19,False
+gw,12,7,501,62399,Dusan Tadić,MID,15,False
+gw,12,8,449,501776,Patrick Brouwer,MID,13,False
+gw,12,9,401,515937,Jacob Trenskow,MID,13,False
+gw,12,10,83,563877,Mexx Meerdink,FWD,14,False
+gw,12,11,240,547218,Nacho Ferri,FWD,13,False
+season,,1,434,132100,Ronald Koeman Jr.,GK,63,False
+season,,2,210,573121,Givairo Read,DEF,64,False
+season,,3,340,250676,Sergiño Dest,DEF,59,False
+season,,4,63,646065,Mateo Chávez,DEF,56,False
+season,,5,275,486465,Søren Tengstedt,MID,89,True
+season,,6,401,515937,Jacob Trenskow,MID,85,False
+season,,7,360,463414,Sven Mijnans,MID,75,False
+season,,8,224,581136,Anis Hadj Moussa,MID,75,False
+season,,9,234,597036,Gjivai Zechiël,MID,73,False
+season,,10,129,597363,Thom van Bergen,FWD,81,False
+season,,11,130,434030,Brynjólfur Willumsson,FWD,72,False
