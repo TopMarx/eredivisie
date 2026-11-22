@@ -11,3 +11,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 370,85,10,2026-10-24T16:45:00Z,False,18,Willem II,1,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,139,4,2,2
 370,94,11,2026-10-31T20:00:00Z,True,8,Go Ahead Eagles,4,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,140,5,4,1
 370,104,12,2026-11-08T15:45:00Z,True,11,PSV,2,5,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,139,1,1,0
+370,112,13,2026-11-21T17:45:00Z,False,5,FC Utrecht,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,39,152,13,1,12
