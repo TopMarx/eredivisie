@@ -5,3 +5,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 600,83,10,2026-10-24T19:00:00Z,True,12,sc Heerenveen,2,3,False,9,0,0,0,0,0,0,0,0,0,0,0,1,55,0,0,0,0
 600,98,11,2026-11-01T11:15:00Z,False,10,PEC Zwolle,1,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0
 600,101,12,2026-11-07T17:45:00Z,True,13,Sparta Rotterdam,3,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0
+600,109,13,2026-11-22T13:30:00Z,False,1,Ajax,3,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 114,
-      "code": 2638996,
-      "team_h": 8,
-      "team_h_score": null,
-      "team_a": 7,
-      "team_a_score": null,
-      "event": 13,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-11-22T15:45:00Z",
-      "event_name": "Speelronde 13",
-      "is_home": false
-    },
-    {
       "id": 122,
       "code": 2639004,
       "team_h": 7,
@@ -679,6 +664,35 @@
       "selected": 586,
       "transfers_in": 46,
       "transfers_out": 5
+    },
+    {
+      "element": 244,
+      "fixture": 114,
+      "opponent_team": 8,
+      "total_points": 7,
+      "was_home": false,
+      "kickoff_time": "2026-11-22T15:45:00Z",
+      "team_h_score": 0,
+      "team_a_score": 1,
+      "round": 13,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 1,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "bonus": 1,
+      "value": 44,
+      "transfers_balance": 19,
+      "selected": 602,
+      "transfers_in": 29,
+      "transfers_out": 10
     }
   ],
   "history_past": [

@@ -11,3 +11,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 249,87,10,2026-10-25T11:15:00Z,True,15,Excelsior,1,0,False,85,0,0,1,0,0,0,0,0,0,0,0,3,55,302,10,17,-7
 249,92,11,2026-10-31T15:30:00Z,False,6,Feyenoord,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,286,4,20,-16
 249,103,12,2026-11-07T15:30:00Z,True,14,Telstar,2,2,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,258,1,31,-30
+249,114,13,2026-11-22T15:45:00Z,False,8,Go Ahead Eagles,0,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,55,231,0,24,-24
