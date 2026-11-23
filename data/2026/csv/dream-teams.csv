@@ -131,14 +131,25 @@ gw,12,8,449,501776,Patrick Brouwer,MID,13,False
 gw,12,9,401,515937,Jacob Trenskow,MID,13,False
 gw,12,10,83,563877,Mexx Meerdink,FWD,14,False
 gw,12,11,240,547218,Nacho Ferri,FWD,13,False
-season,,1,434,132100,Ronald Koeman Jr.,GK,63,False
-season,,2,210,573121,Givairo Read,DEF,64,False
-season,,3,340,250676,Sergiño Dest,DEF,59,False
-season,,4,63,646065,Mateo Chávez,DEF,56,False
-season,,5,275,486465,Søren Tengstedt,MID,89,True
-season,,6,401,515937,Jacob Trenskow,MID,85,False
-season,,7,360,463414,Sven Mijnans,MID,75,False
-season,,8,224,581136,Anis Hadj Moussa,MID,75,False
-season,,9,234,597036,Gjivai Zechiël,MID,73,False
-season,,10,129,597363,Thom van Bergen,FWD,81,False
-season,,11,130,434030,Brynjólfur Willumsson,FWD,72,False
+gw,13,1,242,88276,Luuk Koopmans,GK,11,False
+gw,13,2,63,646065,Mateo Chávez,DEF,17,False
+gw,13,3,26,477625,Lucas Rosa,DEF,10,False
+gw,13,4,210,573121,Givairo Read,DEF,9,False
+gw,13,5,38,109065,Davy Klaassen,MID,19,True
+gw,13,6,347,577717,Ruben van Bommel,MID,17,False
+gw,13,7,325,470845,Dylan Mbayo,MID,15,False
+gw,13,8,71,550228,Ro-Zangelo Daal,MID,15,False
+gw,13,9,382,545713,Ilyès Hamache,MID,10,False
+gw,13,10,529,577318,Mario Domínguez,FWD,12,False
+gw,13,11,410,222699,Dylan Vente,FWD,12,False
+season,,1,434,132100,Ronald Koeman Jr.,GK,64,False
+season,,2,63,646065,Mateo Chávez,DEF,73,False
+season,,3,210,573121,Givairo Read,DEF,73,False
+season,,4,340,250676,Sergiño Dest,DEF,60,False
+season,,5,275,486465,Søren Tengstedt,MID,91,True
+season,,6,401,515937,Jacob Trenskow,MID,90,False
+season,,7,71,550228,Ro-Zangelo Daal,MID,80,False
+season,,8,360,463414,Sven Mijnans,MID,80,False
+season,,9,190,573060,Rafik El Arguioui,MID,77,False
+season,,10,129,597363,Thom van Bergen,FWD,87,False
+season,,11,130,434030,Brynjólfur Willumsson,FWD,74,False
