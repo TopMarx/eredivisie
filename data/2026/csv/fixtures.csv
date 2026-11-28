@@ -116,7 +116,7 @@ fixture_id,fixture_opta_id,gameweek,team_h_id,team_h_opta_id,team_h_name,team_h_
 109,2638991,13,1,215,Ajax,AJA,16,701,ADO Den Haag,ADO,3,0,2026-11-22T13:30:00Z,True,True,,
 116,2638998,13,13,323,Sparta Rotterdam,SPA,2,313,AZ,AZ,1,5,2026-11-22T13:30:00Z,True,True,,
 114,2638996,13,8,734,Go Ahead Eagles,GAE,7,316,Fortuna Sittard,FOR,0,1,2026-11-22T15:45:00Z,True,True,,
-120,2639002,14,3,425,FC Groningen,GRO,18,207,Willem II,WIL,,,2026-11-27T19:00:00Z,False,False,,
+120,2639002,14,3,425,FC Groningen,GRO,18,207,Willem II,WIL,1,1,2026-11-27T19:00:00Z,False,True,,
 119,2639001,14,15,539,Excelsior,EXC,14,905,Telstar,TEL,,,2026-11-28T15:30:00Z,False,False,,
 125,2639007,14,11,204,PSV,PSV,8,734,Go Ahead Eagles,GAE,,,2026-11-28T17:45:00Z,False,False,,
 126,2639008,14,17,314,SC Cambuur,CAM,13,323,Sparta Rotterdam,SPA,,,2026-11-28T20:00:00Z,False,False,,

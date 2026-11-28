@@ -12,3 +12,4 @@ player_id,fixture_id,gameweek,kickoff_time,was_home,opponent_team_id,opponent_te
 122,97,11,2026-11-01T15:45:00Z,True,13,Sparta Rotterdam,2,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,47,0,1,-1
 122,105,12,2026-11-08T15:45:00Z,False,2,AZ,4,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,46,0,1,-1
 122,110,13,2026-11-21T20:00:00Z,True,12,sc Heerenveen,1,3,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,44,0,2,-2
+122,120,14,2026-11-27T19:00:00Z,True,18,Willem II,1,1,False,0,0,0,0,0,0,0,0,0,0,0,0,0,44,42,0,2,-2
